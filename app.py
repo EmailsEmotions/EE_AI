@@ -21,11 +21,15 @@ def home():
 def formal_count():
     bekonez = {'formal': 0, 'informal': 0}
     data = request.get_data(as_text=True)
+    max = 1
     for word in data.split():
         for key in bekonez:
             if word == key:
                 bekonez[key] += 1
-
+            if(bekonez[key] > max):
+                max=bekonez[key]
+    for key in bekonez:
+        bekonez[key]/=max
     return jsonify(bekonez)
 
 
@@ -33,9 +37,13 @@ def formal_count():
 def emotions_count():
     emotions = {'happy': 0, 'sad': 0, 'fear': 0, 'angry': 0, 'surprise': 0, }
     data = request.get_data(as_text=True)
+    max = 1
     for word in data.split():
         for key in emotions:
             if word == key:
                 emotions[key] += 1
-
+            if(emotions[key] > max):
+                max=emotions[key]
+    for key in emotions:
+        emotions[key]/=max
     return jsonify(emotions)
