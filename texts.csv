@@ -1,0 +1,1001 @@
+﻿id;text;formal;happy;sad;fear;angry;surprise
+1;"W załączeniu pismo od dyrekcji w sprawie dni wolnych od pracy w 2021 r (i jeden dzień już podany na 2022). Pozdrawiam, Jan Kowalski";2.00;0.00;1.00;0.00;0.00;0.00
+2;"Po powrocie do pracy proszę o przesłanie do mnie mailem propozycji planu urlopu na rok 2021. Pozdrawiam, Jan Kowalski ";0.00;1.00;0.00;0.00;0.00;1.00
+3;"Dzień dobry. Zgodnie z ustaleniami telefonicznymi przesyłam skan zaświadczenia. Pozdrawiam, Jan Kowalski";2.00;1.00;0.00;0.00;0.00;0.00
+4;"Hej przesyłam tabelkę z prośbą o wypełnienie jest potrzebna dla Andrzejowi do statystyki, chodzi o rok 2020, jak wypełnicie możecie mi odesłać a ja zrobię z tego wspólną i wrzucę do wspólnego folderu. Michał";0.00;0.00;0.00;0.00;0.00;0.00
+5;"W okresie od 02.07.2021 do 17.07.2021 przebywam na urlopie wypoczynkowym. W ważnych sprawach proszę kontaktować się na teams i oznaczyć wiadomość jako ważną. Z wyrazami szacunku, JK.";2.00;0.00;0.00;0.00;0.00;0.00
+6;"Dzień dobry, przesyłam mój plan zajęć wraz z nowymi godzinami pracy. Poniedziałek 17-22, Wtorek 8-10, 17-22, Piątek 8-16. Z wyrazami szacunku, Jan Kowalski.";1.00;0.00;2.00;0.50;0.50;2.00
+7;"Proszę o dopisanie osób z listy do osób rozwiązujących zagadnienia w projekcie ABC i tylko w nim. Pozdrawiam, JK.";1.00;0.25;0.00;0.75;0.50;0.25
+8;"Życzę Wam pięknych i ciepłych Świąt Bożego Narodzenia, wypełnionych szczęściem i miłością, bez pośpiechu, zmartwień i trosk, w zdrowiu przede wszystkim, z troską o siebie samych i najbliższych. Wasz - Jan Kowalski. ";1.00;1.00;1.00;0.50;0.00;1.00
+9;"Dzień dobry, w załączeniu przesyłam PIT-11. Uprzejma prośba o potwierdzenie otrzymania dokumentu. Łączę pozdrowienia, Jan Kowalski.";1.50;0.00;0.00;0.50;0.50;1.00
+10;"Cześć, Dzisiaj wdrożyłem najnowszą produkcyjną wersję web serwisu do obsługi portalu ABC. Parametry dostępowe pozostają bez zmian. Pozdrawiam, JK.";0.00;1.00;1.00;0.00;1.00;2.00
+11;"Dzień dobry, System został wyposażony w nowe wyszukiwanie zaawansowane, które opracowali nasi Panowie. Myślę, że jest dość intuicyjne. Jeśli potrzeba przeszkolenia/krótkiej prezentacji, proszę o sygnał do CD lub AB. Pozdrawiam, Marek. ";2.00;0.00;0.00;0.00;0.00;0.00
+12;"Dzień dobry, mam problem z weryfikacją użytkownika xxxx@xxxx.pl Z góry dziękuję za pomoc. Pozdrawiam, Jan Kowalski";2.00;0.00;0.00;0.00;0.00;0.00
+13;"Dzień dobry, nie mogę uzyskac dostępu do poczty ze starej domeny, a potrzebuje potwierdzenia ważnych dokumentów. To nie pierwszy problem tego typu! Proszę o pomoc.";1.00;0.00;2.00;1.00;0.00;1.00
+14;"Panie Piotrze, dzisiaj umowa jest już widoczna w systemie. Czy jeszcze możemy w czymś pomóc? JK";0.00;1.00;0.00;0.00;0.00;1.00
+15;"Dzień dobry, zbieram wszystkie formularze być może jutro wyślę, będę miała ich aż sześć. Pozdrawiam, AB";0.00;0.00;0.00;0.00;0.00;1.00
+16;"Wydaje mi się że zmieniłem adres zgodnie z pana sugestią - w tej chwili adres kończy się słowem ""conference"". Rozumiem że takiego linka mogę już rozesłać do uczestników i jeśli tylko nikt inny nie użyje takiej samej nazwy link się już nie zmieni?";0.00;1.50;1.50;0.50;1.00;1.00
+17;"Panie Grzegorzu, Panie Janie,czy sprawa będzie miała kontynuację w najbliższym czasie? AB";1.00;2.00;0.00;2.00;1.00;2.00
+18;Faktycznie tak jest i opcja zmiany hasła jest dostępna. Tylko przesłana instrukcja sugeruje wprost zalogowanie się na portal.;1.33;0.33;0.33;0.00;0.67;0.33
+19;W ubieglym tygodniu raz zadzialało. Teraz znowu to samo. Załączam zrzut ekranu kiedy sie wysypuje. JK;0.00;0.50;0.50;0.50;0.50;1.00
+20;Dzień dobry. Ta funkcja została przeniesiona do programu alfa. Proszę uruchomić ten program i w nim zatwierdzić publikacje.;1.00;0.00;0.00;0.00;0.00;0.00
+21;"Dzień dobry, bardzo, bardzo, bardzo dziękuję. Wszystko jest już w jak najlepszym porządku.Pozdrawiam, Ania.";0.50;1.50;1.00;0.00;0.50;1.50
+22;"W którym momencie pojawia się ten komunikat: podczas uruchamiania programu, czy podczas uruchamiania terminala?Czy próbował Pan usunąć katalog, aby wszystkie pliki pobrały się na nowo?";2.00;1.00;0.00;2.00;1.00;1.00
+23;"Dzień dobry Panie Piotrze, dopiero wróciłam z delegacji, proszę o telefon dzisiaj po godz. 12, najpierw omówmy przez telefon sprawę. Podaję nr telefonu: XXX XXX XXX. Pozdrawiam serdecznie";2.00;0.00;0.00;0.00;0.00;0.00
+24;"Ja też czasem tego doświadczam. Nauczyłam się sobie z tym radzić. Klikam cofnij do poprzedniej strony w przeglądarce, kopiuje tekst (który się zachowuje) i potem wklejam jeszcze raz.";0.00;0.50;0.50;0.50;0.50;0.50
+25;"Proszę o ponowne sprawdzenie, nie udało mi się powtórzyć błędu, w między czasie wgrywana była nowa wersja. Pozdrowienia, AB.";1.00;0.00;1.00;0.00;1.00;1.00
+26;"Portal nadal działa, co Pani rozumie przez 'stara wersja jest już u mnie nieaktywna'? Z wyrazami szacunku, JK.";1.00;0.33;0.33;1.00;0.33;1.00
+27;"Teraz godziny przeliczają się prawidłowo. Dziękuję za pomoc. Miejmy nadzieję, że problem już nie wystąpi.";2.00;1.00;0.00;0.00;0.00;0.00
+28;Jeśli są błędy we wprowadzonych danych to proszę o kontakt w tej sprawie z operatorem Pani działu - celem ich korekty...;1.00;0.00;1.00;0.00;2.00;1.00
+29;Panowie czy będziecie jeszcze coś robić w tym temacie czy można go  nareszcie zamknąć? Ile można to ciągnąć?;0.00;0.00;1.00;0.00;2.00;0.00
+30;"Sprawa się jeszcze wyjaśnia. Okazało się, że problemem w przedłużeniu ważności konta jest inna umowa zlecenie, a nie umowa o pracę. Pozdrawiam, AB.";1.00;0.00;0.00;0.00;0.00;0.00
+31;"Bardzo dziękuję za pomoc. Po raz pierwszy miałam taki problem. W takim razie, to była chyba wina mojej przeglądarki Google Chrome. Firefox odchodzi w zapomnienie. Pozdrawiam, EG";1.00;0.00;2.00;0.00;1.00;1.00
+32;"Przemku, bez Twojej pomocy nie ruszymy dalej. Stoimy w miejscu. Pozdrawiam AB.";1.00;0.00;2.00;1.00;0.00;0.00
+33;"Niestety z powodu dużej ilości pracy musimy wszystkie prace mieć zatwierdzone przez przełożonego. Dał mi znać że jutro propozycja zostanie zgłoszona na spotkaniu zespołu DevOps. Jak to zatwierdzą to zaimplementujemy taką możliwość. Z poważaniem, AB.";2.00;0.50;0.50;1.00;0.50;0.00
+34;"Witam, Bardzo przepraszam, że nie zamknąłem tematu, problem został rozwiązany. Bardzo dziękuję za pomoc, Pozdrawiam ZZ";0.00;1.00;2.00;1.00;0.00;0.00
+35;"Dzień dobry, bardzo dziękuję. Fakturę przekazałam do realizacji. Z poważaniem, AB - główna księgowa.";1.50;0.50;1.00;0.00;0.50;0.50
+36;"Rozumiem, że hasło zostało przekazane na maila Pani Dyrektor!? Z poważaniem, AB.";0.00;0.00;0.00;2.00;2.00;2.00
+37;"Skonsultuję Pana propozycję i napiszę czy taka funkcja się pojawi i jeżeli tak, to kiedy. Ale nie będzie to szybko. Z poważaniem, Jan Kowalski.";0.00;0.00;0.00;1.00;0.00;1.00
+38;"Michał, spójrz proszę w logach, czy nie ma znowu problemu z tą nieszczęsną redundancją…";0.00;0.00;1.00;1.00;1.00;1.00
+39;Powinno już działać poprawnie. Po imporcie dokumentu excel automatycznie wykrywa kodowanie pliku i sie na nie przełącza. Proszę o sprawdzenie ;1.00;1.00;0.00;0.00;0.00;0.00
+40;"Poproszę o dokładny przykład. Kto jest zalogowany, co dokładnie zalogowana osoba wpisuje i w którym miejscu na jakim serwerze lub zrzut ekranu.";0.00;0.00;1.00;0.00;2.00;1.00
+41;"Bardzo dziękuję za informację i próbę pomocy; wczoraj wieczorem wszystko działało sprawnie; a dziś przeniosłam się na stary portal, na całe szczęście istniała alternatywa. Pozdrawiam. Jan Kowalski.";0.50;0.50;0.50;1.50;0.00;0.50
+42;"Jan Kowalski podobno został wczoraj wprowadzony do systemu... Reszta też... Chyba chłopaki nie ogarniają tematu. Pzdr, Jaca.";0.00;0.00;1.00;0.00;1.00;2.00
+43;"Dzień dobry, po nocnej synchronizacji wszystko wygląda ok. Z poważaniem, AB.";1.00;2.00;0.00;0.00;0.00;0.00
+44;"Domena xxx została dodana do konta w panelu (login to xxxxx - dla przypomnienia).Po migracji serwisu proszę o informację, celem przełączenia proxowania na nowy serwer. Z poważaniem, Ania Kowalska.";2.00;0.40;0.00;0.80;0.40;0.60
+45;"Dzień dobry, Proszę opisać na czy ma polegać ta funkcjonalność. Przecież listę użytkowników można wrzucić do Excela i taką listę sprawdzić. JK. ";1.00;0.00;1.00;1.00;2.00;0.00
+46;"Dzień dobry, Dziękuję Panie Marcinie za pomoc. Udało się naprawić temat przekierowań na poziomie serwera z pomocą pana Piotra. W związku z tym na ten moment zamykam temat. Pozdrawiam serdecznie, Jan Kowalski.";2.00;1.50;0.00;1.00;0.50;1.50
+47;"Skorygowałem dane, dodam taką możliwość w zakładce dane użytkownika. Teraz kolej na Maćka. Pozdrowienia, Janek.";0.00;1.00;2.00;0.00;1.00;1.00
+48;Dziękuję za wiadomość. Zaproszenia na szkolenia będą rozesłane pod koniec października / początek listopada. Pozdrawiam;1.00;0.00;2.00;1.00;0.00;2.00
+49;"Krzysiek mówi, że Bilbo mówi, że dostał taką informację mailem:Super, dziękuję serdecznie za pomoc. Przekierowania działają już prawidłowo. Pozdrawiam, JK.";0.00;1.00;0.00;0.00;0.00;0.00
+50;Krzysiek wywołano Cię do odpowiedzi. Prośba o wsparcie. Sama nie dam rady. Marta.;0.33;0.00;1.33;1.33;0.33;1.33
+51;"Prosimy o reakcję. 12 dni mija i nie ma żadnego odzewu. Pozdrawiam, JK";2.00;0.00;0.00;0.00;2.00;0.00
+52;"Panowie, czy jesteście w stanie pomóc w instalacji starego systemu na Linuxie przez WinSCP?I jak z tą wersją wykonywalną? Gdzie jest dostępna najnowsza? Dajcie mi szybką odpowiedź! AB";1.00;0.00;2.00;1.00;0.00;0.00
+53;"A zaproponuj jeszcze, żeby Pan w kalendarzu sprawdził. Bo to jest tak jakby nowa wersja tych raportów. Podobnie jak na zrzucie.";0.00;0.00;0.00;0.00;0.00;0.00
+54;"Proszę zaproponować jakiś termin. Zdzwonili byśmy sie na teamsach. Chciał bym omówić ten problem z Panią. Z poważaniem, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+55;"Już działa, kto i jak powinien zgłaszać - nie wiem. Warto może wypracować jakąś wytyczną w tej sprawie dla zespołów. Ważne aby znalazło się w historii. JK.";0.00;1.00;0.00;1.00;1.00;2.00
+56;"OK, mimo wszystko szukam po omacku...Jakiego systemu może dotyczyć sprawa?";0.00;0.00;1.00;1.00;0.00;1.00
+57;"Dzień dobry, Każdy pracownik formy ma możliwość zapisania się na szkolenia z systemu XXX. Wkrótce otrzyma Pani szczegółowe informacje. Pozdrawiam AB.";1.67;1.00;0.00;0.67;0.00;1.00
+58;"Po uruchomieniu systemu, na stronie startowej, po prawej stronie jest okno: W realizacji, i tam powinna Pani widzieć wszystkie zaczęte zadania. Proszę sprawdzić czy są. Pozdrawiam.";2.00;0.00;0.00;0.00;0.00;0.00
+59;"Bardzo dziękuję za informację. Jednocześnie chciałabym zapytać co mogę zrobić, aby te maile nie trafiały do spamu? Z poważaniem, JK.";1.00;1.00;0.00;1.00;0.00;1.00
+60;"Szanowna Pani, w związku z powyższą wiadomością informuję, iż e-mail z 30 września br. z danymi do logowania również dotarł. Pozdrawiam, JK.";1.50;0.50;0.00;0.50;0.00;0.00
+61;"Wysłałem przypomnienie do P. Aniw celu potwierdzenia, czy zaproponowane rozwiązanie dla Pani wystarczające. W oczekiwaniu na odpowiedź... chyba tu zakwitnę. AB.";0.00;0.00;0.00;0.00;2.00;0.00
+62;"Witam, uprawnienie zostało nadane, po ponownym zalogowaniu do Spraw Pracowniczych link do umów będzie widoczny. Pozdrawiam, AB.";2.00;0.00;0.00;0.00;0.00;0.00
+63;"Dziękujemy za informację. W związku z rozwiązaniem problemu zamykam ten temat. Z wyrazami szacunku, JK.";2.00;0.00;0.00;0.00;0.00;1.00
+64;"Proszę sprawdzić teraz. Jeżeli nadal nie będzie możliwości przesłania danych proszę o kontakt na teamsach. Będę musiał zobaczyć to na konkretnym przykładzie. Pozdrawiam, AB.";2.00;0.00;0.00;1.00;0.00;0.00
+65;"Usunąłem, uruchomiłem, zalogowałem z PINU i - to samo... po raz kolejny. JK.";0.00;0.00;1.33;0.00;1.33;0.67
+66;"A czy w tym nowym Systemie będą mogła zaciągać dane z pliku? Nie widzę teraz takiej opcji. Albo jak znaleźć w nowym systemie konkretnego użytkownika. Lupka mi nic nie daje. Pozdrawiam, AB.";1.50;0.00;1.50;0.50;0.50;0.50
+67;Faktycznie nie ma osoby z podzespołu. Zajmę się tym. Dzięki za info. Pozdrowienia JK.;0.00;0.50;0.00;0.50;0.00;2.00
+68;"Nie. Dyrekcja twierdzi, że to Państwo są w stanie sprawić, że przełożony będzie widział daną osobę tylko z aktualnymi danymi a nie z wszyskimi datami w okresie zatrudnienia (jak to widać na print screenach).";1.00;0.00;1.00;0.50;0.50;1.50
+69;"Czy chce mi Pani powiedzieć, że kilku pracowników odmówiło przeniesienia/przepisania szkoleń do aktualnych zatrudnień?";0.00;1.00;0.00;1.00;0.00;1.00
+70;"Nie udało mi się powtórzyć błędu, loguje się bez problemu. Proszę o ponowną próbę, jeśli problem nadal występuje proszę o załączenie screenów kolejnych wykonywanych kroków. Czy pojawia się jakiś komunikat błędu?";1.00;0.00;1.00;0.00;0.00;0.00
+71;"Proszę o test generowania raportów. Czas oczekiwania na generowanie został wydłużony. Pozdrawiam, JK.";2.00;0.00;0.00;0.00;0.00;0.00
+72;"Panie Jacku, spróbujmy zacząć rozpoznawanie tematu od ekipy XXX. Stąd zmiana kategorii zgłoszenia. Ania.";0.75;0.50;0.75;1.00;0.25;1.00
+73;"To jest trochę co innego jednak. Konfiguracja systemu dla ścieżek serwera obejmuje: PHP, du, aspell, dot, GhostScript i Python. Nie ma tam ""ZIP"" ani ""GZIP"". Dyskusja też z 2008 roku, ale dzięki za ciekawy pomysł. JK.";1.50;0.50;1.50;0.50;1.00;1.00
+74;"Sprawę przekazano do administratorów, aktualnie nie są wymagane z Pani strony żadne dodatkowe kroki.";0.00;0.00;0.00;0.00;0.00;0.00
+75;"Pani Aniu, prosimy o sygnał, gdyby pojawiły się kłopoty w dalszej pracy z wtyczką. Pozdrawiam JK.";0.00;1.00;1.00;0.00;0.00;1.00
+76;"Panie Adamie, jakich jeszcze dalszych kroków wymaga uzyskanie przeze mnie dostępu do systemu? Ania.";0.00;0.00;0.00;0.00;0.00;0.00
+77;"Mam nadzieję, że ta operacja pomoże, Pani dyrektor jutro o godzinie 16 prowadzi spotkanie i będzie problem gdyby nie miała dostępu do poczty oraz MS Teams.";2.00;0.00;0.00;2.00;0.00;0.00
+78;"Dzień dobry. Zgodnie z rozmową telefoniczną, zamykamy temat na ten moment. Sprawa nieaktualna. Z wyrazami szacunku, Ania.";1.00;0.00;0.00;0.00;0.00;0.00
+79;Zgłoszona przez Pana sprawa została przekazana do analizy pod kątem możliwości jej zrealizowania. Pozdrawiam JK.;2.00;0.00;0.00;0.00;0.00;0.00
+80;Dołączyłam Adama skoro Michał go wywołał do współpracy. Pozdrawiam JK.;1.00;0.50;0.00;1.00;0.00;1.50
+81;"Obecnie jesteśmy już po przetargu na oprogramowanie i nie ma w planie kolejnego. Zakup możecie Państwo zrealizować w ramach zakupów z budżetu rocznego. Z wyrazami szacunku, Ania.";2.00;0.00;0.00;0.00;0.00;0.00
+82;"Dzień dobry, Cenniki obowiązują od 1 października więc sprawa też jest pilna. Byłoby super gdyby udało się je wprowadzić jak najszybciej, najpóźniej do przyszłego tygodnia.Pozdrawiam, Ania.";1.00;2.00;0.00;0.00;0.00;0.00
+83;"Adamie, Marcinie - czy macie jakiś inny pomysł jak rozwiązać zgłoszony problem niewystarczającej ilości pamięci dla PHP na serwerze produkcyjnym?";1.00;0.00;0.00;1.00;0.00;0.00
+84;"Ma Pani możliwość wyboru wersji php z poziomu panelu administratora. Było o tym na szkoleniu, ale pewnie Pani nie była wystarczająco skupiona. AB.";1.00;0.00;0.50;0.00;1.50;0.50
+85;"Dziękuję. Czy mogę mieć jeszcze prośbę o aktualizację oprogramowania serwera, bo obecne php 7.0 jest już przestarzałe? Czy można ustawić wyższą wersję? Idelnie php 7.4, ze względu na stabilność.";0.50;0.00;0.00;0.50;0.00;0.50
+86;"Panie Grzegorzu, proszę przesłać prośbę do informatyka z zespołu, który Pana obsługuje informatycznie. Kierownik Zespołu - Jan Kowalski. Pozdrawiam AB.";0.00;0.50;1.00;1.00;0.00;2.00
+87;"Pani sugestie przekazałem do listy zmian zasugerowanych przez pracowników. Zostaną one rozpatrzone przy realizowaniu kolejnych zmian w aplikacji. Z wyrazami szacunku, Adam.";1.50;1.00;0.00;0.00;0.00;0.50
+88;Dziękuję za informację. Wczoraj po kilkugodzinnej walce udało mi się podpisać i wygenerować protokoły. Mam nadzieję że już więcej takich problemów nie będzie bo poziom mojej irytacji jest już poza granicami rozsądku.;0.00;0.00;1.00;0.00;2.00;0.00
+89;"Dzień dobry, poproszę jednak o przepięcie domeny na nowy serwer już teraz. Pozdrawiam, AB.";1.00;1.00;0.00;0.00;0.00;0.00
+90;"Dzień dobry. Sprawdzamy dostępność sali i ekipy obsługi technicznej w tym dniu. Z wyrazami szacunku, Ania.";2.00;0.00;0.00;0.00;0.00;0.00
+91;Stary system nie jest już wspierany - poprawiłem tę funkcję. Ta sama funkcjonalność dostępna jest w nowej wersji i z niej proponuję korzystać.;0.00;0.00;1.00;0.00;1.00;1.00
+92;Otworzyłam na innej  przeglądarce i na razie wszystko widać. Przepraszam za kłopot.;0.00;2.00;0.00;0.00;0.00;2.00
+93;"Proszę spróbować ponownie się zalogować. Link do generacji wniosku powinien być widoczny. Z wyrazami szacunku, Adam.";1.50;0.50;0.00;0.00;0.00;0.00
+94;"Dzień dobry, czekamy na potwierdzenie stanu prac ze strony zespołu XXX. A może sprawa jest już załatwiona? Adam.";0.00;1.00;0.00;0.00;1.00;1.00
+95;"Adamie, sprawdź czy są w widoku do synchronizacji i jaki jest status umów. To bardzo pilne. Ania.";0.00;1.00;0.00;1.00;1.00;0.00
+96;"Dzień dobry, limit na wskazany czas został ponownie zwiększony do poprzednio ustawionego poziomu (2000). Z wyrazami szacunku, Adam.";1.00;0.00;1.00;0.50;0.00;0.50
+97;"Jeszcze trwa dyskusja. Oczywiście napiszę, gdy zaczniemy głosowanie. Myślę, że jeszcze około 20-30 minut. Uprawnionych do głosowania jest 9 osób. Pozdrawiam, Jan Kowalski.";1.00;1.00;1.00;0.00;1.00;1.00
+98;Super. Oznaczam w takim razie zgłoszenie jako zamknięte. W razie potrzeby pisz i będziemy radzić. Adam;0.33;1.00;0.00;0.00;0.00;0.00
+99;Pan dyrektor nie widnieje w bazie danych jako aktualny kierownik dlatego nie można wyszukać go na liście. Ania.;0.00;0.00;0.00;0.00;0.00;0.00
+100;"Chyba Pani coś źle robiła? Skoro Pani utworzyła zespół, to stała się jego właścicielem, więc na pewno powinna mieć do niego dostęp. Widoczność kalendarza zespołu nie przeszkadza w żaden sposób w procesie zakładania terminów. To było na szkoleniu. Z poważaniem, Ania.";0.00;0.00;2.00;0.00;1.00;1.00
+101;"Dzien dobry, dziękuję bardzo za informacje. Poprosiłam Pana Zbyszka zeby zlozyl wniosek o hasło. Pozdrawiam serdecznie, Ania.";0.00;0.00;1.00;1.00;0.00;1.00
+102;"Marcin, czy możesz wyjaśnić co się stało, że zadziałało? Duchy jakieś znowu czy co? JK.";0.00;1.00;0.00;0.00;0.00;2.00
+103;"Dzień dobry, limit dla konta został zwiększony do 500 adresatów na dzień przez zaproponowany czas. Później konto wróci do standardowych ustawień. Z wyrazami szacunku, Adam.";1.00;1.00;0.00;0.00;0.00;0.00
+104;"Dzień dobry, wszystkie hasła zostały wysłane na prawidłowy numer. Proszę o sprawdzenie kompletności według listy. Pozdrawiam, Ania. ";1.00;2.00;0.00;0.00;0.00;0.00
+105;"Jeśli obie Panie wprowadzono do systemu dzisiaj to ich konta pojawią się jutro po synchronizacji. Pozdrawiam, Adam.";1.00;0.00;0.00;0.00;0.00;0.00
+106;"Dzień dobry, Prośba o podanie informacji na której wersji aplikacji Panie pracuje: nowej - interfejs dostępny z przeglądarki czy starej  - aplikacja desktopowa? Z wyrazami szacunku, Michał.";2.00;1.00;0.00;2.00;1.00;0.00
+107;Niestety nie zadziało się tak jak napisałeś. Konto jest nieaktywne. Proszę o PILNĄ reakcję. Pozdrawiam Ania.;0.00;0.00;0.00;0.00;1.00;1.00
+108;"Propozycja rozwiązania błędu ze startem oprogramowania XXX została przekazana innym kanałem. Proszę o informacje o tym, czy propozycja dotarła. Z poważaniem, JK.";1.00;0.00;1.00;0.00;0.00;0.00
+109;"Krzychu, wal do mnie takie sprawy. Przecież ja tu już nie mam nic do dodania ani ukrycia...";0.00;1.00;0.00;0.00;0.00;2.00
+110;"Dzień dobry, w takim razie przekazuję sprawę zespołowi realizującemu te zadania. Poproszę Zespół o udzielenie wparcia. JK.";2.00;1.00;0.00;2.00;1.00;0.00
+111;"Nadal nie widzę wytycznych dla pracowników, dlatego przekazuję sprawę Wam. Proszę o pomoc. Ania.";1.00;0.00;0.00;1.00;0.00;1.00
+112;"Dzień dobry, czy próbował Pan poprosić o pomoc Radę? Wydaje się, że mogą być w tym pomocni. Chociaż może być różnie. Adam.";1.00;0.00;0.00;0.00;1.00;0.00
+113;"Proszę o sprawdzenie dlaczego utworzenie zespołu typu Spotkanie, tworzy zespół prywatny. Prywatne zespoły nie są widoczne w Kalendarzu. Pozdrawiam Adam.";2.00;0.00;1.00;0.00;1.00;0.00
+114;"Panie Michale,gdyby była taka potrzeba, można dodać do tego zgłoszenia ww. Informatyka, żeby wspólnie wyjaśniać ewentualne wątpliwości. Pozdrawiam, Adam.";2.00;0.00;0.00;0.00;0.00;0.00
+115;Problem niestety jest serwerowy. I wynika ze sposobu uruchamiania aplikacji. Pracujemy nad rozwiązanim tego problemu. Zespół Informatyków XXX.;0.00;0.00;1.00;0.00;1.00;0.00
+116;"Niestety jeśli jutro zostaną wprowadzeni do systemu, to konta pojawią się dopiero pojutrze. Tak to działa. Nic nie poradzimy. Ania.";1.00;0.00;1.00;0.00;0.00;0.00
+117;"Dzień dobry, z jakiego modułu jest to wydruk? Proszę o jakiś zrzut ekranu z jego wywołaniem. Niestety, ilość raportów jest przeogromna. Rozumiem, że chodzi o system XXX.  Z wyrazami szacunku, Adam.";2.00;0.00;1.00;0.00;0.00;0.00
+118;"Czy podane przez administratora wskazówki okazały się pomocne i rozwiązały Pani problem? Z poważaniem, Jan Kowalski.";2.00;0.00;0.00;1.00;0.00;0.00
+119;"Dzień dobry, rzeczywiście jest problem z formularzami. Kolega właśnie rozwiązuje problemy, za chwilę będzie działać. Pozdarawiam, Anna Kowalska.";1.00;0.00;1.00;1.00;0.00;1.00
+120;"Dziękuję za informację. Jednak od kwietnia jestem pełnoetatowym pracownikiem. Czy w takim razie moja licencja może zostać zmieniona? To bardzo pilne. Z poważaniem, Jan Kowalski.";2.00;1.00;0.00;0.00;0.00;0.00
+121;"Dzień dobry, Problem został już rozwiązany przez Pana wcześniej, w trakcie spotkania na Teams. Legitymacja, która jest w systemie jest już legitymacją nową. Dziękuję za pomoc, zamykamy zgłoszenie.  Zespół Informatyków XXX.";1.00;1.50;0.50;0.00;0.00;1.00
+122;Minęły niemal 2 tygodnie. Czy coś jeszcze z tym robicie? Czy znowu wszystko stoi? Adam.;0.00;0.00;1.00;0.00;2.00;1.00
+123;Licencja jest roczna i aktualnie ważna do 30.12.2021. Trwają prace związane z zakupem nowej licencji na nowy rok. Pozdrawiam Anna Kowalska.;2.00;0.00;0.00;0.00;0.00;0.00
+124;"No właśnie już dawno powinno być, bo to było od strzała zawsze generowane, a tutaj minęło kilkadziesiąt minut i nic. Trudno mi powiedzieć z czego może wynikać opóźnienie. Spodziewajmy się raczej, że dopiero jutro coś ruszy w temacie. Michał.";0.00;0.00;1.00;0.00;0.00;1.00
+125;"I jeszcze drugie pytanie. Do kiedy możemy liczyć na ten System? Ze względu na prowadzone zajęcia było by słabo gdyby np. z końcem roku licencja wygasła. Pozdrawiam, Adam.";1.00;0.00;0.00;1.00;0.00;0.00
+126;"Krzychu, jak myślisz, kiedy to się pojawi? Tak chociaż plus minus, długo już czekają na to. Adam.";0.00;0.00;0.00;1.00;0.00;2.00
+127;"Nasi informatycy naprawili już ten problem - po restarcie działa wszystko prawidłowo. Jeszcze raz dziękujemy za zgłoszenie i prosimy o informacje, gdyby błąd ponownie się pojawił. Z wyrazami szacunku, Mateusz.";1.00;1.00;0.00;1.00;0.00;2.00
+128;"Generowanie protokołów zostało uruchomione. Jeżeli dalej coś nie będzie działać proszę o informację. Z wyrazami szacunku, Adam Kowalski, administrator systemu XXX.";2.00;1.00;0.00;0.00;0.00;0.00
+129;"Karty powinny już zapisywać się poprawnie. Proszę sprawdzić. W razie problemów proszę podać jaką cześć karty Pani edytowała i który nr karty. Pozdrawian, Jan Kowalski.";1.50;0.00;0.50;1.00;0.50;1.00
+130;"Dzień dobry, Dziękuję za wyjaśnienie. Nie wiem, co widzą użytkownicy u siebie, ale piszą potem niepoprawnie. Pozdrawiam, Adam.";1.00;0.00;0.00;0.00;0.33;0.67
+131;"Krzychu, wierzę Ci, że tak jest. Nie wnikam. Wielu z naszych użytkowników nie jest biegłymi webmasterami i może popełniać nawet proste błędy. Dzięki za czujność. Adam.";0.50;0.50;0.50;0.00;0.00;0.00
+132;Poprawione. Ta sama funkcjonalność dostępna jest po zalogowaniu się do starego systemu. Ania. ;1.67;0.33;0.33;1.33;0.33;1.00
+133;"Już się skontaktowałam, wypełniłam formularz. W przeciągu 48 godzin powinnam mieć aktywny. Zobaczymy czy to zadziała, czy będzie jak ostatnio. Dziękuję za pomoc. Z wyrazami szacunku, Anna.";2.00;1.00;0.00;2.00;1.00;1.00
+134;"Dane wpisane, należy je potwierdzić, co ma uczynić dyrekcja. Pani już nie musi nic robić. Z poważaniem, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+135;"Należy złożyć wniosek z numerem umowy po wymianie o dodatkowe funkcje. Z poważaniem, Jan Kowalski.";2.00;0.50;0.00;0.00;0.50;0.00
+136;"Jeśli nie ma Pani służbowego i nie chce chodzić do biura to jest to konieczne. Nie ma innej rady. Pozdrawiam, Ania.";1.00;0.00;1.00;0.00;0.00;0.00
+137;Przy okazji chciałbym się zapytać jak wygląda procedura zaproszenia na takie spotkanie w Teams osoby Prezesa frmy (uroczyście otwiera serie spotkań jako pierwszy spiker)? Adam.;0.75;0.75;0.00;0.50;0.00;0.25
+138;"Pani Aniu, potrzebuję w zasadzie czegoś w rodzaju wprowadzenia, takiego szkolenia w pigułce. Porozmawiajmy o 11.00 na Teams, tak będzie łatwiej. Dziękuję!";0.75;1.25;0.50;0.25;0.50;1.00
+139;"Hasło do certyfikatu to nie to samo co hasło do poczty, jeśli nie pamięta Pan hasła do certyfikatu to najprościej wygenerować nowy certyfikat na stronie XXXX.XXX.XX i podmienić go.";2.00;0.00;1.00;2.00;1.00;1.00
+140;"Dzień Dobry, Czy coś jeszcze mogę zrobić w związku ze zgłoszonym problemem, bo powinnam już oddać ten protokół a ja go ciągle nie widzę w systemie. Pozdrawiam.";0.00;1.00;2.00;1.00;0.00;2.00
+141;"Proszę Państwa, nie mogę już dłużej czekać na odpowiedź. Sprawa zostanie zgłoszona dyrekcji. Z poważaniem, Jan Kowalski.";2.00;0.00;0.50;0.00;2.00;0.00
+142;"Dzień dobry, według wiedzy, którą obecnie posiadamy nie będzie konieczności generowania nowego podpisu w systemie. Pozdrawiam Jan Kowalski.";1.00;0.50;2.00;0.50;1.50;1.00
+143;"W załączeniu przesyłam listę pracowników z Działu którym kieruję, zainteresowanych dostępem do oprogramowania. Jan Kowalski.";2.00;0.50;0.00;0.00;0.50;0.50
+144;"Na chwilę obecną wszystko działa. Dziękuję bardzo za pomoc. Pozdrawiam, Anna Kowalska.";1.50;1.00;1.00;0.50;0.00;0.50
+145;"Grzesiu, czy to oznacza że wskazane osoby mogą już korzystać zasobów udziału? Pozdrawiam, Anna.";0.00;0.00;0.00;0.00;0.00;1.00
+146;Lokalny ruterek wifi stracił ustawienia i wyresetował się do fabrycznych. Poprawione i chyba na tą chwilę wszystko działa. Jeżeli problem będzie powracał prawdopodobnie trzeba będzie pomyśleć o wymianie tego urządzenia. Michał.;0.00;0.00;1.00;0.00;1.00;0.00
+147;"Po zmianie nazwiska tworzymy konto z nowym nazwiskiem i aliasem do starego, pracownik powinien zgłosić taką potrzebę przez odpowiednie kanały. Z poważaniem, Jan Kowalski.";2.00;0.50;0.50;2.00;1.00;1.00
+148;Z tego co widzę ktoś wpisał ważność konta do 2091r. Niestety zakładamy konta na dwa lata po których można je przedłużyć. Nic nie trwa wiecznie. Adam;0.00;0.00;0.00;0.00;0.00;2.00
+149;"Próbuję się w tym zorientować. Mam konto w aplikacji XXXX. Ściągam oprogramowanie. A jak zdobyć plik licencyjny na serwer licencji na komputery stacjonarne? Pozdrawiam, Jan Kowalski.";0.00;1.00;1.00;1.00;1.00;0.00
+150;"Udzieliłam odpowiedzi, że trwają prace analizujące problem. Jednak proszę nie zostawiać tematu w próżni. Czekamy na odpowiedź od zespołu programistów. Pozdrawiam, Ania.";2.00;1.00;0.00;2.00;0.00;1.00
+151;"Na początek proszę ustalić, który to budynek i co oznacza stwierdzenie ""jednej z sieci"" Podane informacje są bardzo nieprecyzyjne! Z poważaniem, Jan Kowalski";0.00;1.00;0.00;1.00;0.00;1.00
+152;"Panowie ,ciekawy temat do opracowania. Co byśmy mogli zaproponować, żeby najlepiej pasowało do wymagań? Adam.";2.00;0.00;1.00;2.00;0.50;1.00
+153;"Krystian mógłbyś zobaczyć dlaczego ta statystyka działa u Ciebie, a u nas (u mnie i i u Pani Ani) nie? Janek.";1.50;0.50;1.00;1.00;1.50;1.00
+154;"Dzień dobry. Czy Pani drukowała protokoły ze strony xxx.xxx.xx, czy za pomocą programu pobranego na komputer? Z poważaniem, Jan Kowalski";2.00;0.00;1.00;0.00;1.00;1.00
+155;"Pani Aniu,widzę, ze zespół programistów aktywnie pracuje nad sprawą. Liczę, że wkrótce podzielą się z nami efektami prac (albo przynajmniej informacjami o ich przebiegu). Janek.";0.00;0.00;0.00;1.00;0.00;1.00
+156;"Dzień dobry, w imieniu Pani dyr. Magdaleny Nowak proszę o potraktowanie zgłoszenia jako sprawę bardzo pilną. Pozdrawiam, Anna Kowalska.";2.00;0.00;0.00;0.00;0.50;0.00
+157;"Uprawnienia zostały nadane. Po ponownym zalogowaniu do Systeu w menu widoczny będzie link do aplikacji umów. Pozdrawiam, Marcin Nowak.";1.00;1.00;0.00;0.00;0.00;0.00
+158;"Dziękuję. Na dzień dzisiejszy wystarczy. Kolejny kurs będziemy tworzyć już z nową ideą na horyzoncie. Tu pójdziemy na łatwiznę. Pozdrawiam, Asia.";0.00;1.00;0.00;0.00;0.00;0.00
+159;"Pani Aleksandra Nowak ma skrzynkę pracowniczą ważną do 30.09.2021, po zarejestrowaniu nowej umowy w kadrach skrzynka zostanie automatycznie przedłużona.";2.00;0.00;0.00;0.00;1.00;0.00
+160;"Szanowni Państwo, potwierdzam konieczność podpięcia strony pod ustalony adres. Pozdrawiam serdecznie, Katarzyna Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+161;"Z powodów technicznych na razie generacja jest zablokowana. Damy znać kiedy odblokujemy. Pozdrawiam, Ania.";1.00;0.00;0.00;0.00;0.00;0.00
+162;"Panowie, puste pliki, czy też błąd generowania protokołu, co to jest? Proszę o szybką odpowiedź. Magda.";0.00;0.00;1.00;0.00;1.00;2.00
+163;"Dzień dobry, proszę o sprawdzenie czy po zalogowaniu kontem funkcyjnym dyrektora ma Pan dostęp do zasobu. Proszę o informację po sprawdzeniu. Pozdrawiam, Michał.";0.67;0.00;0.67;0.33;0.00;0.00
+164;"Do tej pory korzystałam i wpisywałam dane jeszcze w starym systemie. Ale gdy weszłam już na nowy i spróbowałam wygenerować prorokoły wyskoczył mi taki komunikat ""wystąpił błąd"" i puste pola jak na zdjęciu. Z wyrazami szacunku, Agnieszka Nowak.";1.00;0.00;2.00;0.00;1.00;2.00
+165;"Teoretycznie mogę pobrać protokoły, ale potem nie mogę ich otworzyć, tak jakby były puste, albo coś było z nimi nie tak. Adam.";0.75;0.00;0.75;1.00;0.75;0.75
+166;"Zbyszku, pola liczbowe są polami edytowalnymi. Nie trzeba klikać w strzałki, żeby zwiększyć wartość w polu. Chyba, że źle zrozumiałam istotę problemu. Pozdrawiam, Agnieszka.";0.00;1.00;0.00;1.00;1.00;0.00
+167;"Dzień dobry Pani Aniu, czy byłaby możliwość zmiany terminu szkolenia dla dwóch osób: p. Ewy Nowaki p. Magdaleny Kowalskiej na 19.11? Pozdrawiam Michalina.";1.00;0.00;0.00;0.00;0.00;0.00
+168;"Rozmawiałem z Panią Dyrektor przez Teams. Wszystko jest już wyjaśnione, więc temat zamknięty. Mateusz.";1.00;1.25;0.00;0.00;0.00;0.25
+169;"Mail z prośbą o podanie numeru tel. komórkowego wysłany na xxx@xxxx.xx. Proszę o sprawdzenie czy dotarł. Z poważaniem, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+170;"Programiści, chyba w takim przypadku zamiast 0 powinno się wyświetlić odpowiednia informacja, np. brak danych. Pozostawiam to do rozważenia, pytanie tylko co odpisać użytkownikowi? Michał.";0.00;1.00;1.00;0.00;0.00;0.00
+171;"Dzień dobry, zrobiłem wg Pana wskazówek, jednak nie udało się wygenerować żadnego protokołu. Kiedy to zostanie naprawione?! Pozdrawiam AB.";1.00;0.00;1.00;1.00;2.00;1.00
+172;"Wyrażam zgodę na założenie konta. Uprawnienia na rok, bądź do ustania zatrudnienia, w zależności od tego co następuje pierwsze. Z wyrazami szacunku, Michał.";2.00;0.00;1.00;0.00;1.00;0.00
+173;"Jakieś propozycje? Może Adam się wypowie, czy ścieżka z dostępem do serwera licencji jest możliwa? Grzegorz.";1.00;0.00;0.00;0.00;0.50;0.50
+174;"Akceptuję. Można nadać uprawnienia. Termin obowiązywania uprawnień nie ulega zmianie. Z wyrazami szacunku, dyr. Michał Nowak.";1.67;0.33;0.67;0.33;0.33;0.00
+175;Jestem Panu ogromnie wdzięczna za tak szczegółowe wyjaśnienia. Teraz już wiem jak się przedstawia cała sytuacja i co mam dalej zrobić aby wszystko uporządkować. Jeszcze raz bardzo serdecznie dziękuję.;1.00;2.00;0.00;0.00;0.00;1.00
+176;"Dzień dobry, uprzejmie proszę o przesłanie aktualnej listy zarejestrowanych uczestników konferencji. Z góry dziękuję i pozdrawiam, Halina Nowak.";2.00;1.00;0.00;1.00;0.00;0.00
+177;"Dzień dobry. Niestety na ten moment nie ma takiej możliwości, ale uwaga ta zostanie uwzględniona w procesie rozwijania oprogramowania. Pozdrawiam, Stefan.";2.00;1.00;0.00;0.00;0.00;1.00
+178;"Adamie, nie widzę osoby o tym id. Zerknij proszę dlaczego tak jest. Michał.";0.00;1.00;2.00;1.00;0.00;0.00
+179;"Szkolenie odbędzie się za pośrednictwem usługi Teams. Zaproszenie zostało wysłane do Pani. Pozdrawiam, Anna Nowak.";2.00;0.00;1.00;2.00;1.00;2.00
+180;Bardzo dziękuję za informację. Proszę mnie zapisać na ten termin 24 września. Pozdrawiam Joanna Kowalska.;2.00;1.00;0.00;0.00;0.00;0.00
+181;"Niestety tak. Na tą chwilę trzeba ograniczyć tak zakres generowania protokołów aby trwał poniżej minuty. Oczywiście jeśli to możliwe. Pozdrawiam, Antoni.";0.67;0.33;1.67;0.33;0.00;0.67
+182;"Jeśli od strony Panów nie ma żadnych sprzeciwów i problemów, to tak. Ja tu sama nic więcej nie zrobię i nie poradzę. Anna.";1.00;0.00;0.00;1.00;0.00;0.00
+183;Poproszę jeszcze o rozwiązanie błędu no data dla M. Nowaka - szczegóły powyżej. Ten błąd występuje już po raz 3ci w tym tygodniu.;0.50;0.50;1.00;0.00;1.00;0.00
+184;Została wdrożona poprawka w bazie danych. Protokoły już są generowane poprawnie jeden dla CKM jeden dla CWM o różnych kodach protokołu. Z wyrazami szacunku Michał Kowalski.;1.00;2.00;0.00;1.00;0.00;1.00
+185;"Przeszedłem pozytywnie weryfikację, jednak system ponownie przerzuca mnie na stronę, gdzie wymusza zamieszczenie skanu jakiegoś dokumentu. Proszę o pomoc. Mateusz Kowalski.";1.50;0.00;1.00;0.50;0.00;1.50
+186;"Maciek z tego co pamiętam to speed testu na stałe nie mamy wystawionego, natomiast  z uruchomieniem iperf do testów nie powinno być problemu. Ale to sam musisz sprawdzić. Michał.";0.00;0.50;0.00;0.00;0.50;0.00
+187;"Proszę spróbować wygenerować podanie raz jeszcze. Poprawnie wygenerowane podanie pojawi się na liście wniosków.  Z wyrazami szacunku, Michał Nowak.";2.00;0.50;0.00;1.00;1.00;2.00
+188;"Jak to w jaki sposób? Zaznacz na zrzucie ekranu, których brakuje lub podaj kod. Marcin.";0.00;0.00;0.00;0.00;0.00;2.00
+189;"Niektóre mogą się nie generować bo nie ma uprawnień, nie ma użytkowników, nie ma wyników - te są pomijane. Poproszę o jakiś konkretny przykład. Z wyrazami szacunku, Jan Kowalski.";2.00;1.00;0.00;0.00;0.00;1.00
+190;Nad takim rozszerzeniem (dodanie kalkulatora wyliczającego łączną wartość na podstawie godzin i stawek) aktualnie pracuję. Planuję to udostępnić z początkiem przyszłego tygodnia. Grzesiek.;0.75;0.50;1.00;0.50;0.00;1.00
+191;"Cześć, Jeżeli mamy przesyłać jakieś dokumenty w j. ang. potwierdzające naszą ""przynależność organizacyjną"", to kto ma je generować i w jaki sposób potwierdzać? Ania.";0.50;0.50;0.00;1.00;0.50;0.00
+192;"Proszę też sprawdzić innych robotników jeżeli im Pani dokonywała podobnej zmiany. Pozdrawiam, JK.";2.00;1.00;0.00;2.00;1.00;0.00
+193;"Dzień dobry. Sprawdziłem, numer telefonu - jest już w systemie. Wszystko już powinno poprawnie działać. Pozdrawiam, Mateusz Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+194;"Rozumiem, że stare grupy pozostają dostępne na czas nieokreślony i nie zostaną automatycznie usunięte? Michał Kowalski.";0.00;0.00;1.00;0.50;0.00;1.00
+195;"Dzień dobry, Poprawki zostały dodane i sprawdzone na wersji deweloperskiej. Proszę o informację czy są wystaczające. W załączeniu presyłam zrzut ekranu. Pozdrawiam, Marcin Kowalski.";1.00;0.50;1.00;0.50;0.00;0.50
+196;"Czy restartowała Pani komputer? Czy próbowała się Pani zalogować do systemu? Ze zrzutów wynika, że nie jest Pani zalogowana do usługi. Pozdrawiam, Anna Nowak.";2.00;0.00;0.00;0.00;0.00;1.00
+197;"Dzień dobry, W obecnej chwili wszystko działa poprawnie, sądzę że temat do zamknięcia, dziękuję za pomoc. Pozdrawiam, Aleksander Nowak.";2.00;1.00;0.00;0.00;0.00;0.00
+198;"Dzień dobry, W załączeniu przesyłam listę aktualnie zarejestrowanych uczestników. Zgodnie z prośbą szanownej dyrekcji wyróżniłam w niej osoby, które spóźniły się z rejestracją. Z wyrazami szacunku, Agnieszka Nowak.";1.50;0.50;1.00;0.00;0.50;1.00
+199;W dniu wczorajszym umieszczona została testowa odpowiedź na forum AAA - pytania. Nie dostałyśmy e-maila z informacją.;2.00;0.00;0.50;1.00;0.50;0.00
+200;"Witam, Spróbuję przetestować blok i zamieścić informację o ewentualnym jego wdrożeniu na HD. Pozdrawiam, JK.";1.00;0.00;0.00;0.00;0.00;0.00
+201;"Dzień dobry, proszę o podanie linku w którym pojawia się problem. Przypadek został przeanalizowany na serwerze testowym i żadne wcięcie się nie pojawia. Pozdrawiam JK.";1.00;0.00;0.00;0.00;0.00;1.00
+202;"Dzień dobry, niestety teraz w ogóle nie pojawia się pasek poziomy do nawigacji. Pozdrawiam AA.";1.50;0.00;0.50;1.00;0.50;0.50
+203;"Dziękuję, teraz jest tak jak trzeba, choć jest to trochę zaskakujące, że opcje tabeli działają również poza nią. Z wyrazami szacunku JK.";2.00;1.00;0.00;0.00;0.00;2.00
+204;"Witam, aha, to bardzo dziękuję za informację. A czy teraz mogę jeszcze ustawić grupy aby w tym ćwiczeniu to zmienić? I pozostałe grupy osób mogli przesłać swoje zdania. Pozdrawiam JK.";0.50;0.50;1.00;0.00;1.00;1.50
+205;"Dziekuje serdecznie za tak szybka odpowiedź. Ta opcja jest dokładnie tym czego potrzebowałam, a nawet więcej. Jeszcze raz dziekuję i pozdrawiam JK.";2.00;1.00;0.00;2.00;0.00;1.00
+206;"Właśnie chciałem napisać, że pewnie była ustawiona subskrypcja opcjonalna na tym forum. Bardzo miło, że dała Pani sobie radę ze znalezieniem rozwiązania. W takim razie rozwiązuję zgłoszenie. Pozdrawiam AA!";2.00;1.00;0.00;2.00;1.00;2.00
+207;"Marcinie, Opracowanie w postaci wytycznych - zwłaszcza dla książki o której wspominasz - chyba musisz zrobić sam. Teraz nie ma na to czasu. Zresztą Ania też już odpisała - masz gotowca.";0.00;0.00;1.00;0.00;2.00;1.00
+208;"Szanowny Panie, bardzo dziękuję. Życzę spokojnych i radosnych Świąt Wielkanocnych JK.";1.33;1.67;0.00;0.00;0.00;0.00
+209;"Po zgłoszeniu telefonicznym znalezione zostało zaległe nagranie i usunięte. Miejsce na nagrania już jest. Bardzo dziękuję za zgłoszenie! Pozdrawiam, miłego dnia.";0.67;1.33;0.67;0.33;0.00;0.33
+210;"Dzień dobry, mam nadzieję, że konto pocztowe działa i znalazł Pan na nim poszukiwane wiadomości. Rozwiązuję zgłoszenie, ale w razie wątpliwości proszę o komentarz. Życzę miłego dnia Marcin.";2.00;1.00;1.00;2.00;1.00;0.00
+211;"Na stronie statusu usługodawcy pojawiło się potwierdzenie problemu - jak na załączonym zrzucie ekranu.Z uszanowaniem, JK.";2.00;0.00;1.00;1.00;0.00;0.00
+212;"Trochę się Pan spóźnił, bo szkolenie właśnie trwa. Myślę, że zorganizujemy kolejne w przyszłym tygodniu. Pozostawiam zatem zgłoszenie w trakcie realizacji. Będziemy się tu z Panem kontaktować. Pozdrawiam AA.";2.00;1.00;1.00;0.00;0.00;1.00
+213;"Dzień dobry, aby zrealizować Pani prośbę potrzebujemy dodatkowych informacji. Jeżeli sprawa jest już nieaktualna, także proszę o taką informację. Pozdrawiam JK.";2.00;1.00;0.00;2.00;1.00;0.00
+214;"Zamykam, to zgłoszenie bo jest zdublowane ze wskazanym w poprzednim komentarzu. Pozdrawiam AA.";0.33;0.67;0.00;0.00;1.00;0.00
+215;"Dzień dobry, dziękuję za szkolenie i za wszystkie wskazówki. Serdecznie pozdrawiam JK.";2.00;1.00;0.00;0.00;0.00;0.00
+216;"Dziękuję za informację, czy mogę prosić o ponowne sprawdzenie? Dla pewności wyczyściłem jeszcze pamięć podręczną z poprzednich błędnych ustawień bloku. Z wyrazami szacunku AA.";2.00;1.00;0.00;0.00;0.00;0.00
+217;"Dziękuję za odpowiedź, próbowałam już dzwonić niestety uzyskałam informację, że jest Pani niedostępna. Proszę wejść na Teams.";1.00;0.00;1.00;0.00;0.00;1.00
+218;"Dzień dobry, dziękuję za pomoc. Na pewno chodzi o test Unit 1. Udostępnię test jeszcze raz i mam nadzieję, że nie będzie więcej problemów. Z poważaniem JK. ";1.00;0.00;0.00;0.00;0.00;1.00
+219;Dla każdego wniosku czy tylko dla wybranych? Jako superuser będąc zalogowanym za kogoś konkretnego czy ogólnie? Pozdrawiam Ania.;0.33;0.67;0.33;0.33;0.00;1.00
+220;Potwierdzam aktywność konta i możliwość wysyłania za jego pośrednictwem skanów z urządzenia. Dziękujemy Zespół Programistów.;1.50;0.50;0.00;0.50;0.00;0.00
+221;Czy w tej sprawie interweniował Pan we właściwym pokoju? Każdy pokój odpowiada za inny dział formy.;1.00;0.50;1.50;0.50;0.50;0.50
+222;"Szanowny Panie, bardzo dziękuję za odpowiedź. Jak spróbuje wykonać zalecenia, zgłoszę się w przyszłym tygodniu. Z poważaniem, Katarzyna Nowak.";1.50;0.50;0.00;0.00;0.00;0.00
+223;"Teoretycznie prawdopodobine możemy zamienić alias z XXXXX, ale trzeba się upewnić, czy w poczcie wszystko dobrze się zadzieje. Zapytajcie Stefana...";0.00;0.00;0.00;2.00;0.00;0.00
+224;"Bardzo proszę o uzupełnienie numeru telefonu jak napisał Pan Stefan lub skorzystać z odpowiedniego komputera w biurze. Pozdrawiam, Jan Nowak.";1.00;0.25;1.25;0.50;1.00;0.75
+225;"Szanowna Pani, szkolenie odbywa się również 19 listopada. Jeśli termin 24 września nie odpowiada, proszę o ""odrzucenie"" zaproszenia na Teams. Pozdrawiam, Agnieszka Kowalska.";1.50;0.00;1.00;0.00;0.50;1.00
+226;"Czy da radę usunąć ten numer? Wiem, że nie powinniśmy ale jest to sytuacja wyjątkowa. Kasia.";0.00;0.00;0.00;0.00;0.00;0.00
+227;"Wersja produkcyjna aplikacji nowego systemu działa pod adresem xxx.xxxx.xx. Czy tutaj także występuje problem z logowaniem? Pozdrawiam, Kamil Nowak.";1.00;0.00;1.00;1.00;0.00;1.00
+228;"Pytanie Michała jest skierowane do programistów. Czekamy na wsparcie. Pozdrawiam, Kamil.";0.00;1.00;0.00;0.00;0.00;0.00
+229;"Umknęło nam to, żeby dać użytkownikowi odpowiedź, że zajmujemy się tą kwestią. Zapomnieliśmy w natłoku tych wszystkich spraw z końca kwartału. Andrzej.";1.00;0.00;1.00;2.00;0.00;0.00
+230;"Wygląda na to że mimo tymczasowego nr PESEL licencja została poprawnie przydzielona. Pani na pewno się uczieszy. Dzięki Stefan. Pozdrawiam, Ania.";0.50;1.00;0.00;0.00;0.00;1.00
+231;"Bardzo proszę o dodanie numeru telefonu, z tego co sprawdzam z poziomu aplikacji nie ma go dostępnego w usłudze, z której pobieramy dane. Pozdrawiam, dyr. Andrzej Kowalski.";1.00;0.00;1.00;0.00;0.00;1.00
+232;"W załączeniu przesyłam raport z głosowania. Głosowanie przebiegło bez problemów. Pozdrawiam, Agnieszka Nowak.";0.00;2.00;1.00;0.00;2.00;0.00
+233;Dzień dobry. Po zaznaczeniu danej jednostki i rozwinięciu pojawia się brak danych (czysta strona). Screeny w załącznikach. Z poważaniem Anna Kowalska.;1.00;0.00;2.00;0.00;0.00;1.00
+234;"Super! Dziękuję, Pani Ewelino, zadziałało. Jest zdecydowanie lepiej. Brakuje mi tylko możliwości prostego skopiowania opinii i uwag do Worda, ale to naprawdę drobiazg. Jakoś sobie poradzę. Pozdrawiam JK.";1.00;1.50;0.00;0.00;0.00;0.00
+235;"W przypadku dalszych problemów z dostępem do testu proszę o ponowne otwarcie zgłoszenia.Pozdrawiam, AA.";1.00;0.00;0.00;0.00;0.00;1.00
+236;"Dzień dobry, Mam nadzieję że udzielona odpowiedź rozwiązuje Pani problem. Zamykam zgłoszenie, w razie kolejnych pytań proszę o jego ponowne otwarcie. Pozdrawiam JK.";2.00;0.00;0.00;0.00;0.00;0.00
+237;Dzień dobry. Poproszę o informację czy będzie Pani uczestniczyć w dzisiejszych konsultacjach. Pozdrawiam JK.;2.00;0.00;0.00;0.00;0.00;0.00
+238;Nie podoba mi się to. Hasło należy przekazywać bezpośrednio pracownikowi. Kierownik nie ma uprawnień do posiadania uwierzytelnień do kont swoich pracowników! Pracownik powinien odebrać hasło osobiście lub na swój telefon komórkowy. ;1.00;0.00;1.00;1.00;2.00;1.00
+239;Panie Adamie proszę o wyjaśnienie sprawy w Microsoft. Wydawało mi się że wszystkie domeny są aktywne w Azure a nie tylko p.lodz.pl i edu.;1.00;0.50;1.50;1.50;0.50;1.00
+240;"Zgodnie z tym co dyrektor mówił, jest zakaz nagrywania egzaminu wstępnego, natomiast kandydat musi udostępniać pulpit swojego komputera. Przewodniczący komisji ma zablokować możliwość nagrywania w MS Teams. Nie wiem jak to rozwiązać?";1.00;0.00;1.00;1.00;0.00;0.00
+241;"Dzień dobry! Zobaczymy, czy uda się odnaleźć automatyczną kopię zapasową Pani kursu i odtworzyć go jako duplikat. Cały proces może zająć niestety trochę czasu. Pozdrawiam, JK.";0.00;0.00;1.00;1.00;1.00;0.00
+242;"Dzień dobry, bardzo serdecznie dziękuję i pozdrawiam JK.";0.75;0.75;0.50;0.50;1.00;0.25
+243;"Panie Marcinie, prosimy o wsparcie w tej sprawie. Kolega dodał Pana do grona obserwujących. Pozdrawiam AA.";1.00;0.00;0.00;0.00;0.00;0.00
+244;"Zbyszku, czy potrzebujesz jeszcze wsparcia w przedmiotowym temacie? Jeżeli nie to czy zgłoszenie możemy już zamknąć? AA.";0.50;0.00;0.00;0.50;0.00;0.50
+245;Asiu bardzo dziękuje za sprawne działanie. Zaczynam to testować. Można zamknąć.;0.00;2.00;0.00;0.00;0.00;0.00
+246;"Dziękuję za informację, niestety nie mogę dokończyć badania, jest ono uruchomione, ale zatrzymało się na etapie 2/4 i mimo odświeżania i kilkugodzinnego czekania, nie przechodzi do kolejnych etapów. Załączam zrzut ekranu. Pozdrawiam";2.00;0.00;1.00;2.00;2.00;2.00
+247;"Dzień dobry. Czy może Pani podać linki do stron, które Pani opisuje? Podane informacje są niewystarczające aby rozpoznać problem. Pozdrawiam JK.";1.00;0.00;1.00;1.00;1.00;0.00
+248;"Czy pracuje Pani zdalnie, pytam ponieważ przysłała Pani plik pracazdalna?";1.00;0.00;1.00;1.00;0.00;0.50
+249;"Damian, czy przypadkiem nie jest to sprawa podobna do sprawy p. Eweliny? Możesz zerknąć z czym jest problem? Adam.";1.00;1.00;0.00;1.50;1.00;1.00
+250;"Bardzo Pani dziękuję. Na dziś te informacje wystarczają, bym mogła podjąć decyzję i poinformować użytkowników. Z pewnością zgłoszę się po dalszą pomoc, gdy się zabiorę do realizacji. JK.";2.00;1.50;0.00;0.00;0.00;0.50
+251;Dziękuję za odpowiedź. Trochę to skomplikowane. Będę próbowała. Pozdrawiam JK.;1.00;0.00;2.00;1.00;0.00;1.00
+252;"Dziękuje, za te dane. Myślę, że więcej tu już informacji na razie nie potrzeba więc zamknę zgłoszenie. Co do przeszkolenia Pań i kontaktu w tej sprawie będziemy się już chyba kontaktować na Teams. Pozdrawiam AA.";1.00;0.00;0.00;0.00;0.00;0.00
+253;"Może wygląda na skomplikowane, ale jest to dosyć proste rozwiązanie. Proszę spróbować. W razie problemów możemy się umówić na konsultacje. Pozdrawiam JK.";2.00;0.00;0.00;0.00;0.00;1.00
+254;"Pani Kasiu, ogromnie dziękuję za precyzyjne i wyczerpujące wskazówki. Jak zawsze Pani pomoc jest szybka i skuteczna. Pozdrawiam serdecznie, AA.";1.00;1.50;0.00;1.00;0.50;0.00
+255;"Ma Pani nadane uprawnienia, proszę o ponowną próbę zalogowania. Jeśli komunikat będzie się pojawiał proszę o przesłanie zrzutu ekranu.";1.00;1.00;1.00;1.00;1.00;1.00
+256;"Witam, dziękuję bardzo za pomoc, mam nadzieje ze dam rade, jeśli pojawia się wątpliwości oczywiście zwróce się po pomoc bardzo dziękuje. JK.";1.00;0.33;1.00;0.33;0.00;0.33
+257;"Wiktor, czy możesz sprawdzić jaki jest powód takiego działania systemu? AA.";0.00;0.00;0.00;0.00;0.00;1.00
+258;Bardzo dziękuję za kontakt i przekazane informacje. Zgodnie z rozmową umawiamy się wstępnie na dodatkowy kontakt w czwartek. Jacek.;2.00;1.00;0.00;0.00;0.00;0.00
+259;Jeśli zgłaszający przekaże swoje IP a problem będzie nadal występował trzeba będzie prosić sieciowców o sprawdzenie dlaczego z danego adresu nie ma dostępu do bazy danych.;0.00;0.00;0.00;0.00;0.00;0.00
+260;"Bardzo dziękuję. Instrukcję już oglądam, a już się wstępnie zorientowałem (wcześniej nie otworzyła mi się instrukcja z wcześniejszego linku) jak wygląda procedura kontrolowania pracy pod kątem antyplagiatowym. Także bardzo mi Pan pomógł.";1.00;1.00;0.00;0.00;0.00;1.00
+261;"Szanowny Panie Pawle, bardzo Panu dziękuję. Pozdrawiam i życzę wszystkiego dobrego. AA.";1.00;2.00;0.00;0.00;0.00;0.00
+262;Może Pani przekopiować i wtedy będzie Pani mogła korzystać z niego na dwóch komputerach. JK.;0.00;0.00;0.00;0.00;1.00;0.00
+263;Dziękuję za szybką odpowiedź. W takim razie proszę zarezerwować godzinę na konsultacje. Pozdrawiam serdecznie. AA.;1.50;0.50;0.00;0.00;0.00;0.50
+264;"Bardzo dziekuje, przepraszam ze tak meczylem ale dostaje tyle poczty ze trudno mi sie w tym wszystkim rozeznac. Teraz wszystko jest jasne. Dzieki, pozdrawiam AA.";0.00;1.67;0.00;0.67;0.00;0.33
+265;Niestety ja nie widziałem zgłoszenia w swoich i nie dostawałem informacji o tym że jest.;1.00;0.50;0.00;1.00;1.00;1.00
+266;"Dzień dobry, Piotrze czy możesz podać numer telefonu komórkowego tego Pana, hasło prześlemy smsem bezpośrednio do niego. Pozdrawiam AA.";2.00;0.00;0.00;0.00;0.00;0.00
+267;"Z tego co pamiętam w dniu 1 kwietnia był poważny problem z usługą systemową. Jako, że sprawa wygląda na nieaktualną, oznaczam zgłoszenie jako zamknięte.Pozdrawiam, JK.";1.00;0.00;0.00;0.00;0.00;1.00
+268;Panowie czy możecie się zająć tą sprawą? Za długo użytkownik nie otrzymuje od nas wsparcia. Jeżeli sprawa poszła innym kanałem tutaj należy ją zamknąć.Pozdrawiam AA.;0.50;0.50;1.00;1.00;0.00;0.50
+269;"Naturalnie, wspomożemy. Napiszcie tylko jakich informacji Wam brakuje. Nadmienię tylko że serwis leży na starym hostingu i wymaga przeniesienia na nowy zgodnie z utartymi procedurami.";0.67;0.67;0.67;0.00;0.00;0.67
+270;"Zmiana osoby odpowiedzialnej wiąże się z wzięciem na siebie odpowiedzialności, co do tej pory było potwierdzanie formularzem z podpisem. Osobą odpowiedzialną jak już kiedyś zostało ustalone, nie musi być kierownik jednostki.";0.00;1.00;1.00;0.00;1.00;1.00
+271;"Tak wiem Nikołaj, troszkę się pośpieszyliśmy. Andrzej jeszcze ustala kto ma być z pionu Kanclerza, bo okazuje się że te osoby ze spotkania nie będą tymi docelowymi. JK. ";0.00;0.00;1.00;0.00;2.00;0.00
+272;"Panie Darku, czy jest szansa na dołączenie numerów telefonów komórkowych wskazanych osób. Hasła prześlemy wówczas smsem. Pozdrawiam AA.";0.00;0.00;0.00;0.00;0.00;1.00
+273;W celu przetestowania funkcji udostępniania pulpitu proponuję konsultacje w formie webinarium w zarezerwowanym przez Panią pokoju webinarowym. Pozdrawiam AA.;1.00;1.00;2.00;0.00;1.00;1.00
+274;"Dzień dobry, czy może Pani podać adres z paska przeglądarki do strony, na którą nie może Pani wejść? Lub załączyć zrzut ekranu z nieoczekiwaną sytuacją i wskazać co jest nie tak? Z uszanowaniem JK.";1.00;0.00;1.00;0.00;0.00;0.00
+275;"Wydaje się nam, że zlokalizowaliśmy problem. Spróbujemy wywołać analogiczną sytuację, aby sprawdzić, czy problem został rozwiązany. Praca w toku. Pozdrawiam JK.";2.00;0.00;0.00;0.00;0.00;0.00
+276;"Faktycznie wygląda na to, że problem jest po stronie RR. Najpewniej dzisiaj razem z Wiktorem przetestujemy takie sytuacje. Jeśli będzie trzeba to oczywiście zgłosimy sprawę do RR.";1.00;0.00;0.00;0.00;0.00;0.00
+277;"Panie Grzegorzu, bardzo dziękuję za informacje. Hasła zostały zmienione i od niedawna powinien Pan już je mieć w skrzynce pocztowej. Życzę dobrego dnia JK.";2.00;0.00;0.00;1.00;1.00;2.00
+278;W tej chwili uzyskana odpowiedź mi wystarczy. Jestem w trakcie tworzenia testu. Może jutro przesłałabym skany ustawień i wtedy poproszę o ostateczną odpowiedź.;0.00;0.00;0.00;0.00;0.00;0.00
+279;"Panie Wiktorze, czyli rozumiem, że mój kurs jest zlikwidowany? Czy będę mieć jeszcze do niego dostęp? Serdecznie pozdrawiam JK.";1.00;0.00;2.00;2.00;2.00;2.00
+280;"Panie Adamie, ale od początku maja mam nową najnowszą licencję i nowe antywiusowe oprogramowanie. Co w związku z tym zrobić? Pozdrawiam AA.";1.00;0.00;1.00;1.00;0.00;1.00
+281;"Testujemy naszą poprawkę, wkrótce ponownie powinna pani otrzymać mail ze statystykami. Tym razem powinien przyjść pusty, z informacją o braku statystyk. Licze na potwierdzenie od Pani, że tak właśnie będzie. Pozdrawiam.";1.00;0.00;0.00;0.00;0.00;0.00
+282;"Super, cieszymy się. Dzięki temu usunięta została zaszłość po poprzedniej wersji systemu rezerwacji sal - dziękujemy bardzo za pomoc. Zamykam zgłoszenie. Z pozdrowieniami AA i JK.";1.50;1.50;0.00;1.00;0.00;1.00
+283;"Trzeba spytać Ani o decyzję. Może jednak pani Dorota powinna przejść szkolenie prezentera webinariów, jak wszyscy? Chyba, że się dopyta jaki adres mailowy użyła wtedy do logowania.";0.00;0.00;0.00;0.00;0.00;1.00
+284;"Czy ta odpowiedź Pani wystarczy, i mogę zamknąć zgłoszenie? Jak pisałam wyżej bez linku i obejrzenia ustawień w konkretnym teście zwykle nie jesteśmy w stanie udzielić dokładnej odpowiedzi. Pozdrawiam JK.";1.00;0.00;1.00;0.00;1.00;0.00
+285;W tej chwili uzyskana odpowiedź mi wystarczy. Jestem w trakcie tworzenia testu. Może jutro przesłałabym skany ustawień i wtedy poproszę o ostateczną odpowiedź.;1.00;0.00;0.00;0.00;0.00;0.00
+286;"Widzę, że AA już wprowadził pani upoważnienie do systemu. Powinna Pani już móc zarządzać urlopami pracowników jednostki. Jeśli nadal są problemy, proszę o pełny zrzut ekranu.";2.00;0.00;0.00;0.00;0.00;0.00
+287;"Andrzeju, jak to jest ze zgodnością czytników? Stare są OK, czy trzeba kupić nowe? Marcin";0.67;0.67;0.67;0.67;0.67;0.67
+288;Nie wiem o jakie karty chodzi i o jaką aplikację. Za pomocą tych czytników jednostki obsługują podpisywanie legitymacji pracowniczych za pomocą podpisu kwalifikowanego. Co do innych zastosowań to nie wiem. Trzeba zrobić próbę. ;1.00;0.00;1.00;0.00;1.00;2.00
+289;"Byłoby o wiele prościej, gdybyście Państwo podawali przy zgłoszeniach link do strony, na której występuje problem. Skopiowany z paska adresu przeglądarki - do kursu, lub bezpośrednio do testu. Pozdrawiam";0.00;0.00;0.00;0.00;2.00;0.00
+290;"U mnie taki błąd pojawił się ostatnio wtedy, gdy podczas pobierania klienta zerwało się połączenie. Czy była wykonana próba usunięsia katalogu terminale i uruchomienia programu jeszcze raz, aby podrał komplet danych?";1.00;0.00;0.50;0.00;0.50;0.50
+291;"Dzień dobry, byłoby miło dostać od Państwa przed długim weekendem informację, czy nadal potrzebna jest pomoc (i jeśli tak, to jaka). Pozdrawiam, AA.";0.50;0.50;0.50;0.50;1.00;0.50
+292;"Andrzej, czy ten proces jest już dopracowany? Wiadomo kto w nim uczestniczy? AA. ";0.00;0.00;0.00;1.00;0.00;0.00
+293;"W każdej chwili można będzie to odznaczyć. Proszę potwierdzić że to komplet na ten moment, chyba że istnieje publikacja wydana w 2020 a nie widać jej w module.";0.00;1.00;0.00;0.00;0.00;1.00
+294;"Dzień dobry, w jaki sposób poinformował Pan użytkowników o ankietach? Czy to był mail z informacją czy też to było zorganizowane spotkanie poprzez kalendarz? ";2.00;0.00;1.00;0.00;2.00;0.00
+295;Zapytam się ich o to dzisiaj. Poczekam jeszcze na odpowiedzi pozostałych osób. Chciałbym się zorientować ilu jest takich pechowców. Zgłoszę się do Państwa jutro. Pozdrawiam BB.;2.00;0.00;1.00;0.00;0.00;0.00
+296;Najwygodniejszym rozwiązaniem będzie kwestionariusz. Jest prosty w użyciu i można wygenerować na końcu plik. Trzeba pamietać aby nazwa użytkownika była jawna.;2.00;0.00;0.00;0.00;0.00;0.00
+297;"Bardzo dziękuję za zainteresowanie. Niestety, nie umiem wdrożyć Państwa wskazówek. Byłbym wdzięczny za bardziej szczegółowe. Z poważaniem BB.";1.00;0.00;0.00;1.00;0.00;2.00
+298;Czy możemy połączyć się na MS Teams? Chętnie Panu pomogę. Proszę podać godziny w jakich można się z Panem skontaktować.Pozdrawiam BB.;2.00;0.00;0.00;0.00;0.00;0.00
+299;Wiele osób wylogowało się bo prawdopodobnie źle ustawiłem czas testu do czasu jego dostępności. Interesuje mnie rowiązanie bo niektóryz rozwiązali test. Ale niektórzy muszą go zakończyć.;0.00;0.00;0.00;0.00;0.00;1.00
+300;"Dzień dobry. Brak możliwości wygenerowania protokołu wynika z braku uprawnień kierownika. Uprawnienia takie może nadać przełożony. Pozdrawiam, Adam Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+301;Potwierdzam aktywność konta i możliwość wysyłania za jego pośrednictwem skanów z urządzenia. Dziękujemy.;0.00;1.00;2.00;0.00;1.00;2.00
+302;"Z informacji zawartych w bazie danych i aplikacji kadrowej wynika, że Pani Anna Nowak nie jest pracownikiem. W celu rozwiązania wątpliwości co do informacji zawartych w aplikacji kadrowej odsyłam do kontaktu z zespołem XXX. Michał.";1.50;0.50;0.00;1.00;0.50;1.50
+303;"Pytałem szefa. Treba przynosić. W tej chwili jest tak, że protokół drukuje się tylko dla tej osoby, która wykonała zadanie. Z poważaniem, Marcin Nowak.  ";1.00;0.00;0.00;1.00;1.00;2.00
+304;Witam ponownie. Tym razem w systemie widnieją osoby ale część z nich nie jest w grupie przypisanych do mnie co uniemożliwia mi zatwierdzenie tematu. Z poważaniem Jan Kowalski.;2.00;1.00;0.00;0.00;1.00;0.00
+305;"Proszę o usunięcie z przestrzenie Azure tego wpisu. Użytkownik jest poinformowany. Wyraża zgodę. Pozdrawiam, Anna Nowak.";0.00;0.00;0.00;1.00;1.00;1.00
+306;"Sprawa rozwiązana, to był jednak problem z komputerem, potwierdzone u Źródła. Dziękuję, Marcin.";1.00;0.50;0.00;0.00;0.00;0.50
+307;"Dzień dobry. Zostały wdrożone poprawki, proszę o przetestowanie. Pozdrawiam Jan Kowalski, zespół programistów.";2.00;1.00;0.00;0.00;0.00;0.00
+308;"Dzień dobry. Podpis został uaktywniony nie mniej jednak pod wygenerowanymi rekordami nie widnieją użytkownicy. Z poważaniem, Jan Kowalski.";2.00;1.00;1.00;0.00;0.00;0.00
+309;"Dzień dobry, czy już kontaktował się Pan z dyrekcją, żeby potwierdzić, czy na pewno ma Pan właściwie przypisane uprawnienia? Z wyrazami szacunku, Adam.";1.00;0.00;0.00;0.00;0.00;0.00
+310;"Tak, czy inaczej u nas w systemie musi zostać wpisany i Pani czy podaje nowy, czy zmienia musi skorzystać z formularza. Zaraz Pan Michał odpisze i poda link. Z wyrazami szacunku, Agnieszka.";1.00;2.00;0.00;2.00;1.00;1.00
+311;"Dzień dobry, Przepraszamy za małe niedoprecyzowanie, chodzi o brak uprawnień w systemie do wpisywania wyników ankiet ewaluacyjnych. Jeśli nadal będą jakieś problemy, prosimy o otwarcie zgłoszenia. Pozdrawiam, Adam.";0.00;1.00;2.00;1.00;0.00;2.00
+312;"Wynika to z faktu, że CI brakujący to są osoby, dla który był to brak rozliczenia z poprzedniego roku, a dla pozostałych osób był to bieżący temat.";0.00;0.00;0.00;0.00;1.00;0.00
+313;"Proszę o informację czy działania administratorów przyniosły oczekiwany efekt. Pozdrawiam, Anna Kowalska.";2.00;0.00;0.00;0.00;0.00;0.00
+314;"Mam przycisk, działa, generują się 2 protokoły. ""Brakujący"" użytkownik osobno. Rozumiem, że tak może być? Pozdrawiam serdecznie.";0.50;0.00;0.00;0.50;0.50;1.00
+315;Oczywiście wprowadziłam mój służbowy numer XXX XXX XXX. Zrobiłam to w niedługim czasie po pojawieniu się komunikatu. ;0.67;0.33;0.33;0.00;0.00;0.67
+316;"Zadziałało we wszystkich trzech przypadkach. Dziękuję. Jak zawsze okazali się państwo pomocni. Pozdrawiam, Andrzej Nowak.";0.67;1.67;0.67;0.33;0.00;0.67
+317;"Rzućcie, proszę, na to okiem. Wisi to i wisi. Trzeba się tym zająć. Marcin.";0.00;1.00;2.00;1.00;0.00;0.00
+318;"Czekamy na wsparcie zespołu wdrożeniowego. Proszę wykazać się cierpliwością. Z wyrazami szacunku, JanKowalski.";2.00;0.00;0.00;0.00;1.00;0.00
+319;"Znaczy procedujecie to w gronie deweloperów / wdrożeniowców. Ok, może tak być. Dla mnie spoko. Grzesiek.";2.00;1.00;0.00;2.00;1.00;0.00
+320;"Jeśli to może pomóc, u p. Katarzyny Kowalskiej są widoczne pojedyncze protokoły (nie wszystkie), oraz u p. Joanny Nowak (1 z 3). Krzychu.";0.00;0.50;0.50;0.00;0.50;1.00
+321;"Z informacji zawartej w bazie danych wynika, że Pani Maria otrzymała upoważnienie do przetwarzania danych osobowych, co pozwala na korzystanie z aplikacji. Pozdrawiam, Michał Kowalski.";2.00;1.00;0.00;0.00;1.00;1.00
+322;Proszę podać jaki wprowadziła Pani nr telefonu gdyż w systemie on nie widnieje. Pozdrawiam Joanna Nowak.;0.50;0.50;1.00;0.50;1.50;0.50
+323;"Zadziałało, przeniosłem na dysk C. Nie mniej jednak chcę zaznaczyć, że system kadrowy działał mi również z OneDrive. Dziękuje za pomoc i pozdrawiam.";1.00;2.00;0.00;0.00;0.00;1.00
+324;"Niestety, z tego działu nadal nie mam jak wygenerować protokołuł! Mogłam to zrobić przed wstawieniem danych dla brakującego wcześniej użytkownika. Proszę o pomoc!. Anna Nowak.";0.00;0.50;0.50;1.00;0.50;1.00
+325;"Rafale, dla uściślenia, kto tym problemem teraz powinien się zająć? Kim są bazodanowcy? Pozdrawiam, Kasia.";0.00;0.00;0.00;1.00;2.00;2.00
+326;No dobrze rozumiem ale żadne  z nich nie ma możliwości wygenerowania protokołu i co teraz zrobić? Utknęliśmy na amen. Andrzej.;0.00;0.00;2.00;1.00;1.00;1.00
+327;"Informacja pochodzi z bazy danych, przekazujemy do bazodanowców. Oni mają łeb na karku. Pozdrawiam, Michał.";1.00;1.00;0.00;0.00;0.00;1.00
+328;"Proszę o udzieleni wsparcia o/lub informację, od czego Użytkownicy powinni zaczynać w takich przypadkach? Z wyrazami szacunku, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+329;"Pani Marzeno, zgłoszenia na szkolenie dokonała już Pani Ania Nowak, jako koordynator. Wkrótce na Pani adres mailowy przyjdą dalsze informacje. Pozdrawiam Katarzyna Kowalska.";1.50;0.50;0.00;0.00;0.00;0.00
+330;Zgłoszenie nieścisłości w UI? Proszę o pomoc. To już trzecia kwestia tego typu w ostatnich dniach. Kasia.;0.50;0.00;0.50;1.00;0.00;0.50
+331;"Pani Emilio, będzie możliwość dopisania się indywidualnie, jeśli będą miejsca. To szkolenie jest ważne i stanowi serce systemu. Z wyrazami szacunku, Agnieszka Kowalska.";2.00;0.00;0.00;1.00;1.00;0.00
+332;"Dzień dobry. Niestety w tym momencie taka funkcjonalność nie jest oprogramowana. Dziękuję za zgłoszenie, zostanie ono uwzględnione podczas rozwijania oprogramowania. Pozdrawiam, Adam Nowak.";1.00;0.00;0.00;0.50;0.50;0.50
+333;Kolejnie zgłoszenie z rozbudowanym błędem. Nie mam czasu tego czytać. Proszę o wspracie. Maciek.;1.00;0.00;1.50;0.00;1.00;0.00
+334;Z informacji od Michała wynika że przydział może się pojawić 2 razy: jest różnica na kodzie rekordu co nie pozwala wykluczyć braku z listy? ;0.50;0.00;0.00;0.00;1.00;0.50
+335;"Uzupełniamy czy Pani ma wypełnić formularz (czyli 48h czekania)? Pozdrawiam, Halina Nowak.";1.00;0.00;0.00;0.00;0.00;0.00
+336;"To chyba nie jest zgłoszenie błędu, tylko niekonsekwencji w działaniu systemu? Proszę o pomoc. Marcin.";0.00;0.00;1.00;1.00;2.00;1.00
+337;"Sprawa jest kontynuowana, także telefonicznie. Czekamy na rozwój wydarzeń.  Marcin";0.00;0.00;1.00;1.00;0.00;2.00
+338;"Taki komunikat oznacza, że nie ma Pana nr telefonu w bazie. Proszę się skontaktować z BOK w sprawie tel. Pozdrawiam, Michał Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+339;Obszedłem trochę temat zaznaczając dwa rekordy na liście projektów. Jak na zrzucie. W załączeniu protokół. Oczywiście problem do rozwiązania. ;0.67;0.33;1.67;1.00;0.00;0.33
+340;Czy może być w takiej formie? Jeszcze oczywiście damy do podpisu Dyrektorowi. Michał.;1.00;0.50;1.00;1.50;0.50;1.00
+341;"Dzień dobry. Prosiłbym o zrzut ekranu z przeglądarki. Ułatwi to zdiagnozowanie problemu. Z poważaniem, Andrzej Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+342;"Przepraszam, za długi czas realizacji tego zgłoszenia. W przyszłym tygodniu koledzy obiecują pochylić się nad tym problemem. Z wyrazami szacunku, Agnieszka Kowalska.";1.00;0.00;1.00;0.00;0.00;0.00
+343;"Witam, Proszę podać kod oraz nr. statutowy ponieważ zrzuty ekranu nie są do końca wyraźne. Pozdrawiam, Michał Nowak.";0.50;1.50;1.50;1.50;1.00;1.00
+344;"Andrzej, czy Wy taki raport jesteście w stanie uzupełnić? On jest bardzo dziurawy. Pozdrawiam, Ala.";0.00;0.00;1.00;0.00;2.00;0.00
+345;"Nie pamiętam o co w tej pozycji chodziło, to było zgłoszone w lutym.... Czasopismo XXXX jest kategorii międzynarodowej (INT), a nie krajowej (DOM)...tego nie mogę zaznaczyć...może o to chodziło....";0.50;0.00;0.50;1.00;0.00;0.50
+346;"Dziękuję za uruchomienie, już zadziało, wnioski udało się podpisać. Jesteście Państwo niezawodni. Pozdrawiam, Jacek Nowak.";2.00;2.00;0.00;0.00;0.00;0.00
+347;Pytanie - do kogo możemy skierować panią w celu skorygowania wpisów i usunięcia dubli? Stefan.;0.00;1.00;2.00;0.00;1.00;2.00
+348;Zgłoszenie musi poczekać do przyszłego tygodnia na powrót Mateusza z urlopu. Nie mam wolnych rąk do pracy. Maciek.;1.00;0.00;0.00;1.00;1.00;1.00
+349;"Dzień dobry, rozpocząłem analizę i będę informował o postępach. Myślę, że do poniedziałku powinno się udać to wyjaśnić/wyprostować lub ustalić co należy dodać aby szczegółowa oferta się wyświetlała. Z wyrazami szacunku, Jan Kowalski.";2.00;0.50;0.00;0.00;0.00;0.50
+350;"Skontaktowaliśmy się w tej sprawie z p. Świniarskim, czekamy na informacje od niego. Może to trochę potrwać. Agnieszka.";1.00;0.00;1.00;0.00;0.00;0.00
+351;Proszę o udzielenie wsparcia – zgłoszenie opisuje dwie kwestie: listy nazwisk oraz protokoły. Ja nie mam dostępu do systemu. Marta.;1.00;0.00;2.00;1.00;1.00;2.00
+352;"Dzień dobry, już pojawiła się opcja generowania protokołu jednak wyskakuje błąd podczas generowania raportu. Z poważaniem, Magdalena Nowak.";2.00;0.00;1.00;0.00;0.00;1.00
+353;"Niestety nie mamy wpływu na to jak szybko bramka SMS wysyła przesłane do niej SMSy. Raz jest to wolniej raz szybciej. My tylko wysyłamy i mamy potwierdzenie, ze został przyjęty. Nie było nie dostarczonych SMSów. Pozdrawiam, Michał Nowak.";1.00;0.00;2.00;1.00;1.00;1.50
+354;"Problem rozwiązany, proszę spróbować usunąć listę ""do zera"" i na czysto założyć poszczególne pozycje. Pozdrawiam, Anna.";1.00;0.50;0.00;0.00;0.00;0.50
+355;"Dzień dobry, wzorem ostatniego głosowania pozwolę sobie do Pani zadzwonić, gdy już będzie potrzeba uruchomienia głosowania. Z uszanowaniem, Mateusz Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+356;"Nie mam ikonki z tarczą przy adresie www. Problem występuje nadal, ale nie jest stały! od czasu do czasu klawisze się pojawiają!";0.80;0.80;0.80;1.00;0.80;1.00
+357;"Dzień dobry! A jak mogę nabyć te uprawnienia? To ja prowadziłam ten dział i ja jestem kierownikiem tego działu. W jaki sposób mogę nabyć uprawnienia? Z wyrazami szacunku, Marek Nowak.";1.00;0.00;1.00;2.00;0.00;1.00
+358;"Jeżeli będzie potrzeba wydrukowania innego protokołu to proszę dać znać. Przestawimy odpowiednie opcje w systemie. Z wyrazami szacunku, Stefan Kowalski.";1.00;1.00;1.00;1.00;1.00;1.50
+359;"Proszę o podpowiedź, co zaznaczyć w ostatnim polu, jeśli skrzynka będzie na potrzeby przesyłania skanów w domenie XXX. Zamiast nazwy użytkownika podajemy funkcję, tj. np. multimedia? Wniosek musi nam podpisać Pan Dyrektor? Pozdrawiam, Anna Kowalska.";1.00;0.00;2.00;0.00;1.00;1.00
+360;"Nie może Pan zaakceptować ponieważ nie jest znana Pana dyscyplina lub dyscypliny. Informacje te są wprowadzane do systemu na podstawie przekazywanych danych od P. Jana Kowalskiego. Proszę brak dyscypliny zgłosić do niego. Pozdrawiam, Jakub Nowak.";1.50;0.00;1.00;0.50;0.00;0.50
+361;"Krzysiek, czy coś jeszcze możemy zrobić? Czy zamykamy temat i tyle? Kasia.";1.50;1.00;1.00;1.00;0.50;1.50
+362;"Przypadek szczególny, do omówienia z programistami. Do realizacji na przyszłość. Wpisałem do planu. Grzesiek.";0.00;1.00;1.00;0.00;0.00;1.00
+363;"Dzień dobry, Prosiłbym o doprecyzowanie z jakiego powodu nie może Pani wprowadzić danych, ewentualnie jaki błąd pokazuje się przy próbie ich wystawienia. Pozdrawiam, Andrzej Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+364;"Dzień dobry, Proszę zgłosić do dyrekcji prośbę o podmianę danych osoby w kartach w tym dziale. Operacja potwierdzenia powinna się następnie już zakończyć poprawnie. Z wyrazami szacunku, Kamil Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+365;"Poprawka została wprowadzona wczoraj wieczorem, bardzo proszę o sprawdzenie czy to wyeliminowało problem. Pozdrawiam, Joanna Kowalska.";0.00;1.00;0.00;0.00;0.00;0.00
+366;Pani prosi o bezpośrednią konsultację – ma wątpliwości jakie rozwiązanie wybrać i co w ogóle jest możliwe. Janek.;0.00;1.50;1.00;1.00;1.00;0.50
+367;"Dzień dobry, Bardzo proszę o test dla Pana Nowaka, poprawka została wdrożona. Jeśli chodzi o Panią Kowalską, to brakuje jej uprawnień do zgłaszania wniosków. Z wyrazami szacunku, Marek Polski.";1.00;1.00;0.00;0.00;0.00;0.00
+368;"My admini nie mamy nic wspólnego z pisaniem strony i nie możemy Pani pomóc. Michał chyba jest jeszcze tylko do końca września, nie wiem jakie ustalenia z Panią poczynił w przedmiotowej sprawie. Pozdrawiam, Marek Nowak.";1.00;0.00;0.00;0.00;1.00;0.00
+369;Nie mogę sprawdzić na produkcyjnej bazie bo zapytania do bazy są wydłużone i przekraczają 1 minutę. Sprawa musi poczekać. Grzesiek.;0.00;0.00;1.00;0.00;0.00;0.00
+370;"Proszę określić dokładnie co budzi Pana wątpliwości. Na ten moment mamy za mało szczegółów. Pozdrawiam, Anna Nowak.";1.00;0.00;1.00;0.00;1.00;1.00
+371;"Dzień dobry, kiedy mogę spodziewać się jakichś decyzji lub kroków w mojej sprawie? Z poważaniem Przemysław Nowak.";1.00;0.00;0.00;0.00;0.50;0.50
+372;"Ad 1. Potrzebuję informację jaki idzie kod błędu, ponieważ na wersji testowej działa poprawnie podpisywanie. Ad 2. Brak uprawnień kierownika. Marek.";0.50;0.00;1.00;0.50;0.50;0.50
+373;"Dzień dobry. Osoba o podanym imieniu i nazwisko jest wprowadzona w kadrach dwa razy. Proszę zgłosić się tam w celu wyjaśnienia sprawy. To pilne. Z wyrazami szacunku, Magdalena Nowak.";1.00;0.00;0.00;0.00;1.00;1.00
+374;"Dzień dobry, bardzo proszę moje zgłoszenie potraktować jako potwierdzenie korzystania z konta pani Kowlaskiej z prawem do systemu dokumentów. Pozdrawiam Maciej Nowak.";1.50;0.50;0.50;1.00;0.00;0.50
+375;"Wg mnie to system źle odczytuje dane bo jak wejdę do jednostki to nie mam ikonki kosza przy wartości osiągnięć. Uprawnienia są nadane. Ogólnie to na jego koncie nie widziałem na żadnym jednsotce takich przycisków. Pozdrawiam, Stanisław Kowalski.";0.00;1.00;1.00;0.00;1.00;1.00
+376;"Andrzej wprowadzisz telefon, czy mam informować samodzielnej rejestracji? Rafał jest superadminem w jednostce. Pozdrawiam Magdalena.";1.00;1.00;2.00;1.00;0.00;1.00
+377;"Dostałem informację, że mojego nr telefonu nie ma w bazie. Wysyłałem go kiedy pojawił się komunikat w tej sprawie. Podaję jeszcze raz XXX XXX XXX. Pozdrawiam, JK.";0.00;1.00;2.00;1.00;0.00;2.00
+378;"Błąd wynika z braku numeru telefonu w bazie. Proszę o sprawdzenie czy numer telefonu widnieje w zakładce szczegółów użytkownika i ewentualne dopisanie go. Pozdrawiam, AB.";1.00;0.00;2.00;1.00;0.00;2.00
+379;"Temat do bazodanowców, informacja ze zrzutu jest z bazy danych. Kto pomoże? Kasia.";0.00;0.00;0.00;1.00;0.00;0.00
+380;"Żadne sztuczki nie pomagają. Nie mogę wygenerować protokołu. Jestem w kropce. Pomocy. Pozdrawiam, Marcin Kowalski.";1.00;0.00;2.00;2.00;1.00;1.00
+381;Oczywiście ma Pan taką możliwość. W tym celu musi się Pan pofatygować do działu obsługi a tam już wszystko objaśnią. ;0.00;0.00;0.00;0.00;0.00;0.00
+382;"Dziękuję za informację. Adres 'z ręki' oczywiście znałem. Chodziło mi o dostęp w formie, która po modyfikacji działa jak dla starego systemu. Pozdrawiam Michał Nowak.";0.00;1.00;1.00;1.00;0.00;0.00
+383;"Przepraszam, gdzieś mi umknęła poprzednia wiadomość. Postaram się jutro skontaktować. Z wyrazami szacunku, Radosław Kowalski.";1.00;0.00;1.00;0.00;0.00;0.00
+384;"Dzień dobry. Lista uczestników w projekcie, o którym Pan wspomniał powinna już ładować się prawidłowo. Proszę o sprawdzenie. Pozdrawiam Stefan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+385;"Proszę o ponowne sprawdzenie możliwości weryfikacji, a w wypadku dalszych problemów o doprecyzowanie użytkownika, dla którego występuje problem. Pozdrawiam ";1.50;0.50;0.00;1.00;0.50;0.00
+386;Co ma piernik do wiatraka? Grzesoek nic nie wie takiego co pozwoli rozwiązać problem. Ania.;0.00;0.00;1.00;0.00;2.00;1.00
+387;"Proszę się wylogować. Nie mam możliwości wejścia na Pana konto, a bez tego nie mam jak pomóc. Pozdrawiam, Mateusz Nowak.";2.00;0.00;1.00;2.00;1.00;1.00
+388;"Panie Adamie, poproszę o uzupełnienie adresów mailowych i telefonów kontaktowych do osób z listy. Dziękuję. Katarzyna.";0.00;0.00;0.00;0.00;0.00;0.00
+389;"Niestety to nic nie daje. Co ciekawe, nie można przesłać odpowiednich danych nawet ręcznie. Bije głową w mur. Pozdrawiam Marcin Kowalski.";0.50;0.50;2.00;1.00;0.50;0.50
+390;Dzień dobry. Baza numerów telefonów została zaktualizowana. Proszę o sprawdzenie czy problem jest rozwiązany. Pozdrawiam Karolina Nowak.;2.00;0.00;0.00;0.00;0.00;0.00
+391;Algorytmy były zmieniane i testowane od czasu zgłoszenia wielokrotnie. Jeżeli problem nadal występuje - proszę o ponowne otwarcie zgłoszenia. Z wyrazami szacunku Michał Kowalski.;2.00;0.00;0.00;0.00;0.00;1.00
+392;Dziękujemy za uwagę. Poprawimy w następnej wersji ale już po wakacjach. Zespół programistów. ;0.50;1.00;1.50;0.50;1.00;2.00
+393;A pula była już zwiększana i dalej nie działa. W nieskończoność będziemy się bawić z tym tematem. Agnieszka.;2.00;1.00;0.00;2.00;1.00;0.00
+394;"Proszę zainstlowac sobie klienta i synchronizować pliki na komputerze. To jedyne rozwiązanie. Pozdrawiam, JK.";1.00;0.00;0.00;0.00;1.00;0.00
+395;To chyba nie ma żadnego związku z pulą smsów. Prośba o wsparcie. Pozdrawiam AB.;0.00;0.00;1.00;1.00;1.00;1.00
+396;"Dziękuję za zwrócenie uwagi na interfejs. Co do konieczności podpisu to proszę się zwrócić z pytaniem do Panów z samej góry. Z poważaniem, Stefan Nowak.";2.00;0.00;0.00;0.00;1.00;1.00
+397;"Koleżanka dzisiaj powiedziała, że formularz jest aktywny i będę mogła z niego skorzystać. Ale jeżeli jest inaczej, to przepraszam. Pozdrawiam Anna Nowak.";1.00;0.50;0.50;1.50;0.50;1.50
+398;"Problem był związany z wczorajszymi problemami z widokiem zwracającym użytkowników. Teraz już nie będzie się powtarzał. Pozdrawiam, Stefan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+399;"Prośba o wsparcie. Podajcie chociaż info czy i kiedy się tym zajmiecie. Pozdrawiam, Marta.";0.00;0.00;1.00;0.00;1.00;1.00
+400;"Dzień dobry. Tak można zarezerwować platformę do wykonania testów w dniach 20 i 21 września. Podczas spotkania może być maksymalnie 4 prezenterów i 4 kamery. Pozdrawiam, Mateusz Kowalski.";0.00;1.00;0.00;1.00;0.00;1.00
+401;Na serwerze produkcyjnym powinna już być możliwość podpisania dokumentów. Proszę o test. Stanisław.;1.00;0.00;0.00;0.00;0.00;0.00
+402;"Dzień dobry, kategoria została dodana. Może Pan już złożyć wnioski w tych kategoriach. Pozdrawiam, Karolina Nowak.";0.50;0.50;2.00;0.00;1.00;0.50
+403;"No i oczywiście czy mogę tymczasowo wpisać te informacje, z tym, że to nic nie da... Pozdrawiam, Kuba.";1.00;0.00;2.00;1.00;0.00;0.00
+404;Trwają prace nad poprawieniem tego błędu w wersji webowej. Będziemy informować na bieżąco. Z wyrazami szacunku Stefan Kowalski.;1.00;0.50;0.00;0.50;0.50;0.00
+405;"Próbowałem się zalogować ale konto cały czas było w ""użyciu"". Być może sytuacja już się zmieniła, ale nie miałem czasu sprawdzić. Pozdrawiam, Krzysztof Nowak.";1.00;0.50;0.50;0.50;0.00;0.50
+406;"Niestety wygląd zależy od rozdzielczości, wysokości czcionek, rodzaju przeglądarki i w końcu od SO. Ogólnie pracujemy nad tym.  Pozdrawiam, Andrzej Kowalski, zespół programistów.";2.00;0.00;1.00;0.00;0.00;0.00
+407;"Taka funkcjonalność nie była oprogramowana. Weźmiemy po uwagę przy rozwijaniu systemu, ale nie jest to prosta sprawa. Pozdrawiam, Marcin Nowak.";1.50;0.50;0.00;1.00;0.50;0.00
+408;"Sprawdzimy czy na Pański nr były jakieś niedostarczone SMSy. Jeśli tak, to prześlemy ponownie. Z wyrazami szacunku Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+409;"Panowie, to jak jest teraz? Powinien działać, czy nie? Zakładam, że już działa. Grzesiek.";0.00;0.00;0.00;1.00;1.00;0.00
+410;Lista użytkowników jest wielokrotnie zduplikowana. Michał pracuje nad likwidacją duplikatów. Kasia.;0.00;0.00;0.00;0.00;1.00;1.00
+411;"Teraz jeszcze doczytałem, głosowanie będzie 1 - tylko to z numerem 1. Głosowanie 2 pojawi się dopiero na spotkaniu fizycznym. Pozdrawiam, Stanisław Kowalski.";1.00;0.00;0.00;1.00;0.00;0.00
+412;"Osób głosujących będzie 7, jedna z osób w komisji jest bez prawa głosu. To trochę komplikuje sprawę. Pozdrawiam, Katarzyna Nowak.";1.00;0.00;2.00;1.00;0.00;2.00
+413;"Zmapowano dostęp do zasobu jako dysk sieciowy z wykorzystaniem poświadczeń konta  domenowego ""xxxx.xxxx"". Temat zamknięty. Pozdrawiam, Janek.";1.00;0.00;0.00;0.00;0.50;0.00
+414;"To jest chyba inna sytuacja niż ta, z którą mieliśmy wcześniej do czynienia? Proszę o wsparcie. Marcin";0.50;0.00;1.00;0.50;0.00;1.50
+415;"Przekazuję do Stefana. Stefan to jest w miarę nowa kategoria zagadnienia, musisz zerknąć co ogranicza listę u was ewentualnie daj mi info do tego przypadku, żebym też wiedział. Andrzej.";2.00;1.00;0.00;2.00;1.00;2.00
+416;"SQL zwraca listę użytkowników, koledzy z XXX zerknijcie co powoduje błąd. Atrybuty w dalszym etapie stają się puste. Adam.";2.00;0.00;0.00;0.00;1.00;1.00
+417;"Propozycja została zapamiętana i zgłoszona do rozpatrzenia do wersji systemu 2.0. Dziękujemy bardzo za propozycję. Pozdrawiam, Michał Kowalski.";1.00;1.00;0.00;0.00;0.00;0.00
+418;"Tak działa, bardzo dziękuje za szybką reakcję. Bardzo mi Pan pomógł. Pozdrawiam.";0.67;1.67;0.67;0.33;0.00;0.67
+419;"Dzień dobry! Tak, w tym momencie wygląda prawidłowo, potestuję jeszcze i dam znać. Dziekuję, Jakub Nowak.  ";2.00;2.00;0.00;0.00;0.00;0.00
+420;"Panie Michale, przypominam się w sprawie dostępu do danych kadrowych. Co w piątek nie udało się, musi się udać dzisiaj. Jan Kowalski.";1.00;0.25;0.75;0.50;1.00;1.00
+421;"Chyba to tylko kosmetyka w wydruku. Panowie, poprawcie to w wolnej chwili. Kasia.";0.00;1.00;0.00;0.00;0.00;0.00
+422;"Niestety cały czas jest to samo, nie działają mi te same moduły co wczoraj wieczorem. Żadnych zmian nie zaobserwowałem. Pozdrawiam, Marcin Kowalski.";1.00;0.00;2.00;0.00;0.00;0.00
+423;"Przejrzałem kilka modułów, w każdym są użytkownicy. Może to chwilowy. Jakby wróciło to proszę podać kod działu. ";0.75;0.00;0.25;0.25;0.25;0.25
+424;"Nie ma już potrzeby instalować programu na innym komputerze. Udało mi się rozwiązać problem przez przywrócenie starszej kompilacji systemu co przywróciło starą strukturę wpisów w rejestrze. Pozdrawiam, JK.";2.00;0.00;1.00;1.00;0.00;0.00
+425;Widok ulega odświeżeniu więc to normalne. Można pomyśleć o tym aby zapamiętywał. Jakub.;0.00;0.00;0.00;0.00;0.00;0.00
+426;"Panie Michale, wkrótce powinien Pan otrzymać link aktywacyjny na skrzynkę służbową. Krzysztof.";1.00;0.00;2.00;1.00;0.00;2.00
+427;"Uprawnienia nadałem. Proszę pamiętać o tym, że uprawnienia dotyczą całej firmy a nie tylko Pani działu. Proszę przypomnieć o tym Pani Ani. ";1.00;0.00;0.00;0.33;0.67;0.00
+428;"Według mnie już nie ma powtórzeń nazwisk. Problem z podpisanymi a nieistniejącymi protokołami przekazałem do programistów. Według mnie ma to związek z używaniem programu XXXX. Z wyrazami szacunku, Jacek Kowalski.";1.50;0.50;1.00;1.50;0.50;1.00
+429;"Ze zgłoszenia i zrzutów ekranu wynika, że chyba najpierw Wy musicie pomóc a dopiero później nasza kolej. Karolina.";0.50;0.50;0.50;0.00;1.50;0.50
+430;"Tak, jednak otrzymałem informację, że smsy zostaną aktywowane w poniedziałek. Pozdrawiam, Jan Nowak.";1.33;0.33;1.33;0.00;0.67;1.00
+431;" W związku z wyjaśnieniem udzielonym przez administratora sieci, zamykam zgłoszenie. Z poważaniem, Agnieszka Nowak.";2.00;1.00;0.00;0.00;0.00;0.00
+432;"Ale rozumiem, że wersje elektroniczne zostały wysłane do Dyrektora? Jeśli nie to trzeba je wysłać jak najszybciej to możliwe. Pozdrawiam, Aleksnadra Kowalska.";0.00;0.00;1.00;1.00;2.00;0.00
+433;"Dziękuję za szybką odpowiedź, niestety ta lista dotyczy warsztatów z zeszłego roku. Można prosić o korektę? Pozdrawiam, Anna Nowak.";1.00;0.00;2.00;1.00;0.00;1.00
+434;"Proszę sprawdzić. Logując się za Panią wszystko widzę. Na pewno ma Pani stabilne połączenie sieciowe? Pozdrawiam, AB.";0.00;2.00;2.00;0.00;1.00;1.00
+435;"Wg mojej wiedzy nie jest Pani upoważniona do wprowadzania sprawozdań rocznych. Trzeba to zrobić w innym systemie. Proszę zgłosić się do dyrekcji w tej sprawie. Pozdrawiam, Jan Kowalski.";0.75;0.25;1.25;0.75;0.25;0.75
+436;"Dzień dobry. Odpowiedzi Państwa są jak zwykle jest wyczerpujące i zrozumiałe. Jestem bardzo wdzięczny. Pozdrawiam, Mateusz Kowalski.";0.00;1.00;0.00;1.00;1.00;2.00
+437;"Michał, czy to Twój użytkownik? Chodzi o domenę xxx? Do jakiego zasobu ma być przyznany dostęp? Pozdrawiam, Ania.";0.50;0.00;0.00;0.50;0.00;1.00
+438;"Superadmin - zrzuty ekranu, niestety w jednym przypadku nadal problem. Panowie, do dzieła. Andrzej.";0.00;0.00;0.00;0.00;0.00;0.00
+439;Panowie czy jesteście w stanie Panu pomóc?? Od 3 dni nie ma reakcji z waszej strony!;0.00;0.00;1.00;0.00;2.00;0.00
+440;"Szanowna Pani Anno, Pracujemy nad aktualizacją oprogramowania odczytu tablic rejestracyjnych przez Kamery. Pozdrawiam, Grzegorz Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+441;"Chyba 2 lata już korzystam z tych kart, te drugie są krócej, ale nie pamiętam ich i nie wiem czy jest ten sam problem. Pozdrawiam, Agnieszka Nowak.";0.00;0.00;0.00;0.00;0.00;1.00
+442;"Dzień dobry. Ja przy zakładaniu sprawy najeżdżam na ikonkę i właśnie wtedy nie rozwija się lista. Proszę o pomoc. Pozdrawiam, Katarzyna K.";1.00;0.00;1.00;0.00;1.00;0.00
+443;"Nie widzę błędu w przypadku Pana Andrzeja. Ma on w obu zakładkach te same dane: powierzono 12 zrealizowano 9. Brakuje 3 projektów. Pozdrawiam, Stefan.";1.00;0.00;0.00;0.00;0.00;1.00
+444;"Dzień dobry, uprawnienia do aplikacji XXXXX zostały nadane. Po wylogowaniu się z portalu i ponownym zalogowaniu do niego link do aplikacji XXXXX powinien już być widoczny. Z wyrazami szacunku, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+445;"Szanowna Pani, zgłoszenie zostało zarejestrowane na podstawie poprzedniej wiadomości. Dane do logowania do testowej wersji systemu zostały już do Pani przesłane. Z poważaniem, zespół wdrożeniowy XXX.";2.00;0.00;0.00;0.00;0.00;0.00
+446;Damian pytamy Ciebie ponieważ na Worku widniejesz jako osoba która najwięcej wie na ten temat. Karolina.;0.00;0.00;0.33;0.33;0.67;0.33
+447;"Tego typu zmiany może wprowadzić właściwy dla tego przypadku organ firmy. Proszę skontaktować się z dyrekcją. Pozdrawiam, Anna Nowak.";1.00;0.00;0.00;0.00;0.00;0.00
+448;"Proszę o więcej szczegółów. Niestety nie potrafię rozszyfrować nr 64903. Nie wiem co oznacza. Z poważaniem, Andrzej Kowalski.";1.00;0.50;1.00;1.00;1.00;1.00
+449;"Proszę kliknąć na test, potem wybrać podejścia i można zobaczyć przegląd podejścia do testu każdego użytkownika. Dla ułatwienia przesyłam zrzuty ekranu. Pozdrawiam JK.";2.00;0.00;0.00;0.00;0.00;0.00
+450;"Dzień dobry, bardzo dziękuję za pomoc. Po przeniesieniu wszystkich plików do nowo założonego folderu, z sukcesem, udostępniłam folder podległym Pracownikom. Dziękuje i życzę nam wszystkim miłej pracy. BB.";0.00;2.00;0.00;0.00;0.00;1.00
+451;"Dzień dobry, czy podana przez kolegę porada okazała się skuteczna? Prosimy o informację zwrotną. Pozdrawiam AA.";1.00;0.50;0.50;1.00;0.00;1.00
+452;"Konradzie, jak sprawa? Jeśli problemy nadal trwają, to czy dotyczą tylko tego jednego certyfikatu, czy raczej nie jesteśmy w stanie utworzyć żadnego?  Marcin";0.00;0.00;0.00;2.00;1.00;1.00
+453;"Pytania może Pan zmienić w teście. Proszę kliknąć na test, a następnie w bliku Administracja testem wybrać opcję: edytuj zawartość testu (zrzut ekranu). Jeśli nie zostało zarejestrowane choć jedno podejście można edytować zawartość testu. ";2.00;0.00;0.00;0.00;0.00;0.00
+454;"Adamie! W systemie nie widać komentarzy pani Eli. Pojawiają się dymki, ale nie ma tekstu. Masz pomysł co to może być? Brak jakichś uprawnień? Na forum komentarz został wysłany prawidłowy. Pozdrawiam JK.";2.00;0.00;1.00;0.00;1.00;0.00
+455;"Dzień dobry, odpowiedzi na wszystkie pytania udzielono podczas dzisiejszych konsultacji. Pozdrawiam BB.";2.00;1.00;0.00;0.00;0.00;0.00
+456;"Dzień dobry, odpowiedzi na wszystkie pytania udzielono podczas dzisiejszych konsultacji. Pozdrawiam AA.";1.50;0.00;1.00;0.50;0.00;0.00
+457;"Dzień dobry, przepraszamy za zwłokę w odpowiedzi. Administrator pracuje nad rozwiązaniem problemu. Jak tylko się z nim upora niezwłocznie o tym fakcie poinformujemy. Pozdrawiam JK.";2.00;0.00;0.00;0.00;0.00;0.00
+458;"Potwierdzam jutrzejsze spotkanie o 10:00 na Teams, w celu omówienia możliwości głosowania tajnego. Pozdrawiam AA.";1.00;1.00;0.00;0.00;0.00;0.00
+459;"Dzień dobry, niestety nie - wpisywałam zarówno z domeną, jak i bez, wielokrotnie, upewniając się przy tym, że hasło wpisałam prawidłowo. Pozdrawiam serdecznie";2.00;0.00;1.00;1.00;1.00;1.00
+460;"Powyższa analiza to niestety jeszcze nie jest znaleziona odpowiedź. Poszukiwania ciągle w toku. Z uszanowaniem, JK.";1.50;0.00;0.50;0.00;0.00;0.00
+461;"Dziękuję, muszę to wszystko przeanalizować. Proszę tylko o przypomnienie (link) do szkolenia, o którym Pan wspomniał. Pozdrawiam BB.";2.00;0.00;0.00;0.00;0.00;0.00
+462;Sprawdziłem - nie zauważyłęm problemu. Proszę sprawdzić jeszcze raz.;1.00;0.00;1.00;1.00;1.00;0.50
+463;"Problem został rozwiązany tydzień temu, Bez problemu wprowadziłam autorów. Dziękuję AA.";1.00;1.00;0.33;0.67;0.67;0.67
+464;Udało mi się odszukać test. Pomylił Pan pole hasła z adresem sieci. Hasło powinno być wpisane linie wyżej. Przesyłam zrzut. Proszę poprawić i powinno działać.;1.33;0.00;0.67;0.33;0.33;0.33
+465;Proszę zespół programistów o zajęcie się problemem. Nie wiem czy Pan ma złożone jakieś oświadczenie o dostępie do tej aplikacji.;2.00;0.00;0.50;1.00;0.50;1.00
+466;Nic więcej raczej nie napiszę. System powstawał w latach windowsa XP i nie obsługuje Unicode. Jak użytkownik nie może przełączyć języka dla aplikacji nieunicode na polski to nic nie poradzimy.;0.00;0.50;1.50;0.50;0.50;1.00
+467;"Dzień dobry. Tak, bardzo proszę o pomoc przez teamsa. Czy może być jutro, w środę, o 11.15?";1.00;0.00;0.00;1.00;2.00;1.00
+468;"Damina, w zgłoszeniu masz numer telefonu do Pani. Spróbuj się z nią skontaktować. Może szybciej załatwisz sprawę telefonicznie? AA.";0.00;0.00;0.00;0.00;1.00;0.00
+469;"Panie Wiktorze, bardzo dziękuję za pouczającą rozmowę. Wszystko zostało wyjaśnione. Dziękuję za poświęcony czas. Pozdrawiam serdecznie BB.";1.67;1.33;0.00;0.33;0.67;1.00
+470;"Dzień dobry, proszę skontaktować się z odpowiednim działem. Operatorzy działu mają możliwość wycofania procesu z poziomu programu. ";2.00;1.00;1.00;0.00;1.00;0.00
+471;Bardzo dziękuję za pomoc i zaangażowanie. Temat jest zamknięty. Jan Kowalski.;1.33;1.33;0.00;1.33;0.00;1.67
+472;"Dzień dobry, proszę o ponowne złożenie formularza  z przedłużonym terminem ważności konta i oczywiście proszę o podanie numeru telefonu. Hasło prześlemy na ten numer.";1.50;0.00;1.50;1.50;0.00;2.00
+473;"Piotrze, wyjaśnij z p. Nowakiem sprawę bezpośrednio, tak jak prosimy. Ze strony biura to będzie tylko głuchy telefon.";1.00;0.00;1.00;0.00;1.00;0.00
+474;"Czy informacje, które podałem na samym początku były Panu przekazane?";1.00;0.00;0.00;0.00;1.00;0.00
+475;"Andrzej, czy mogę poprosić Cię o oficjalny komentarz w tej sprawie? Jako decyzję.";1.00;0.00;0.00;1.00;0.00;0.00
+476;"Nie wiem, czy to dobra forma odpowiedzi, ale chciałem tylko Pani serdecznie podziekować za pomoc.";0.00;1.00;0.00;0.00;0.00;0.00
+477;Pan ma 1 publikację z 2020 r. Nie upoważnił do jej wykazania ani nie potwierdził ze niczego nie brakuje.;1.00;0.00;0.00;0.00;0.00;0.00
+478;"Rozmawiałem telefonicznie z Nowakiem. Ponoć sprawy są w toku, rozwiązanie częściowo ustalone, choć nie wszystko zostało jeszcze dopięte na ostatni guzik. Piotrze, p. Nowak czeka na telefon od Ciebie.";1.00;0.00;0.00;2.00;1.00;2.00
+479;"Piotr, ale w końcu dzwoniłeś do p. Nowaka? Jak napisałem, rozmawiałem z nim telefonicznie w piątek i to co byłem w stanie ustaliłem, ale nie wiem, czy to wszystko. Tu już była potrzeba Twoja pomoc.";0.20;0.20;0.40;0.40;0.40;0.40
+480;"Czy sprawa jest zakończona? Tak bym podejrzewał, patrząc na ostatni wpis.Ale może jednak nie? Wtedy prosiłbym o wpisanie jawnego komentarza.";2.00;1.00;1.00;1.00;0.00;0.50
+481;"Marcin, wskaż proszę kto aktualnie zajmuje się certyfikatami. Pytanie kieruję do Ciebie z racji tego, że przejąłeś zadania po Pawle. AA. ";0.00;0.00;0.00;0.00;0.00;1.00
+482;"Dziękuję za zgłoszenie, mam nadzieję, że wszystko jest w porządku. Zamykam sprawę. Marcin";1.00;0.00;0.00;0.00;0.00;0.00
+483;"Dzień dobry, wiadomo nam o wcześniejszej awarii dzisiaj, ale podobno została już usunięta. Proszę o potwierdzenie Marcin.";1.00;0.00;1.50;1.00;0.50;1.00
+484;Po przesłaniu do systemu i ponownym otworzeniu godziny się pokazały. Więc chyba problem należy uznać za załatwiony;1.00;1.00;0.00;0.00;0.00;0.00
+485;"Dzień dobry, problem został przed chwilą rozwiązany - prośba o ponowne sprawdzenie logowania. Pozdrawiam JK.";1.00;1.00;0.00;1.00;0.00;0.00
+486;Sprawę należy równolegle procedować u admina domeny dokt który to zakładał konta w usłudze google.;0.00;1.50;1.50;0.50;1.00;1.00
+487;"Dziękuję bardzo za wiadomość. Oczywiście chętnie zainstaluję MS Outlook, ale skąd mogę go pobrać? Pozdrawiam serdecznie BB.";0.00;2.00;0.00;0.00;0.00;0.00
+488;"Dziękuję za przesłanie linków. Pozwoli to mam nadzieję na diagnozę sytuacji. Pozdrawiam, JK.";0.00;2.00;0.00;0.00;0.00;0.00
+489;Najszybciej i najbezpieczniej będzie jak poda Pan nr telefonu komórkowego zainteresowanej osoby. Prześlemy smsem. Pozdrawiam JK.;2.00;0.00;0.00;0.00;0.00;0.00
+490;"Proszę o podanie numeru osobistego telefonu komórkowego, na który będziemy mogli przesłać SMS-em hasło do konta email.";1.00;0.00;0.00;0.00;0.00;0.00
+491;"Pytanie to należy skierować do osoby, która podejmuje decyzje w tym zakresie. My zrealizujemy tak jakie dostaniemy dyspozycje.";0.00;0.00;1.00;1.00;1.00;0.00
+492;"Łukaszu, możesz wpisać Panu odpowiedź jawnym tekstem. Gdyby chodziło o jakąś inną kwestię, to pewnie się tego dowiemy po ewentualnej reakcji. Marcin";1.00;0.00;0.00;1.00;1.00;0.00
+493;Dziękuję za odpowiedź. W jaki sposób mogę zestawić połączenie VPN? Czy jest do tego dostępny jakiś przewodnik?;2.00;1.00;1.00;0.00;0.00;1.00
+494;Niestety zaproponowane rozwiązania są czasochłonne z uwagi na procesy synchronizacji . Proponuję żebyście zrobili zrzut do tgz tej skrzynki. I to przekażemy użytkownikowi. JK.;2.00;1.00;0.00;2.00;1.00;0.00
+495;"Dzień dobry, czy wskazane przez kolegę rozwiązanie jest wystarczające, a może potrzebuje Pani dodatkowych wskazówek? Oczywiście służymy wsparciem. Proszę o informację zwrotną. Pozdrawiam BB.";1.00;0.00;0.00;0.00;0.00;0.00
+496;"Dzień dobry, czy mimo wskazanej instrukcji potrzebuje Pani od nas jeszcze jakiego wsparcia w temacie? Proszę o informację zwrotną. Pozdrawiam JK.";1.00;1.00;0.00;0.00;0.00;0.00
+497;"Piotr, jeśli możesz, pomóż. My się po prostu nie wyrobimy – non stop wspieramy migrację poczty.";0.60;0.60;0.60;1.40;1.00;0.60
+498;Dzień dobry dziekuję za pomoc. Utworzylam dwa foldery na nowej poczcie pusty i na starej z wszystkimi mailami. Jednak ze względu na prace w mac’u mam problem z przeniesień foldera ze starej poczty do nowej.;0.50;0.50;0.50;0.00;0.00;0.00
+499;W chwili obecnej trwają prace modernizacyjne nad tym modułem. Ich zakończenie planowane jest na przyszły tydzień.;1.50;2.00;0.00;1.50;1.00;2.00
+500;"Panowie nie znalazłam w naszej ani w waszej bazie wiedzy informacji kto nadaje uprawnienia supernadmina. Pozdrawiam, Magda.";1.00;0.00;1.00;0.00;0.00;0.00
+501;"Ponowna rejestracja pakietu pomogła, kalendarze są widoczne w aplikacji. Dziękuję za pomoc i pozdrawiam. Stefan Kowalski.";1.00;1.33;0.67;0.33;0.00;0.33
+502;"W przypadku posiadanego przez nas programu XXXX środowisko jest wykorzystywane jako serwer wymiany plików, baza danych m.in. do weryfikacji licencji na komputerach na stanowiskach pracy. Z wyrazami szacunku, Adam Nowak.";0.67;0.67;0.67;0.00;0.33;0.33
+503;"Jakich danych brakuje? Proszę o id projektu w którym jest wpisany wspomniany użytkownik. Pozdrawiam, Stefan.";1.00;0.00;2.00;1.00;0.00;2.00
+504;"Mieliśmy podobne zgłoszenia, pomógł restart komputera. Michale, czy restartowałeś maszynę? Jakub.";0.00;0.00;0.00;0.00;0.00;0.00
+505;"W bazie kadrowej nie ma zarejestrowanej nowej umowy. Nadal czekamy. Pozdrawiam, KK.";1.50;0.00;0.50;0.00;0.00;0.50
+506;"Dzień dobry. Przesłałem mail z prośbą o instalację. Proszę o informację czy po zainstalowaniu i restarcie komputera problemy ustąpiły. Pozdrawiam, Kamil Kowalski.";1.00;0.00;0.00;0.00;0.00;0.00
+507;Usunąłem klucz produktu. Odinstalowałem pakiet. Zrestartowałem system. Pobrałem instalator ze strony xxx.xxx. Zainstalowałem. Sprawdziłem licencję. Problem pozostał... Dramat!;0.75;0.25;1.50;1.00;1.00;0.75
+508;Proponuję przesunąć tę całą operację jeszcze o dwa tygodnie. Może wtedy jakoś uda się to opanować.. przynajmniej skopiuję tekstowe najważniejsze maile.;2.00;2.00;2.00;2.00;2.00;1.00
+509;Jak facet podał telefon to może warto zadzwonić i spytać co dalej bo nic poza chęcią zmiany nie mamy. ;0.00;0.00;1.00;0.00;1.00;1.00
+510;"Nie wiem dlaczego mi ta sprawa uciekła. Oczywiście podoba mi się rozwiązanie polegające na aliasie pocztowym, bo jak się domyslacie nie hostujemy serwerów pocztowych jednostek, gdyż jest to niezgodne z polityką pocztową uczelni.";1.00;0.00;2.00;1.00;0.00;2.00
+511;"Mam nadzieję, że migracja przebiegła bez większych kłopotów. Dziękuję za zgłoszenie. Marcin";1.00;2.00;0.00;1.00;0.00;0.00
+512;"Panowie, czy brakuje Wam jakiś danych o które możemy zapytać użytkownika? BB. ";1.00;2.00;1.00;0.00;0.00;1.00
+513;"Tak, w zakresie informacyjnym jak najbardziej tak. Proszę zamknąć zgłoszenie.";0.00;0.00;0.00;0.00;0.00;0.00
+514;Bardzo serdecznie dziękuję. Na pewno się przypomnę za te około 2 tygodnie.Pozdrawiam AA.;1.00;1.00;0.00;0.00;0.00;0.00
+515;"Zbyszku, czy jeszcze jakoś możemy Ci pomóc w tej sprawie? Jeżeli nie zamknę zgłoszenie. BB. ";0.00;1.00;2.00;1.00;0.00;1.00
+516;"Dzień dobry, za około 2 tygodnie, będzie szansa na otrzymanie archiwum w postaci pliku tgz. Jeżeli jest Pan zainteresowany to proszę się za te 2 tygodnie przypomnieć. Pozdrawiam BB.";1.00;0.67;0.00;0.33;0.00;0.67
+517;"Darku, dziękuję za rozmowę telefoniczną. Jak wiesz, ustalenia technikaliów są w trakcie, wkrótce w tym zgłoszeniu podamy więcej informacji.  Marcin";0.50;0.50;0.00;0.00;1.00;0.50
+518;Krzysztof żeby trafiło to do użytkownika nie może być w komentarzu ukrytym. Odkryj go proszę. My nie mamy takiej możliwości.;0.00;1.00;1.00;1.00;1.00;1.00
+519;"Rozumiem, postaramy się w takim razie ustalić coś więcej w kwestii wymienionych osób i dam znać.pozdrawiam. JK.";1.00;0.00;1.00;0.50;0.00;1.00
+520;A nie możecie sami przekopiować? Info było do Was a nie do użytkownika.;0.00;0.00;0.00;0.00;2.00;0.00
+521;"Panowie, byłam pewna że zmiany osobowe wprowadza do systemu Dział Osobowy. Skąd to nieporozumienie? Czy Wy coś wiecie kto wprowadza tego typu poprawki? JK. ";0.00;0.00;2.00;0.00;0.00;2.00
+522;"Dziękuję. Poproszę jeszcze o listę adresów e-mail wszystkich mających prawo do głosowania. Roześlemy do nich link do głosowania Adresy recenzentów pracujących zdalnie już mam, potrzebne pozostałe osoby.";2.00;0.00;0.00;0.00;0.00;0.00
+523;"Interesują mnie zwłaszcza zapisy dotyczące prywatności i dostępu do treści. Pamiętam, że były gdzieś dostępne w zasobach firmy, ale nie mogę znaleźć polityki prywatności dla produktów.";1.50;0.00;1.00;0.50;0.00;1.00
+524;"Bardzo dziękuję i czekam na potwierdzenie stanu rzeczy, które będziemy mogli przekazać zainteresowanemu. AA. ";0.00;1.50;1.00;0.50;0.00;0.00
+525;"Dzień dobry w nawiązaniu do wiadomości z 24 lipca informuję, iż w programie Office365 w dalszym ciągu figuruje moje poprzednie nazwisko. Pozdrawiam ";1.00;1.00;0.50;0.50;1.00;1.50
+526;"Dzień dobry, przekazujemy sprawę do analizy. Najwyraźniej coś poszło nie tak podczas automatycznej wymiany informacji między bazami danych.  Marcin";1.00;0.00;0.00;0.00;0.00;1.00
+527;"Dzień dobry, proszę o informację, czy przekazane informacje są wystarczające, czy może jeszcze możemy być pomocni w konfiguracji hostingu? Adam.";1.00;0.00;0.00;0.00;0.00;0.00
+528;"To że usługa jest wyłączona to my wiemy, pytanie brzmiało czy będziemy odzyskiwać dane, proponuję czytać komentarze z zrozumieniem.";0.00;0.00;1.00;0.00;2.00;1.00
+529;"No i to jest to, czego się obawiałem. Konto się stworzyło jeszcze raz albo wykopało z archiwum. Na ten moment nie mam pomysłu jak tego człowieka wywalić z systemu, muszę pomyśleć...";1.00;0.00;2.00;1.00;0.00;0.00
+530;"Ja nie mogę wydobyć danych. Pliki są podzielone na równe fragmenty. Nie mam możliwości ich wydobycia ""od tyłu"". Możesz zaproponować Pani odwołanie się do dyrektora.";0.00;0.00;0.00;2.00;0.00;0.00
+531;Prawdopodobnie chodziło o brak powiadomienia przy zamykaniu katy bez zapisu. Koledzy dorobili odpowiednie zabezpieczenie. ;1.00;0.00;0.00;0.00;0.00;1.00
+532;"Krzysiek, napisze proszę otwartym tekstem, kiedy można się spodziewać rozwiązania. Nawet jeśli nie może podać daty, to przynajmniej zgrubny czas.";0.00;0.00;0.00;1.00;1.00;0.00
+533;"Bardzo dziękuję za szybką reakcją z Państwa strony i za okazane wsparcie. Pozdrawiam, JK.";1.00;2.00;0.00;0.00;0.00;1.00
+534;"Dzień dobry, proszę o informację jakie umiejętności powinna taka osoba posiadać oraz jakie będą jej obowiązki (czynności do wykonania). Nie mamy wcześniejszych doświadczeń stąd moje pytanie. Z poważaniem AA.";2.00;1.00;0.00;1.50;0.50;1.00
+535;"OK, z powodu szczytu okresu urlopowego trudno teraz dostać potwierdzenie jak to powinno wyglądać. Dlatego poproszę może inne osoby od poczty o wypowiedzienie się jak to wygląda od strony formalnej.";0.50;0.00;0.50;0.00;0.50;0.50
+536;"Przypomnę, iż takie ustalenia i włączenia dostępu dla użytkownika wymagają odgórnych zgód.";0.00;1.00;2.00;0.00;1.00;1.00
+537;"Z rozmowy wynika że niezależnie od systemu operacyjnego, przeglądarki efekt jest ten sam.wygląda na to jakby problem polegał na ustawieniach konta ale z poziomu użytkownika nic się nie daje zrobić.";1.00;0.50;2.00;0.50;1.00;1.50
+538;"Po rozmowie telefonicznej z Panią Agatą , czekamy na informacje o dokładnej dacie przenoszenia stanowiska.";0.00;0.00;0.00;0.00;0.00;0.00
+539;Tak dla formalności to chyba przełożony przyszłego użytkownika zgłasza potrzebę dostępu a nie sam użytkownilk. To są dane finansowe i nie mogę być udostępniane każdemu kto sobie chce.;2.00;1.00;0.00;2.00;0.00;2.00
+540;"Panie Piotrze,dziękuję za informację. Przekazałem ją zespołowi sieciowemu.  Marcin";1.00;1.00;0.00;0.00;0.00;0.00
+541;"Dzień dobry, poproszę o przesłanie linku do strony oraz do ankiety, której zrzut ekranu umieścił Pan w zgłoszeniu. Pozdrawiam JK.";1.50;0.50;0.00;0.00;0.00;0.00
+542;"Wprowadziłem ""Przyjaźniejszy"" komunikat o błędzie wraz z jego logowaniem. Usunąłem usuwanie zmian danych dopóki wysyłka lub zapis w pełni się nie powiedzie.Proszę o sprawdzenie i informację zwrotną.";1.00;0.00;2.00;1.00;0.00;2.00
+543;"Panowie, czy możemy coś odpowiedzieć, czy gramy na zwłokę aż się wyklaruje sprawa z wdrożeniem?";0.00;0.50;0.50;1.00;0.50;0.50
+544;"Oprogramowanie zostało wydane, na wniosek który do nas wpłynął. Zamykam zgłoszenie.";1.00;0.00;0.00;0.00;0.00;0.00
+545;"Uwaga, nic się tu nie dzieje – mam zamiar zamknąć to zgłoszenie w ramach sprzątania. Jeśli chcecie to powstrzymać, dajcie głos.  Marcin";2.00;1.00;0.00;0.00;0.00;2.00
+546;"Dzień dobry. Niestety błąd się dostał do modułu, do którego nie mamy dostępu. Zgłosiliśmy problem do zespołu, który może tym się zająć. Jak będzie coś wiadomo powiadomimy Panią.";2.00;0.50;1.50;0.50;0.00;1.00
+547;"Dzień dobry, poproszę o przesłanie linku do testu w którym było realizowane podejście. Poproszę również o podanie imienia i nazwiska użytkownika u którego występuje problem. Pozdrawiam AA.";2.00;0.00;0.00;0.00;0.00;0.00
+548;"Proszę przedłużyć. Nie wiem dlaczego nie wrzuciliście do obiegu Przełożonego, skoro on ma to potwierdzić. Może nie wie jak ma takie potwierdzenie wyglądać?";1.00;0.00;0.00;0.00;2.00;2.00
+549;"Zastosowane zostały tymczasowo zmiany w konfiguracji serwera, które pozwalają wyświetlić wskazany zasób i przegląd zawartości. Sprawa będzie jeszcze kontynuowana.";0.00;1.00;2.00;1.00;0.00;2.00
+550;"W jakiej domenie chce Pani konto i w jakim dziale jest Pani zatrudniona? Pozdrawiam, Michał Nowak.";1.00;0.00;0.00;0.00;0.00;0.00
+551;"Przemku minął tydzień, czy mentalnie zbliżamy się do wdrożenia zmian?. Jeżeli tak to podaj proszę przybliżony termin. Kasia.";0.00;0.00;0.00;1.00;1.00;0.00
+552;"Przy próbie ""zaptaszkowania"" pojawia się błąd wskazany w przesłanym screenie. Co z tym zrobić? Stefan.";0.67;0.00;0.33;0.00;0.67;0.33
+553;"Panie Pawle, Ciągle ta sama sytuacja, jak na załączonym zdjęciu. W przypadku innego użytkownika cały proces się wykonał. Z poważaniem, Jan Kowalski.";0.00;1.00;0.00;1.00;0.00;1.00
+554;"Tak wagi są przypisane, widać je po lewej stronie. Zrzut ekranu w załączniku. Pozdrawiam, Agata Nowak.";1.00;0.00;2.00;1.00;0.00;1.00
+555;"Dzień dobry. Tak, ręcznie wyszukując zauważyłem że nie mam polskich znaków - stąd błąd wyszukiwania. Szukam właśnie instalatora by dokonać czystej instalacji. Pozdrawiam, Adam Nowak.";2.00;0.00;0.00;0.00;0.00;1.00
+556;"W takim razie problemem jest właśnie brak zainstalowanego dodatku. Poproszę Marcina i Andrzeja, by któryś z nich połączył się zdalnie. Pozdrawiam,Andrzej Nowak.";0.00;0.00;0.00;0.00;1.00;0.00
+557;"Dzień dobry, na komputerze nie mam zainstalowany dodatek, a załącznik w dalszym ciągu się nie otwiera. Pozdrawiam, Agata Nowak.";1.50;0.50;0.50;1.00;0.50;1.50
+558;"Dzień dobry, czy jest szansa na usunięcie usterki w dniu dzisiejszym, bo niestety w związku z rekrutacją kandydaci mają ograniczony czas na skłądanie cv? Pozdrawiam, Adam Nowak.";1.00;0.00;1.00;0.00;1.00;0.00
+559;"Proszę o pomoc w sprawie zmiany nr telefonu komórkowego wykorzystywanego do otrzymywania poświadczeń smsowych podczas pracy z systemem. Pozdrawiam, Agata Nowak.";2.00;0.00;1.00;1.00;1.00;1.00
+560;"Dziękuję za informację, numer telefonu podałam pod koniec 2020 roku, widocznie nie został wprowadzony. Pozdrawiam, Renata Kowalska.";2.00;1.00;0.00;0.00;0.00;1.00
+561;"Witam serdecznie. Tak jak wcześniej ustalaliśmy, proszę o zwiększenie limitu rozmiaru plików na portalu w dniach 7-9 września. Dam znać, zaraz po zakończeniu prac. Dziękuję i pozdrawiam, Jan Kowalski.";2.00;1.00;0.00;1.00;0.50;0.50
+562;"Informacja ode mnie, żeby było wiadomo, że ten problem został rozwiązany: sortowanie listy osób, gdy w nazwiskach występują polskie znaki diakrytyczne jest obecnie poprawne. Maciek.";0.00;0.50;0.00;0.50;0.00;1.00
+563;"Dzisiaj jestem poza biurem. Czy mogę Pana prosić o kontakt z kolegą z XXX, Adamem Kowalskim? On się u nas zajmuje tymi sprawami. Dziękuję, JK.";1.00;0.00;2.00;1.00;0.00;1.00
+564;"Czyli tak jak pisałem wcześniej - musi być lokalnie w poczcie zapisany błędnie kontakt. Nic poradzę. Z poważaniem, Jan Kowalski.";1.00;0.00;1.00;1.00;2.00;1.00
+565;"Proszę wysłać pusty mail na adres projektu, a ja Panu wyślę zrzut, w jaki sposób wyświetli się odbiorca. Z poważaniem, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+566;"Zapewniam Pana, że to nie jest problem lokalny. Ja koleżanki nie mam wpisanej w ten sposób. Jeśli ktoś z zewnątrz wysyła mail na adres projektu wyświetla się ""Jan Kowalski"". ";2.00;0.00;1.00;1.00;0.00;1.00
+567;"Dzień dobry, planowana aktualizacja jest na środę 08.09. W momencie zakończenia prac poinformujemy Państwa tutaj na kanale. Pozdrawiam, Agnieszka Nowak.";2.00;0.00;0.00;1.00;0.00;1.00
+568;"Pani Aniu, p. Michał ma dzisiaj przez cały dzień szkolenia więc sądzę, że udzieli odpowiedzi dopiero po południu. Pozdrawiam, Agata Nowak.";0.00;1.00;2.00;0.00;1.00;2.00
+569;"Programiści XXX, proszę o informację kiedy zostanie wdrożona nowa wersja programu na bazie produkcyjnej? Zmiana o której pisał Stefan. Pozdrawiam, Ania.";0.00;1.00;0.00;0.00;0.00;0.00
+570;"Przekazuję do zespołu naszych administratorów systemowo-sprzętowych do sprawdzenia. Pozdrawiam, Jan Kowalski.";0.00;0.00;0.00;0.00;0.00;0.00
+571;"Niestety, jednak nie mogę tego zrobić w poprzednim roku, bo data z tego nie jest przyjmowana przez system.";0.00;1.00;0.00;1.00;0.00;1.00
+572;Również na platformie XXXXXXX numer komórkowy do powiadomień SMS jest już uaktualniony na koncie użytkownika (wgląd ma tylko właściciel konta).;1.00;0.00;0.00;0.00;0.00;0.00
+573;"U innych osób pojawia się również. Sprawę podobno zgłosił miesiąc temu nasz kolega Jan Kowalski na BOK, ale zamknęli zgłoszenie bez rozwiązania problemu. Jak zwykle zero współpracy. ";2.00;0.00;0.00;0.00;2.00;0.00
+574;"Tak, dzisiaj planowałem. Ale otrzymałam informację, że zmian w systemach dokonują Państwo. Czy to prawda? Z poważaniem, Anna Kowalska.";2.00;0.00;1.00;2.00;1.00;0.00
+575;"Warto sprawdzić, szczególnie w przypadku Windows 10, aby ścieżka do katalogu XXX nie zawierała spacji. Proponujemy umieszczenie XXX.exe np. w katalogu C:\XXX. Zespół wdrożeniowy.";2.00;0.00;0.00;1.00;0.00;1.00
+576;"Do zdiagnozowania problemu, potrzebuję informacji z konsoli deweloperskiej o przychodzących danych. Zostawiłam wiadomość na Teams z prośbą o zdzwonienie się w tej sprawie. Pozdrawiam, Anna Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+577;"Proszę włączyć tryb edycji a następnie wybrać ikonę trybika - tak jak pokazano w załączniku. Proszę o informację czy udało się odnaleźć właściwe miejsce.  Pozdrawiam, Agata Nowak.";1.75;0.50;0.00;0.50;0.25;0.00
+578;"Administratorzy sprawdzają co jest przyczyną tego problemu. Czekamy na wyniki diagnozy. Z poważaniem, Anna Kowalska.";2.00;0.00;0.00;0.00;0.00;0.00
+579;"Czy konto może zostać założone w XXXX? Do jakich atrybutów powinno mieć dostęp? Obecnie nie posiadamy katalogu obejmującego relacje wszystkich pracowników i ich przełożonych.Pozdrawiam, Adam Nowak.";0.00;0.00;0.00;1.00;0.00;1.00
+580;"Konta są tworzone i utrzymywane automatycznie na podstawie bazy kadrowej. Z wyrazami szacunku, Michał Kowalski.";2.00;1.00;1.00;1.00;1.00;1.00
+581;"Czy konto zostanie przedłużone automatycznie po przedłużeniu umowy, czy muszę coś zadziałać w temacie? Z wyrazami szacunku, Agnieszka Kowalska.";0.00;0.00;0.00;1.00;0.00;0.00
+582;"Stary system jeszcze nie został wyłączony, ale polecam korzystanie z nowego. Pozdrawiam, Adam Nowak.";0.50;0.50;0.50;0.50;0.50;0.50
+583;"Dostałem informację mailową, że udało się poprawnie wygenerować plik PDF z danymi umowy. Zamykam zgłoszenie, w razie potrzeby można je ponownie otworzyć. Pozdrawiam, Adam Nowak.";1.50;0.75;0.00;0.25;0.00;0.25
+584;"Już wcześniej założyłam Zespół i dodałam trenera jako właściciela zespołu. Pozdrawiam, Adam Nowak.";0.50;0.00;0.00;0.50;0.00;0.50
+585;"Problem najwyraźniej udało mi się rozwiązać samemu. Okazało się, że w jakiś sposób nie byłem zalogowany. Miałem dostęp do wszystkiego, tylko nie do usługi XXXX. Dziękuję za pomoc. Z poważaniem, Jan Kowalski.";1.50;1.50;0.00;0.00;0.00;1.00
+586;"Darku proszę zarejestrować wniosek na stronie rejestru maszyn wirtualnych. Pozdrawiam, Kasia.";1.00;0.50;0.50;1.00;0.00;1.00
+587;"Dzień dobry Panie Jacku, czy będzie Pan jutro dostępnyw godz 8-10wtedy moglibyśmy się spotkać. Pozdrawiam, JK.";1.00;1.00;0.00;0.00;0.00;0.00
+588;Ja zastępuję Aleksandrę w obsłudze XXXX w trakcie jej nieobecności. Jeżeli wpisanie do XXXX rozwiąże sprawę to potrzebuję tylko numer telefonu Pana Michała. Jacek.;1.00;0.00;2.00;1.00;0.00;2.00
+589;"Pani Anna będzie się kontaktować z Państwem w tej sprawie, ponieważ nie wie jak ma to zrobić. Karta jest ciągle niewidoczna u mnie w systemie. Z wyrazami szacunku, Michał Kowalski.";0.00;1.00;0.00;2.00;2.00;2.00
+590;"Nowa wersja aplikacji została wdrożona, proszę spróbować ponownie wypełnić formularz i prosiłbym o informację zwrotną czy się udało. Pozdrawiam, Adam Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+591;"Dzień dobry, dzisiaj będzie wdrożona nowa wersja aplikacji rozwiązująca przedstawiony przez Panią problem. Pozdrawiam, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+592;"Panowie, czy możemy jakoś pomóc w rozwiązaniu problemu? Może o coś dopytać Panią?? Pozdrawiam Asia.";1.00;0.00;2.00;1.00;0.00;2.00
+593;"Przepraszam za zamieszanie. Problem muszę sam rozwiązać. Ktoś wpiął prawdopodobnie router w drugą stronę, albo uruchomił serwer DHCP na kompie. Z wyrazami szacunku, Michał Kowalski.";1.00;0.00;1.00;0.00;1.00;1.00
+594;"Panowie Programiści, co z tym możemy zrobić? Temat jest nam nieznany. Zdzisiek.";0.00;0.00;0.00;1.00;0.00;0.00
+595;"Poprawiono, Jan Kowalski jest teraz widoczny jeden raz na liście wyboru dla superadmina, po zalogowaniu widać pełna listę użytkowników.";2.00;0.00;1.00;2.00;1.00;2.00
+596;"Ja absolutnie nie czuję się administratorem stresu, bardziej powinien być on po innej stronie skoro użytkownik nieuprzywilejowany jest w stanie w systemie coś takiego robić.";1.00;0.00;0.00;0.00;0.00;1.00
+597;"Panie Marcienie, jak widać koledzy przywrócili dostęp. Nie wiem, czy to oznacza koniec prac, ale miejmy nadzieję, że tak. Bartek.";1.33;0.67;0.67;1.00;0.33;1.33
+598;"Czy dobrze zatem rozumiem, że osoby z innego działu ze względu na to ograniczenie takiej opcji nie mają tzn. nie mogą zalogować się do aplikacji?  Pozdrawiam, Agata Nowak.";1.00;0.00;1.00;0.00;1.00;2.00
+599;"Panie Grzegorzu, proszę o odrobinę cierpliwości. Rzecz okazała się dla mnie nietrywialna, ale pomoc w drodze (mam nadzieję). Pozdrawiam, Jarosław Kowalski";1.00;0.50;0.50;0.00;0.00;0.50
+600;"Niestety jestem do końca tygodnia bez komputera. Zrobię to w poniedziałek, pozdrawiam i życzę dobrego weekendu. Ania.";0.00;1.00;0.00;0.00;0.00;1.00
+601;"Uprawnienia nadane, dane do logowania wysłane mailem. Z wyrazami szacunku, Michał Kowalski.";1.00;0.00;0.00;0.00;0.00;0.00
+602;"Dzień dobry, mam nadzieję, że sprawa została już rozwiązana, a tylko nie dotarło tu potwierdzenie? Andrzej.";2.00;0.00;1.00;0.00;2.00;1.00
+603;"Witam Panie Macieju, widzę, że wszystko zmierza we właściwym kierunku, takie też przesłanie wysłałem pracownikom aby się nie martwili. Będę co jakiś czas monitorował i myślę, że problem zniknie. Miłego Dnia. Andrzej Kowalski.";2.00;2.00;0.00;0.00;0.00;0.00
+604;"Pani konto pocztowe zostało odblokowane. Proces odblokowywania może trwać do godziny. Z poważaniem, Jan Kowalski.";2.00;0.00;1.00;1.00;0.00;0.00
+605;Ok. Zrobię to i tylko pozostaje podziękować za skuteczność i super ogarnięcie tematu. Mam nadzieję że będzie ok. Katarzyna Nowak.;0.00;2.00;0.00;0.00;0.00;0.00
+606;"Elu, czekamy na odpowiedź, czy potrzebujecie przeszkolenia w tym zakresie, o co koleżanka zapytała. Pozdrawiam, Agnieszka.";0.67;0.33;1.00;0.67;0.67;0.67
+607;"Tak to XXX. Jeżeli w sierpniu nie wejdą to coś będzie trzeba działać, teraz jestem na wakacjach i korzystam tylko z telefonu (nie komputera) ale sprawa musi znaleźć śczęśliwe zakończenie bo użytkownicy bardzo słusznie są zaniepokojeni. Antoni.";0.00;0.50;1.00;1.00;0.00;0.00
+608;"Dzień dobry ,dzisiaj będę realizował zadanie. W przypadku pytań będę się kontaktował telefonicznie. Z wyrazami szacunku, Michał Kowalski.";1.00;0.00;0.00;0.00;0.00;0.00
+609;"Problem został namierzony przez firmę zewnętrzną i będzie jutro skorygowany. Pozdrawiam, Agata Nowak.";0.00;1.00;1.00;0.00;0.00;1.00
+610;"Dzień dobry, Dziękuję za odpowiedź, Formularz prześlę jutro pocztą wewnętrzną. Pozdrawiam Anna Kowalska.";2.00;2.00;0.00;0.00;0.00;0.00
+611;"Sprawa częściowo nasza, Jesteśmy w stanie wyciągnąć takie dane dla wszystkich jednoprócz WEE.";0.00;2.00;2.00;0.00;2.00;1.00
+612;"Krzychu, Twoje porady są bardzo OK, możesz je śmiało dawać otwartym tekstem ...szczególnie w tym tygodniu, bo zostałem sam na placu boju i będę wdzięczny za pomoc. Stefan.";2.00;1.00;0.00;2.00;1.00;1.00
+613;"Konto tej Pani zostało zablokowane jak widać ze względu na wysyłanie ""suspicious messages"". Zalećcie skanowanie antywirusem wszystkich kompów, na których Pani logowała się. Andrzej.";2.00;0.00;0.00;0.00;1.00;1.00
+614;"W formularzu nie zawnioskowano o nadanie uprawnień do systemu. Czy formularz jest poprawnie wypełniony? Pozdrawiam, JK.";2.00;0.00;0.00;0.00;0.00;0.00
+615;List otrzymalem 9 lipca w trakcie urlopu. Dokumenty wypelnilem z poczatkiem lipca (5-tego chyba). Michał.;1.00;0.00;0.00;0.00;0.00;0.00
+616;"Krzysztof, prośba o pomoc. Jak powinna Pani to załatwić żeby było dobrze? Pozdrawiam, Agata Nowak.";0.00;1.00;0.00;0.00;0.00;0.00
+617;"Przykro mi, ale nie dysponujemy oprogramowaniem o które Pan pyta. Projekt Platon został już zakończony i nie oferujemy oprogramowania w ramach tego projektu. Pozdrawiam, Anna Nowak.";0.00;2.00;2.00;1.00;0.00;0.00
+618;"Działamy dziś w tym temacie. Na razie usłyszałem, że usługodawca zrestartujeusługfę logowania i że to ma pomóc. Dam znać. Stefan.";1.00;0.00;0.00;0.00;0.50;0.00
+619;"Problem nadal występuje? U mnie logowanie przebiega bez problemów. Czy przy logowaniu w inkognito jest to samo? Na jakie konto próbowano się logować, czy to nie było czasem konto z domen xxx, xxxx, xxxx? Z wyrazami szacunku, Michał Kowalski.";1.00;0.00;0.00;0.00;0.00;2.00
+620;Odnośnie podpisywania protokołów były wdrażane ostatnio kolejne poprawki. Czy problem występuje nadal ? W jakim zespole? Ania.;0.50;0.00;0.00;0.50;0.50;1.50
+621;Zerknijcie na załączone zrzuty. Zrzut 2-gi pokazuje problem - 8 z 4 użytkowników .Przy zaznaczonych kilku osobach listę powinno ograniczać w ramach tych zaznaczonych. Odpisuję się od zadania. Krzysiek.;0.00;0.00;0.00;0.00;0.00;0.00
+622;"Dzień dobry, nie jest nam znana taka możliwość. Skąd pochodzą te informacje? Czy jest to może na przykład inicjatywa któregoś z kierowników? Pozdrawiam, Jan Kowalski.";0.00;1.00;0.00;1.00;0.00;1.00
+623;"Wg. mnie jesteś prawidłowo podłączony. Podaj na który serwer nie możesz wejść, bo to może być problem z filtracją. Kuba.";0.00;0.50;0.50;0.50;0.00;0.00
+624;"Niestety po aktualizacji programu (zianstalowaniu) problem pozostał. Nie mogę wejść na ssh. jak łatwiej porozmawiać to zapraszam do kontaktu tel. XXX XXX XXX. Z poważaniem, Jan Kowalski.";1.00;0.00;2.00;0.00;1.00;0.00
+625;"Serdecznie dziękuj Panowie - jak nie pójdzie wysyłam moją opowiedź na maila. Pozdrawiam, Adam Nowak.";0.00;2.00;0.00;0.00;0.00;0.00
+626;Panowie chyba jest komplet informacji potrzebnych do diagnozy. Działajcie. Michalina.;0.00;2.00;0.00;0.00;0.00;0.00
+627;"Została wdrożona nowa wersja wnioskowania eliminująca błąd, który tutaj wystąpił. Projekt został wysłany do XXX i poddana badaniu. Radek.";2.00;1.00;0.00;2.00;2.00;1.00
+628;"Wówczas będzie to traktowane jako działalność komercyjna. Jak najbardziej wówczas będzie złamanie zapisów licencji. Pozdrawiam, Kasia.";2.00;0.00;0.00;0.00;1.00;0.00
+629;"Z tytułu okresu urlopowego ,nie byłem w stanie dokończyć tematu. Jestem umówiony na poniedziałek aby wrócić do tematu. Pozdrawiam, Paweł.";1.00;0.50;0.50;1.50;0.50;0.50
+630;"A tak jeszcze dopytam... co oznacza określenie ""Windows 10 tylko do zastosowań firmowych""? Czy ma on jakieś ograniczenia? Czy nie może być zainstalowany na komputerach firmowych? Z wyrazami szacunku, Agnieszka Kowalska.";1.00;0.00;0.00;0.25;0.00;1.50
+631;Owszem na laboratoriach na większości komputerów obsługujących aparaturę jest XP. Bardziej pytam o system do zainstalowania na służbowych komputerach pracowników.;0.00;0.00;2.00;0.00;1.00;1.00
+632;"Piotrze, widzę że używasz linuxa. Spróbuj tego instalatora z załącznika. Michalina.";1.50;0.50;0.00;1.00;0.50;1.00
+633;"Dzień dobry, Pani Aniu, tak, dokładnie. Czyli firma nie posiada licencji na to oprogramowanie. Pozdrawiam, Marta.";1.50;0.50;1.00;1.00;1.00;0.50
+634;"Na ten moment dziękuję za pomoc. Kod strony będzie musiał zostać uaktualniony do php 7.4 lub 8. A tak na marginesie, czy świadczą Państwo takie usługi uaktualnienia, oczywiście odpłatnie? Takie pytanie zadała mi pani dyrektor.";0.50;1.00;1.00;1.00;0.50;1.00
+635;"Dzień dobry, czy już udało się zalogować na konto? Jeśli nie, to proszę o podanie pełnej nazwy konta, o które chodzi. Andrzej.";2.00;0.00;0.00;0.00;0.00;0.00
+636;"Dzień dobry, przystępujemy do realizacji. Jeżeli nie uda mi się znaleźć problemu, to jutro rano będę dzwonił w celu zaciągnięcia bardziej szczegółowych informacji. Marek.";2.00;0.50;0.00;0.00;0.50;0.00
+637;"Próbowałam wpisywac różne kombinacje : p, pp, p0, pr i dla każdej wyskakuje błąd. Proszę o pomoc! Pilnie! Z poważaniem, Anna Kowalska.";2.00;0.00;2.00;0.00;2.00;0.00
+638;Dzisiaj rano drukarka została przepięta na inny bezpiecznik i problem nie powinien się już pojawiać. Pozdrawiam Jan Kowalski.;2.00;0.00;0.00;0.00;0.00;0.00
+639;"Tak, mam dostęp do wszystkich możliwych informacji. Bardzo dziękuje za pomoc! Pozdrawiam, Asia Nowak.";2.00;1.00;0.00;0.00;0.00;0.00
+640;"Dzień dobry, zostałem prawdopodobnie źle przekierowany. Sprawa do zamknięcia. Pozdrawiam, Marcin Kowalski.";1.50;0.00;0.00;0.00;0.00;0.50
+641;"Z ustaleń z administratorem wynika, że powinien Pan móc się zalogować do systemu z domeny xxx.xxxxx.xxx.xx Proszę spróbować ponownie. Pozdrawiam, Agnieszka Kowalska.";1.00;1.00;0.00;0.00;0.00;1.00
+642;"Wszystkie hasła zostały przekazane przez teams oprócz dla Jana Kowalskiego. Sprawdzimy ponownie jutro. Pozdrawiam, Jan Nowak.";2.00;0.00;0.00;0.00;0.00;0.00
+643;"Panowie, o co jeszcze trzeba dopytać? A może jest już komplet informacji? Pomożecie? Pozdrawiam, Marta.";0.50;0.50;0.00;0.00;0.50;0.50
+644;"Proszę jeszcze o dołączenie zrzutu ekranu z aplikacji Dyplomowania. Bez niego nie ruszymy. Z poważaniem, Anna Kowalska.";2.00;0.00;0.00;0.00;0.00;0.00
+645;"Dzień dobry, działania kolegów były bardzo pomocne i oczywiście zgłoszenie można uznać za zakończone. Dziękuję i pozdrawiam, Alicja Kowalska.";1.00;2.00;0.00;0.00;0.00;0.00
+646;"W dniu dzisiejszym przyjdzie do Pana administrator w celu przeprowadzenia diagnostyki problemu. Pozdrawiam, Grzegorz Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+647;"Czy to są pierwsze próby uruchomienia aplikacji, czy też działała już wcześniej na tym komputerze? Z wyrazami szacunku, Agnieszka Nowak.";1.00;0.00;0.00;0.00;1.00;0.00
+648;"Dzień dobry, Panie Pawle, nienachalnie czekamy na potwierdzenie. Stefan z zespołem programistów.";1.00;0.00;1.00;0.00;1.00;0.00
+649;"Przemku czy możesz potwierdzić że użytkownik posiadał dostęp do tego modułu? Rozumiem, że dla przedłużenia dostępu obowiązuje 2 pkt waszej instrukcji? Pozdrawiam, Aga.";0.00;0.00;1.00;1.00;0.00;1.00
+650;"Pani Katarzyno, ogromnie dziękuję za okazaną cierpliwość! Również życzę dobrych i spokojnych dni. Pozdrawiam, Krzysztof Nowak.";2.00;2.00;0.00;0.00;0.00;0.00
+651;"Tak, teraz tego problemu nie ma. Po prostu nie mam żadnego użytkownika w projekcie. Takie obejście problemu. Pozdrawiam, Anna Kowalska.";2.00;0.00;0.00;0.00;0.00;0.00
+652;"Proszę o uzupełnienie we Wniosku:- sekcja C, brak zaznaczenia jaka karta duża czy mała- sekcja D, brak wypełnienia punkt 4,5,8,9- nie wpisujemy daty  Pozdrawiam AA.";1.00;0.00;0.00;0.00;1.00;0.00
+653;"Takie szkolenia pewnie ruszą w październiku, po aktualizacji platformy. Będziemy informować o tym pracowników. Postaramy  się rownież tu o Panu pamietać. Na razie zamykam zgłoszenie. Pozdrawiam BB.";1.00;1.33;0.33;1.33;0.33;0.33
+654;"Pan Nowak jest obecnie niedostępny, będę próbował jeszcze później. Tak więc na razie czekamy, ale jeśli nie uda mi się do jutra z nim skontaktować, to wtedy Was poproszę o aktywację ""read only"".";2.00;0.00;1.00;2.00;0.00;2.00
+655;"Dzień dobry. Niestety błąd się dostał do modułu, do którego nie mamy dostępu. Zgłosiliśmy problem do zespołu, który może tym się zająć. Jak będzie coś wiadomo powiadomimy Pana.";1.00;0.00;1.00;0.00;0.00;1.00
+656;Dziękuję za zgłoszenie. Sprawdzamy dostępność sali i ekipy w tym dniu. ;2.00;0.00;0.00;0.00;0.00;1.00
+657;"Dzień dobry, czy już coś wiadomo w sprawie przesłania ostatniej karty? Dalej nie można tego zrobić, a czas mam do 30.08.2020. Pozdrawiam AS.";0.00;0.00;0.00;0.00;1.00;0.00
+658;"Prace są w toku. Niestety, problem okazał się złożony. Z poważaniem PR.";1.00;0.00;1.00;0.00;0.00;0.00
+659;Nic mi o tym nie wiadomo! Nigdy nie wysyłałem żadnego spamu. Proszę o przesłanie mi takich wiadomości do wglądu panu Nowakowi.;0.00;0.00;0.00;0.00;2.00;1.00
+660;"Jestem zniesmaczony taką formą korespondencji. Dobrze byłoby zapytać mnie wcześniej czy mam coś wspólnego z rozsyłaniem spamu, zanim zagrozi mi się blokadą konta. Jan Kowalski.";0.00;0.00;0.00;0.00;2.00;0.00
+661;"Przesyłam kolejne błędy. Jeszcze jakiś się pojawiał, ale nie mogę go wyłapać. Niestety nie pamiętam przy czym się pojawiał. Z poważaniem AA.";0.00;0.00;2.00;0.00;0.00;1.00
+662;"Szanowna Pani trwawją ustalenia , poinformuję Panią w następnym emailu, pozdrawiam";1.00;0.00;0.00;0.00;1.00;0.00
+663;"Oczywiście, rozumiem. Proszę jak dotychczas w tym zgłoszeniu zamieszczać wszelkie informacje dotyczące tego wydarzenia. Pozdrawiam.";2.00;0.00;0.00;0.00;0.00;0.00
+664;Prawdopodobnie blokadę założył antywirus. Proszę o tymczasowe zablokowanie jego pracy i ponowną próbę uruchomienia programu.;1.00;0.00;0.00;1.00;0.00;0.00
+665;Dziękuję za odpowiedź. Wyłączyłam skaner oraz na wszelki wypadek również zaporę i tym razem po kliknięciu w program pojawia się komunikat o błędzie - w załączniku zrzut ekranu.  ;1.00;1.00;0.00;1.00;0.50;1.00
+666;"Dobrze. Będę o tym pamiętać, ale tak czy inaczej przy włączonym VPN wyskakuje cały czas błąd.";0.00;0.00;1.00;0.00;0.00;0.00
+667;"Panowie Programiści, uprzejmie proszę o reakcję, a przynajmniej deklarację o braku planowanej reakcji.";1.00;0.00;0.00;0.00;1.00;0.00
+668;"W systemie po nocnej synchronizacji zmiany pozostały. Wygląda na to, że procedura normalizacji ustabilizowana. ";1.00;0.00;0.00;0.00;0.00;0.00
+669;"Proszę o ponowne sprawdzenie, pozostał drobny błąd w danych kopiowanych z innej karty. Skorygowaliśmy, powinno się wysłać. Proszę o informację zwrotną.";1.33;0.67;0.00;1.67;0.67;1.00
+670;"Konieczna rozmowa - prośba o podanie numerów telefonów osób, które mają problem.";0.50;1.00;1.00;1.00;1.50;0.50
+671;Przesyłam zrzut ekranu z adresem IP oraz zrzut z próby uruchomienia programu. Pozdrawiam AA.;1.00;0.00;0.00;0.00;0.00;0.00
+672;"Dla mnie jest to zauważalne głownie przy pracy z bazą, ale czasami zauważam zrywanie połączenia ssh więc raczej z VPN ale nie jestem w stanie stwierdzić tego kategorycznie.";0.00;0.00;1.00;0.00;0.00;1.00
+673;"Piotrze masz rację, że kwestia obsługi przez nas czyjegoś outsourcingu wymaga wyklarowania.";0.00;1.00;0.00;0.00;0.00;0.00
+674;Obie wymienione przez Pana biblioteki są w odpowiednim katalogu. Dziękuje.;0.00;1.00;0.00;1.00;0.00;1.00
+675;"Można też utworzyć nowe konta, skopiować na nie wiadomości ze starych kont, na których uruchomić autorespondera czasowego z informacją, że adresy się zmieniły. A po jakimś czasie usunąć stare adresy.";1.00;0.00;0.00;0.00;0.00;0.00
+676;Ogromna szkoda. Czy z Państwa pozycji lub strony można to gdzieś wyżej zgłosić? Brak takiej możliwości jest dużym utrudnieniem.;2.00;0.00;2.00;0.00;0.00;1.00
+677;"Wiktor, czy ta sprawa została przez Ciebie obsłużona mailem?? Jeżeli zgłoszenie jest do zamknięcia to daj znać.";0.00;0.00;0.00;1.00;0.00;0.00
+678;"Dzień dobry, podanie przez Panią numeru komórkowego ułatwi nam przesłanie hasła dostępowego do konta. Podała Pani numer stacjonarny, niestety na te numery nie ma możliwości wysyłania smsów. ";1.00;0.00;0.50;0.00;0.50;0.50
+679;"Dzień dobry, hasło zostało wysłane na podany numer. Będę wdzięczny za potwierdzenie otrzymania. BB.";1.33;1.00;0.33;0.00;0.67;0.67
+680;"Adamie, mam wielką prośbę. Czy możesz zmienić status swojego komentarza na publiczny? Myślę, że to przydatna informacja dla Użytkownika, a nie ma sensu, żebyśmy tylko przeklepywali Twoje słowa.  AA.";0.00;0.00;0.00;0.00;1.00;0.00
+681;"Dzień dobry! Mogę już edytować, ale próba wysłania kończy się komunikatem jak w screenie";0.67;0.33;0.67;0.67;0.00;0.33
+682;"Piotrze, pomóż proszę. Jak widzisz mamy wątpliwości, a informacje na stronie WWW najwyraźniej nie wyczerpują tematu.";0.50;0.00;0.50;1.00;0.00;0.50
+683;"Proszę o informowanie nas w zgłoszeniach jaki jest stan sprawy. Bez sensu żeby sprawa wisiała tyle czasu. Dzięki, JK.";1.00;0.00;1.00;1.00;1.00;0.00
+684;Po zalogowaniu się wszystko śmiga na moim połączeniu internetowym. Proszę sprawdzić serwer testowy.;0.00;1.00;0.00;0.00;0.00;1.00
+685;Przypominam się o przekazaniu instrukcji udostępnienia archiwum użytkownikowi. Bez tego nie ma jak udostępnić pliku.;2.00;0.00;0.00;0.00;0.00;0.00
+686;"Dzień dobry, serdecznie dziękuję za sprawne zalatwienie sprawy. Życzę Państu miłej pracy i jak najmniej zgłoszeń. JK.";1.00;1.00;0.00;0.00;0.00;1.00
+687;Przypominam się kolejny raz o przekazaniu instrukcji udostępnienia archiwum użytkownikowi. Bez tego nie ma jak udostępnić pliku.;1.00;0.00;0.00;0.00;2.00;0.00
+688;"Dzień dobry, panie Tomku czy dałby Pan radę dołączyć zrzut ekranu z błędem? Będzie nam prościej określić położenie problemu. Pozdrawiam AA.";1.00;0.00;0.00;0.00;0.00;0.00
+689;"Dzień dobry, prosimy o chwilę cierpliwości. Lokalizujemy przyczynę tego błędu, nie wiemy jeszcze czy jest to spowodowane komunikacją z systemem czy wewnętrznym problemie w panelu. Problem jest masowy i dotyczy każdego użytkownika.";2.00;0.50;0.50;1.50;0.50;1.00
+690;"Pani Weroniko, uprzejmie przypominam, że dostęp będzie możliwy jeszcze tylko do końca dzisiejszego dnia. Mam nadzieję, że przegrywanie danych poszło bez kłopotu.  JK.";1.00;0.50;0.50;1.50;0.50;0.50
+691;"Niestety cały czas pokazuje się komunikat, że jest problem z logowaniem. Poproszę naszego informatyka, bo może problem leży po mojej stronie. Pozdrawiam BB.";0.50;0.00;0.00;0.00;0.00;0.00
+692;"Dzien dobry, przez kilka wczesniejszych dni probowalam z domu, ale wczoraj i dzis nie dzialal mi rowniez na uczelni. Pozdrawiam serdecznie AA.";0.50;0.50;0.50;0.50;0.00;1.00
+693;Znaleźliśmy jeszcze rozwiązanie które zamieściłam w zrzutach. Oczywiście w zależności od tego w jakim języku Pani pisze maila taki język należy ustawić do weryfikacji zapisu. Nie będzie się to zmieniało z automatu. ;1.00;0.50;0.00;0.50;0.00;0.00
+694;"Przypominam o sprawie. Czy możemy przynajmniej coś odpisać Użytkownikowi? Chociaż tyle, że sprawa w toku – no chyba, że musimy jeszcze o coś dopytać?";0.33;0.33;0.00;0.33;1.00;0.00
+695;"Dzień dobry, czy wszystkie kwestie, którego dotyczy to zgłoszenie zostały wyjaśnione? Jeśli tak, to jutro zamkniemy zgloszenie. Paweł.";2.00;1.00;0.00;0.00;0.00;1.00
+696;W takim razie proszę nam podpowiedzieć gdzie znajdują się te motywy. Pozdrawiam AA.;1.00;0.00;0.00;1.00;1.00;1.00
+697;"Dzień dobry, udało się odnaleźć przyczynę problemu, nie powinien już więcej występować. Bardzo przepraszam za utrudnienia. Pozdrawiam, AA.";1.00;0.00;0.00;1.00;0.00;1.00
+698;"Wczoraj podejrzewać, że to problem z antywirusem, odinstalowałam z zainstalowałem ponownie Eset. Na starym komputrze pomogło, ale na tym, którego używam na codzień i noszę do pracy nie. Spróbuje wyłączyć na chwilę antywirusa.   ";1.00;0.00;2.00;0.00;1.00;0.00
+699;"Chciałbym jeszcze Panią poinformować, że wydanie pliku archiwum jest operacją jednorazową. W późniejszym terminie nie będzie już możliwości ponownego wydania pliku archiwum. Proszę o potwierdzenie otrzymania pliku. Dziękuję";2.00;0.00;0.00;0.00;0.00;0.00
+700;Komunikat sugeruje brak wypełnienia efektów uczenia się. Dodałem czytelniejszy komunikat.;1.00;0.67;1.00;1.00;0.00;1.00
+701;"Dziękuję, faktycznie nie dodałam efektów w języku angielskim.";0.50;0.50;0.50;0.50;0.00;1.00
+702;"Dziękuję. Doszło, udało mi się pobrać plik, ale nie mogę otworzyć. Jakiej aplikacji użyć?";0.00;0.00;0.00;0.00;0.00;1.00
+703;Tak zrzut zawiera poprawne dane. Czy Office działał wcześniej poprawnie?Proszę jeszcze o zrzut ekranu z Panelu Sterowania z opcji Konta e-mail.;0.00;0.00;0.00;0.00;0.00;0.00
+704;Zastanawia mnie czemu tutaj mam takie komunikat jak na zdjęciu. No i komentarz zgłoś się do Administartora.;0.00;0.00;1.00;1.00;1.00;2.00
+705;"Grzegorz mam prośbę o usunięcie aktywacji instalacji Office z panelu administracyjnego użytkownika, z komputera Lenovo. Czy dasz radę to zrobić? ";0.00;0.00;1.00;1.00;0.00;0.00
+706;"Musiałbym dostać instrukcję krok po kroku kiedy zapis przestaje działać, aby wywołać tą samą sytuację. Albo możemy sprawdzić to wspólnie przez Teams.";1.00;0.00;0.00;0.00;0.00;0.00
+707;"Na chwilę obecną poradziłem sobie z problemem, trochę go obchodząc. Jeżeli Pan pozwoli skontaktuję się jutro i ustalimy jakiś moment, żeby zobaczyć co się tam dzieje.Pozdrawiam JK.";2.00;1.00;0.00;0.00;0.00;0.00
+708;"Poprawiono, w plikach pracy znajdują się już raporty ogólne, proszę o sprawdzenie.";0.00;1.00;0.00;0.00;0.00;0.00
+709;"Dzień dobry,problem występował we wtorek i został od razu rozwiązany. Obecnie nie powinno być tego komunikatu. ";1.50;0.50;0.00;1.00;0.50;0.00
+710;"Czy czyścił Pan ""ciasteczka"" przeglądarek na których występuje problem? U mnie strona ładuje się bez błędu.Pozdrawiam AA.";0.00;1.00;2.00;0.00;1.00;0.00
+711;"Ludzie, czy Wy wreszcie naprawicie problem aktualizacji? Podmiana pliku pomogła jednorazowo i znów mam próbę automatycznego ściągania aktualizacji i zablokowany program.";0.50;0.00;2.00;0.50;0.00;2.00
+712;"Dzień dobry, bardzo proszę o dokładniejszy opis problemu.  Z tego który Pan umieścił w zgłoszeniu administratorzy nie będą potrafili Panu pomóc. Pozdrawiam AA.";1.00;0.00;0.00;0.00;0.00;1.00
+713;Jakiej informacji pani oczekuje? Bo screen jest dosc jasny. Co wiecej nie działa to dla innych uzytkowników których pytałem;0.00;0.00;1.00;0.00;2.00;1.00
+714;"Dzień dobry, poproszę o zrzut ekranu przedstawiający problem. Nie do końca wiem, o które dokładnie okno chodzi. ";1.00;0.00;1.00;1.00;0.00;0.00
+715;Z załączonego błędu nie wynika że to problem z logowaniem do usługi tylko z jej działaniem. Skoro się zalogował to przyjmuję że sieciowo spełnia potrzebne założenia. AA. ;1.00;0.00;1.00;0.00;1.00;0.00
+716;"Dzień dobry, czy możemy uznać sprawę za wyjaśnioną (nawet jeśli nasza informacja nie jest pomyślna)? Z poważaniem  AA.";2.00;0.00;0.00;1.00;0.00;0.00
+717;Dziękuję za zgłoszenie. Administratorzy będą szukać przyczyny i rozwiązania. Z uszanowaniem BB.;2.00;0.50;0.00;1.00;0.50;1.00
+718;Dzień dobry uprawnienia do realizacji wspomnianego testu zostały przyznane. W razie dodatkowych pytań proszę o kontynuację wątku. Pozdrawiam AA.;1.00;1.00;0.00;0.00;0.00;0.00
+719;"Łukasz, Kamil, Krystian macie jakiś pomysł? Ja raczej nie mam żadnego podobnego oprogramowania o które dopytuje użytkownik. JK. ";0.00;0.00;1.00;1.00;0.00;1.00
+720;"Super, dziękuję. Kluczem jest 'wszystkie moje formularze' bo domyślnie ustawia mi się 'ostatnio używane'. Jak wejdę we 'wszystkie...' to działa. Pozdrawiam serdecznie, JK.";0.00;0.00;0.00;0.00;0.00;0.00
+721;"Dzień dobry, proszę jeszcze o odrobinę cierpliwości. Sprawa jest rozpatrywana przez administratorów. Czekam na informacje. Pozdrawiam AA.";0.67;0.67;1.33;1.33;0.00;1.33
+722;Kiedy mogę spodziewać się dostępu do nowego serwera? Szef się zaczyna niepokoić.;1.00;0.00;0.00;1.00;1.00;0.00
+723;"Dzień dobry,w załączeniu przesyłam skan dokumentu - przy imionach i nazwiskach uzupełniliśmy symbole jednostek. Czy to wystarczy?";1.00;0.00;0.00;0.00;1.00;0.00
+724;"Dzień dobry, dziękuję za zgłoszenie. Sprawdzamy dostępność sali i ekipy obsługi technicznej w tym dniu. Pozdrawiam JK.";0.50;1.00;1.00;0.00;0.50;0.00
+725;Powód problemu był błąd w wpisaniu domeny.  Automatyczny wpis został poprawiony i się zalogowało.;0.50;0.00;0.50;0.00;0.00;1.50
+726;Niezbędna migracja na nowy serwer. Dane dostępowe posiada Adam Nowak. Domeny na nowym serwerze są już utworzone i czekają na migrację.;2.00;0.00;0.00;0.00;0.00;0.00
+727;"Proponuję na dziś zamknąć, otworzę jak problem pojawi się ponownie - będę w stanie sprawdzić.";1.00;0.00;0.00;0.00;0.00;0.00
+728;"Witam ponownie,przepraszam, ale nie widzę żadnej odpowiedzi i nie wiem jak został rozwiązany problem. Pozdrawiam, BB.";0.00;0.67;1.00;0.33;0.67;0.33
+729;"Dzień dobry,Bardzo proszę o przesłanie prawidłowo wypełnionego Wniosku. Pozdrawiam AA.";2.00;1.00;0.00;2.00;1.00;0.00
+730;"Dziękuję. Teraz jest OK. Myślę, że można już upublicznić stronę. Ostatnie pytanie. Czy mogę uruchomić backup danych w ramach tych 1 GB przydziału?";2.00;1.00;0.00;0.00;0.00;0.00
+731;"Czy zgłoszenie można uznać za rozwiązane, czy też ma Pani jeszcze dodatkowe pytania w przedmiotowej sprawie? Pozdrawiam AA.";1.50;0.00;0.50;0.50;0.00;0.00
+732;"Czy to oznacza, że wnioskujący dostanie SMSa czy ma wysłać SMSa? Jeżeli to drugie to na jaki numer ma wysłać?";0.00;0.00;0.00;1.00;0.00;0.00
+733;"Wykonałem wstępną diagnozę u Pani i rzeczywiście aplikacja chodzi bardzo wolno. Przyczyną prawdopodobnie jest łącze internetowe, które wykazuje jedynie 6Mb. Minimalne łącze do swobodnej pracy to 40Mb. ";0.00;1.00;1.00;1.00;2.00;0.00
+734;"Nie zgodzę się z tym, do końca. Problem jest taki, że jak mu ręcznie to ustawimy, to co miesiąc będzie trzeba mu te uprawnienia kontrolować ręcznie. Na ten moment możemy to zrobić ręcznie, ale docelowo nie powinno być takiej sytuacji";0.50;0.50;2.00;0.50;0.50;0.00
+735;"Dzień dobry, tak dziękuję. Teraz na bieżąco wpisuję nowe hasło w kolejnych innych miejscach, które po kolei przestają działać. Taka zmiana dla zmiany.";0.50;0.50;1.50;0.00;1.00;1.00
+736;"Sprawdź jak to jest ustawione dla nas. Jakie są wartości tego pola. O ile wiem to jeżeli ktoś ma parking to jest ustawione stałe potrącenie i to jest przekazywane jako ""możność parkowania"" do systemu wjazdowego firmy.";0.00;0.00;0.00;0.00;0.00;0.00
+737;"Dzień dobry, Nie instalowałam tego programu na swoim komputerze, mogę poprosić pana Nowaka o jego instalację, sama nie mam uprawnień. Pozdrawiam AA.";2.00;0.00;0.00;0.00;0.00;0.00
+738;"Dzień dobry, niestety nic się nie zmieniło, a jest mi to potrzebne pilnie do pracy. Pozdrawiam.";1.00;0.00;1.50;0.50;1.00;0.50
+739;Wczoraj w bezpośrednim kontakcie ze zgłaszającym próbowaliśmy to wyprostować - czekamy na wyniki weryfikacji.;1.00;0.00;0.00;0.00;0.00;0.00
+740;"Dzień dobry. Dziękuję za przesłane informacje. W sprawach technicznych będziemy się kontaktować w kolejnych wiadomościach, przekażemy wtedy szczegółowe informacje. Pozdrawiam AA.";2.00;1.00;0.00;0.00;0.00;0.00
+741;Proszę sprawdzić ponownie w trybie prywatnym przeglądarki aby było wymuszone nowe logowanie.;0.00;0.00;0.00;0.00;0.00;0.00
+742;"Dzień dobry, mam informację od firmy, że nie wiedzą gdzie wgrać nowe pliki. Czy mogą prosić o taką informację? Z tego co wiem pan Kowalski kontaktował się z p. Nowakiem. Dziękuję z góry BB.";1.00;0.00;0.00;0.00;0.00;1.00
+743;"Paweł,  Pani Paulina była poinformowa że upoważnienie może być rozpatrywane indywidualnie zamiast przez wnioskek ale że jeśli administrator będzie twierdził inaczej to będzie powiadomiona przez komentarza w HELP.";0.00;0.00;0.00;0.00;1.00;0.00
+744;"Poradzić da się tyle, że kawałek niedzieli wykorzystam na szukanie przyczyny problemu. Swoją stroną ciekawy zrzut ekranu. Jeszcze nigdy nie wystąpiło cos takiego. Dam znać niebawem. Pozdrawiam, AA.";1.00;1.00;1.00;1.00;0.00;2.00
+745;"Tak jak rozmawialiśmy telefonicznie, formularz nie jest idealny i te pola nie są potrzebne. Po podpisaniu wniosku należy tylko przypisać Nikołaja a on potwierdzi lub nie założenie konta z odpowiednimi parametrami. ";0.00;0.00;1.00;2.00;0.00;2.00
+746;Problem występował w przypadku publikacji o dużej liczbie autorów. Ograniczyliśmy zwracanie listy autorów do 30 pierwszych pozycji.;2.00;1.00;0.00;2.00;1.00;1.00
+747;"Raport się wygeneruje, pojawi się lista 30 pierwszych autorów z dopiskiem '...'";0.00;0.50;0.00;0.00;0.00;0.00
+748;Czy sprawdziła Pani czy certyfikat jest ważny? Być może się przeterminował. Pozdrawiam BB.;2.00;0.00;0.00;0.00;0.00;0.00
+749;"Pani Elżbieto, Sprawa została przekazana do administratora. Pozdrawiam BB.";1.25;0.50;0.50;0.50;0.00;0.00
+750;"Czy potrzebujecie jeszcze jakieś informacji, żeby pomóc ?? Podejrzewam, że pan nie zdobędzie IP. JK. ";2.00;1.00;0.00;2.00;0.00;1.00
+751;Czy potrzebuje Pani jeszcze naszego wsparcia? Czy też udzielona przez administratora odpowiedź okazała się wystarczająca? Pozdrawiam AA.;2.00;0.00;0.00;0.00;0.00;0.00
+752;"Dzień dobry, proszę o odrobinę cierpliwości. Próbuję ustalić z jakiego źródła ma pochodzić wnioskowane przez Pana oprogramowanie. Pozdrawiam BB.";1.50;0.50;0.00;1.00;1.00;0.75
+753;Proszę o informację kiedy będę mogła odebrać sprzęt i zacząć korzystać z podpisu.;1.00;0.00;1.00;0.00;1.00;1.00
+754;"Słuchajcie, czy nie można teraz Panu ręcznie odblokować tych ustawień i równocześnie pracować nad docelowym rozwiązaniem?";0.00;0.00;1.00;0.00;0.00;0.00
+755;"Czy tylko Pan ma takie problemy? Jak objawia się problem, nie ma internetu wcale czy jest w kratkę? Czy jest Pan w stanie podać mi adres ip?";1.00;0.00;1.00;0.00;0.00;1.00
+756;"Dzień dobry, problem okazał się prostszy niż się wydawało i jest już rozwiązany. Przepraszam za niepotrzebne zajęcie czasu. Pozdrawiam JK.";0.00;1.00;0.00;1.00;0.00;0.00
+757;"Jarku, czy potrzebujesz jeszcze jakiej informacji od nas w zgłoszonej sprawie? BB. ";0.67;0.33;0.00;0.67;0.33;0.67
+758;"Niestety, nic się nie zmieniło. Pomimo prób mojego działu, nadal jest ten sam komunikat o błędzie. A sprawa jest BARDZO PILNA!";1.00;0.00;1.00;1.00;2.00;0.00
+759;"Użytkownik występuje w systemie dwa razy, najpierw rekrutował się na Paszport a później na dowód osobisty. Nie było jeszcze takiego przypadku, staramy się to wyprostować.";0.50;0.50;1.50;1.00;0.50;1.50
+760;Przepraszam za opóźnienie w realizacji. Moja nieuwaga. Sprawę przekazałam do administratorów do realizacji. Pozdrawiam AA.;0.00;1.00;1.00;0.00;1.50;1.00
+761;"No tak, zadziałało. Ale teraz nie mogę zatwierdzić badania. Kilkakrotnie próbowałam wciskając potwierdzam, ale nie działa. A chcę zatwierdzić badanie, bo wyszło dobrze. Nie wyświetla się też raport szczegółowy.";0.67;0.00;1.33;0.33;1.00;1.33
+762;"Dzień dobry, przesyłam wstępne zestawienie. Poproszę o komentarz. Pozdrawiam, AA.";1.50;0.25;0.00;0.50;0.00;0.75
+763;"Bardzo dziękuję za pomoc. Przekażę do działu. Nie muszę mieć raportu szczegółowego. Wynik jest dobry. Byłabym ciekawa co system pokazał, ale mogę się bez tego obyć. Pozdrawiam";0.00;1.00;0.00;0.00;1.00;0.00
+764;"Dzień dobry, zgłoszenie wymaga przeprowadzenia analizy i testów w związku z tym potrzebujemy więcej czasu na identyfikację problemu. Pozdrawiam JK.";1.00;1.00;0.50;0.00;0.00;0.50
+765;"Dziękuję za komentarze. Czy moglibyśmy umówić się na konsultację? Pozdrawiam, BB.";1.00;0.50;1.00;0.50;0.00;1.00
+766;"Dzień dobry, tak jak pisałam, poproszę o kontakt bezpośrednio z zainteresowanymi. Z serdecznymi pozdrowieniami AA.";0.50;1.50;0.00;0.50;0.00;1.00
+767;Narzędzie jest nam potrzebne. Zamknięcie idzie w poprzek do naszych potrzeb. Kiedy możemy spodziewać się jakiegoś konstruktywnego rozwiązania ? H.;0.00;0.00;1.00;0.00;2.00;0.00
+768;Proszę o informację czy przelogowanie w usłudze wyeliminowało zgłoszony problem. ;2.00;0.00;0.00;0.00;0.00;0.00
+769;"Witam, próbowałem się skontaktować z Panem poprzez zgłoszenie oraz przez Teams. Proszę o informację czy problem nadal występuje. ";2.00;0.00;0.00;0.00;0.00;0.00
+770;Proszę o więcej szczegółów tego problemu. Jaki pojawia się komunikat podczas próby uruchomienia programu?;1.00;0.00;1.00;1.00;1.00;0.00
+771;"Dzień dobry, na stacjonarnym działał tylko raz, potem na nastepny dzień już nie działał. Prześlę z domu, wieczorem. Pozdrawiam, JK. ";0.00;1.00;2.00;0.00;1.00;0.00
+772;Jak tylko potwierdzicie formularz to zabieramy się do pracy. Na przyszłość w takich przypadkach (zgłoszenia www) proszę dopisywać mnie i Krzysztofa. Byłem w piątek na urlopie i zgłoszenie przeleżało przez weekend.;0.00;0.00;0.00;0.00;1.00;0.00
+773;"Bardzo dziękuje za rozwiązanie sprawy jak i gdzie zgłąszać takie zmiany, pozdrawiam AA.";0.00;0.67;1.33;0.33;0.33;0.67
+774;No raczej juser bo ma taką opcję w panelu. Poza tym wp nie potrafi się zainstalować od razu na https z tego co pamiętam.;0.00;0.00;0.00;0.00;1.00;0.00
+775;"Może źle napisałem, salę można zarezerwować na 90 min, ale nikt tego nie robi. Wszyscy dają czas w pełnych godzinach zegarowych.";0.00;1.00;0.00;0.00;1.00;0.00
+776;"Nie zapytaliście się o wersję systemu operacyjnego, czy są zainstalowane wszystkie aktualizacje systemowe. Ten problem wydaje się innego rodzaju, ze względu na inny kod błędu. Proszę o doprecyzowanie zgłoszenia.";1.00;0.00;0.00;0.00;1.00;0.00
+777;"Co to za ruter, jakie ma IP? Proszę pokazać screen z konfiguracji forwardu portów.";0.50;0.00;1.00;0.00;0.50;1.50
+778;"Pani Agnieszko, proszę powiedzieć, jakie zmiany Pani robiła, to może uda nam się wspólnie je odczarować.  Marcin";0.50;0.00;1.00;0.00;0.50;0.50
+779;"Pani Ewelino, czy mogłaby Pani poprosić użytkownika o informacje jaki to system operacyjny i czy ma zainstalowane wszystkie ostatnie aktualizacje?";2.00;0.00;0.00;0.00;0.00;0.00
+780;"Dziękuję za informacje z opisem zastosowanego rozwiązania.W razie potrzeby możemy spróbować umówić się na zdalne konsultacje przez Teams, aby przyjrzeć się temu wspólnie. Pozdrawiam, JK.";1.33;0.00;0.00;0.00;0.00;0.00
+781;"Dzień dobry, poproszę o zamknięcie tematu - wszystko zostało wczoraj wyjaśnione. Serdecznie pozdrawiam.";2.00;0.00;0.00;0.00;0.00;0.00
+782;Poproszę o więcej szczegółów dotyczących tego oprogramowania. Na podstawie tak przedstawionego problemu trudno wskazać konkretne rozwiązanie. Pozdrawiam AA.;1.50;0.00;1.00;0.00;1.00;1.00
+783;"Andrzej, czy Tobie coś wiadomo w tej sprawie? Szczególnie w kwestii akceptacji przygotowanej odpowiedzi. A może odpowiedź już wysłano?";0.00;0.00;1.00;1.00;1.00;2.00
+784;"Dzień dobry, administratorzy przekazali nam taką poradę: Proszę o zalogowanie się poświadczeniami pracowniczymi. Wskazany przez Pana problem zostanie wyeliminowany.";2.00;0.00;0.00;0.00;0.00;0.00
+785;"Uwaga, jeśli sprawa nie będzie miała kontynuacji to ją niedługo kulturalnie zamknę. Czy ktoś chce coś dodać?  Marcin";0.00;1.00;0.00;1.00;0.00;2.00
+786;Zgodnie z sugestią zamykam zgłoszenie. Oczywiście służymy pomocą w razie wystąpienia problemów czy też wątpliwości. Pozdrawiam AA.;2.00;1.00;0.00;2.00;1.00;2.00
+787;"Przeszkolenie już przeszłam, rozumiem że należy je ponowić, będę wdzięczna za dalsze informacje. Dziękuję.";0.00;0.00;1.00;1.00;1.00;1.00
+788;"Panowie, być może takich pytań będziemy mieli więcej. Jakie są ustalenia i Wasze przewidywania? Jeśli to już jest gdzieś spisane, dajcie linka, proszę.";0.00;1.00;2.00;1.00;0.00;1.00
+789;Jeżeli nie brakuje na nim użytkowników i poprawnie wyświetlają się wszystkie dane to można. W tej chwili protokoły już są poprawne i można pobrać nowy i porównać.;0.00;1.00;0.00;0.00;0.00;0.00
+790;"Dziękuję bardzo. Rozumiem, że nie mogę mieć tego bloku ""pod ręką"" po lewej stronie? Czy jednak może się da go tam umiejscowić? JK.";0.50;0.50;1.00;0.00;0.00;0.00
+791;"Dzień dobry, widzę że sprawę zgłaszał Pan już dość dawno temu, a tego typu problemy niekiedy występują tylko czasowo. Czy system działa obecnie poprawnie?";2.00;0.00;0.00;0.00;0.00;0.00
+792;"To ja mam omamy wzrokowe. Sprawdziłam jeszcze raz i jest dobrze. Przepraszam za kłopot, ale zmylił mnie ten email o awarii. Pozdrawiam BB.";1.00;1.00;0.00;0.00;0.00;2.00
+793;Czy problem nadal występuje? W międzyczasie były prowadzone prace naprawcze. Pozdrawiam BB.;2.00;1.00;0.00;2.00;1.00;1.00
+794;"Dzień dobry, wskazane sekcje zostały zarchiwizowane. Nie są już widoczne w strukturze widocznej dla użytkowników. Pozdrawiam AA.";2.00;2.00;0.00;0.00;0.00;1.00
+795;"Na obecną chwilę odpowiedzi brak. Wydaje mi się, że jeśli zalogowanie pomaga to zgłoszenia takie po potwierdzeniu można zamykać.";1.00;1.00;1.00;1.00;1.00;1.00
+796;"Proszę kwestie instalacji uzgodnić z Janem Nowakiem, którego zespół opiekuje się Pana jednostką. Pozdrawiam JK.";2.00;0.00;2.00;0.00;2.00;0.00
+797;"Pani Ewelino, mam prośbę o wysłanie maila do użytkownika z pytaniem, czy problem nadal występuje. Pozdrawiam JK.";2.00;1.00;0.00;2.00;1.00;1.00
+798;Jaką ilością tych licencji jesteście Państwo zainteresowani? Aktualnie firma ma kupioną licencję na którą zawarła umowę na okres 3 lat. W związku z tym nie planujemy rozszerzania licencji. Pozdrawiam BB.;1.00;0.00;1.00;1.00;1.00;0.00
+799;Proszę zespół programistów o wsparcie w tym temacie. Pozdrawiam AA.;0.00;1.00;1.00;0.00;2.00;2.00
+800;"Dzień dobry, potwierdzam, że otrzymałam wszystkie potrzebne informacje do korzystania z zaktualizowanego konta. Jeszcze raz dziękuję za pomoc. Pozdrawiam AA.";2.00;1.00;0.00;0.00;0.00;0.00
+801;"Przepraszam. To jedno z wielu takich zgłoszeń i sprawa była załatwiona już jakiś czas temu, ale przegapiłem ją i nie odpisałem. ";2.00;1.00;1.00;2.00;1.00;0.00
+802;"Nie mam uwag, u Pani jest potrzebna interwencja informatyka i zbadania połączenia sieciowego. Zgłoszenie zamykam. ";0.00;0.50;1.00;0.50;0.50;0.00
+803;"Marcin, No ta idea wydaje się słuszna zwłaszcza, że owszem są pewne różnice wynikające z pójścia do przodu. Stefan.";0.00;0.00;0.00;1.00;1.00;2.00
+804;"Najważniejsze to nadpisać plik index.html lub go usunąć. Reszta katalogów np stats jest ważna i pomocną jak zostaną włączone analizy np webstats. Pozdrawiam, Jan Kowalski.";2.00;0.00;0.00;0.00;0.00;0.00
+805;Firma poprawiała oprogramowanie. Proszę sprawdzić i mieć trochę cierpliwości. Z wyrazami szacunku Jakub Nowak.;2.00;0.00;0.00;0.00;0.00;0.00
+806;"Pytanie. Czy przed skopiowaniem plików strony do katalogu web należy skasować zawartość tego katalogu? Bo widzę, że w web są jakieś pliki i katalogi. Pozdrawiam, Jan Kowalski.";2.00;0.00;0.00;1.00;0.00;0.00
+807;"Przepraszam, jeszcze taki problem pojawił się w tak zwanym międzyczasie. Pozdrawiam, AB.";1.00;0.00;1.00;1.00;0.33;1.00
+808;"Tak, doraźnie pomogło. Dziękuję. Już nie mogę sie doczekać aktualizacji! Gorąco pozdrawiam, Jakbun Nowak. ";1.00;2.00;0.00;0.00;0.00;2.00
+809;"Firma poprawiła oprogramowanie. Proszę sprawdzić. Ja widzę u Pana sześć osób ma liście. Z poważaniem, Andrzej. ";2.00;1.00;0.00;0.00;0.00;0.00
+810;"Przepraszam, ale nie wiem dlaczego miałbym nadać Pani taką rolę. Nie dostałem takiej informacji od Kierownika. Z wyrazami szacunku, Jan Kowalski.  ";2.00;0.00;0.00;1.00;0.00;0.00
+811;"Proszę o ponowną próbę, w przypadku niepowodzenia proszę o załączenia nowych zrzutów ekranu. Z poważaniem, Agnieszka Kowalska.";0.00;1.00;0.00;0.00;1.00;0.00
+812;"Stefan, sprawdź czy po twoich korektach u tego Pana już jest wszystko w porządku. Ja się odpisuję tego zgłoszenia. Jarek.";1.00;0.50;0.00;0.00;0.50;1.00
+813;"Panie Jakubie, w tym momencie system działa. Liczę, że problemy zostały lub wkrótce zostaną usunięte.  Marcin";0.00;0.00;1.00;1.00;1.00;1.00
+814;Próbowałem już wielokrotnie! Rezultat zawsze taki sam: czysta biała strona widoczna bez logowania i uwierzytelnienia! Nie mam już siły czekać na rozwiązanie!;0.00;0.00;1.00;1.00;2.00;1.00
+815;"Panowie, jaka jest porada na dzisiaj? Starać się uruchamiać aplikację? Zalecać przejście na wersję webową?";0.00;0.00;0.00;1.00;0.00;0.00
+816;"Przykro mi, nie było mnie w piątek. Dziś wygląda, że konto ma przypisaną licencję. Poproszę o potwierdzenie po stronie firmy. Możecie sprawdzić? Agnieszka.";2.00;1.00;0.50;1.00;0.50;0.50
+817;"Obstawiam raczej zbieg okoliczności, niektóre spam listy wpisują adres tylko na jakiś czas np. 48h, tydzień potem go usuwają automatem. Nie podejmowaliśmy w ostatnim czasie żadnych działań w tym temacie. Grzegorz.";0.50;0.50;2.00;1.00;0.00;0.50
+818;"Panowie, a może jednak mamy wpływ na to jak postrzegani jesteśmy w sieci?? Czy możecie się odnieść do tej sytuacji? Pozdrawiam, Kasia.";0.00;0.00;1.00;1.00;0.00;0.00
+819;"W związku z potwierdzenie poprawności wyświetlania kart zamykam zgłoszenie. Pozdrawiam, AB.";2.00;0.00;0.00;0.00;0.00;0.00
+820;Można już zalogować się do systemu. Proszę próbować w przeglądarce w trybie InPrivate. Pozdrawiam Jan Kowalski.;1.00;0.00;0.00;0.00;0.00;0.00
+821;"Niestety, sytuacja jest bez zmian - taki sam komunikat ""błąd łączenia z bazą danych"". Z poważaniem, Jan Kowalski.";1.00;0.00;1.50;0.50;0.50;0.50
+822;"Aha, bo po prostu stare przestało działać. Istnieje jakieś 5% szansy, że to ja coś pomyliłem, ale może to reguła, że przy zmianie danych system resetuje hasło? Po resendzie oczywiście wszystko zadziałało. Pozdrawiam, Michał Nowak.";0.00;0.00;0.00;0.00;0.00;1.00
+823;Dziękuję za informacje. Dołączyłem mój głos do innych głosów w tej samej sprawie. Pozdrawiam AB.;2.00;1.00;0.00;0.00;0.00;0.00
+824;"Panowie zanim Pani dośle zrzut z błędem już Was proszę o działanie, nie ma co czekać. Agata.";0.00;1.00;0.00;1.00;0.00;0.00
+825;"Próbuje Pani uruchomić program z sieci biurowej czy z domu? Jeżeli z domu to czy jest zestawione połączenie VPN?P roszę o załączenie zrzutu ekranu z błędem. Z poważaniem, Kasia Kowalska.";1.00;0.00;0.00;0.00;1.00;1.00
+826;"Dzień dobry, nowy hosting przygotowany. Dane do logowania otrzymał Pan mailem wraz z instrukcją jak przetestować serwis przed produkcyjnym włączeniem. Z wyrazami szacunku, administracja.";2.00;0.00;0.00;0.00;0.00;0.00
+827;Problem z logowaniem został doraźnie usunięty przez usługodawcę. Nadal jednak pracują nad usunięciem przyczyny. Jeszcze dzisiaj mają wdrożyć zmianę na środowisko produkcyjne. Z naszej strony pomagać ma w tym Krzysztof.;1.00;0.33;0.67;0.67;0.00;0.33
+828;"Poprawialiśmy, powinno być już OK, a sam komunikat będzie wskazywał z jakich działów brakuje danych. Pozdrawiam, JK.";0.33;0.67;0.67;0.67;0.00;1.33
+829;"Niestety nie zalazłam w aplikacji ustawień, które mogłyby zmienić sposób sortowania. Sprawę przekieruję do administratorów usługi, może jest to kwestia jakiś globalnych ustawień. Pozdrawiam, Michalina.";2.00;0.00;2.00;1.00;1.00;0.00
+830;"Udało się zalogować jeden raz, ale po zmianie zespołu, wczytało pustą bazę danych i i podało kod błędu. Kilka prób zmieniało tylko numerek błędu. Nic więcej. Pozdrawiam, Andrzej Nowak.";1.50;0.50;1.00;0.00;1.00;0.50
+831;"Tak oczywiście bardzo proszę o sprawną realizację tego zadania. Zależy nam na szybkim uruchomieniu nowej strony https. Rozumiem, że otrzymam potrzebne dane do logowania, bo stare pewnie będą nieaktualne. Dziękuję. Grzegorz Kowalski.";1.67;0.33;0.33;1.67;0.33;0.00
+832;"Dzień dobry, rzeczywiście w tym momencie logowanie nie działa. Spróbujemy się dowiedzieć, jakie są widoki na przyszłość. Pozdrawiam, Jacek Kowalski.";0.00;1.00;1.00;0.00;0.00;2.00
+833;"Proszę otworzyć przeglądarkę w trybie InPrivate i ponownie spróbować zalogować się do systemu. Pozdrawiam, Agata Nowak.";1.50;0.00;0.50;1.00;0.00;0.00
+834;Jeśli zapadną decyzje co do realizacji to proszę o ponowne otwarcie zgłoszenia.;1.00;0.00;0.00;0.00;1.00;1.00
+835;"Dzień dobry,czy otrzymała Pani już wymagane informacje? Pytam, bo może coś miało miejsce poza chatem?  Marcin";0.00;0.00;1.00;2.00;1.00;2.00
+836;"Panowie, proszę o pomoc, bo może to coś technicznego? EDIT: na szczęście już nieaktualne";1.00;1.00;0.00;0.00;0.00;0.00
+837;"Dzień dobry, czekamy na wiążące informacje, które będziemy mogli Państwu przekazać. Dziękuję za wyrozumialość  Adam";1.25;0.75;0.25;0.75;0.25;0.75
+838;Jeżeli stworzy Pan grupę (zespół) lub zorganizuje spotkanie poprzez kalendarz to bez problemu powinno się udać. Pozdrawiam AA.;2.00;1.00;0.00;0.00;0.00;0.00
+839;W takim razie życzymy dalszych sukcesów w budowaniu strony . Miłego dnia.;0.00;1.00;1.00;0.00;0.00;1.00
+840;"Zaleceń precyzyjnych w tym temacie nie ma. Pracujemy nad swoją koncepcją, którą będzie trzeba zatwierdzić u dyrekcji. Dziś powinien być opis planu działania. Ale prezentacja przed zatwierdzeniem nie ma sensu.";0.00;0.00;0.00;0.00;1.00;1.00
+841;Mam jeszcze pytanie o to jak mam się na ta pocztę zalogować bo poprzednie ustawienia nie funkcjonują. Potrzebne mi są adres serwera smtp i parametry połączenia gdyż chcę je ustawić w programie wysyłkowym. Proszę o te informacje EK;1.00;0.00;1.00;0.00;1.00;0.00
+842;"Dzień dobry, liczę, że w tym tygodniu poznamy zasady ""czyszczenia"" zespołów testowych. Proszę jeszcze o chwilę cierpliwości.";2.00;1.00;1.00;1.00;0.00;1.00
+843;Niestety dalej mam problem. Poproszę o dalsze wskazówki. Zrzuty ekranu w załączeniu ;1.00;0.50;1.00;0.00;0.50;1.00
+844;Problem już został naprawiony wcześniej. Przepraszam za brak powiadomienia.;0.00;0.00;0.00;0.00;0.00;1.00
+845;Dziękuję bardzo za szybką odpowiedź. Czyli jak założę zespół to nie powinnam mieć problemów. Jeszcze raz dziękuję i pozdrawiam serdecznie JK.;1.50;0.50;0.00;0.00;0.00;0.50
+846;"Andrzej, czy już może coś wiesz w tej sprawie? Pozdrawiam AA.";0.00;0.00;0.00;0.00;0.00;1.00
+847;Pana problem został przekazany do analizy przez administratorów. Niestety nie otrzymaliśmy jeszcze żadnych konkretnych wyników tej analizy. Czy zgłoszony przez Pana problem nadal występuje? PozdrawiamJoanna AA.;2.00;0.00;1.00;1.00;0.00;2.00
+848;"Brak podstawowych informacji - czy chodzi o serwer wirtualny?- czy chodzi o hosting?- jeżeli hoting to która domena, jest ich kilka.";0.00;0.00;0.00;0.00;2.00;0.00
+849;Sprawa już została wyjaśniona - problem związany był ze ścieżkami.;1.00;0.00;2.00;0.00;1.00;2.00
+850;"Jesteśmy umówione. Mam nadzieję, że nie będzie żadnych przeszkód. Serdecznie pozdrawiam.";0.00;1.00;0.00;1.00;0.00;0.00
+851;"Dzień dobry, w której karcie występuje ten ""null"" ? Proszę o konkretne wskazanie albo zrzut ekranu. ";1.00;0.00;2.00;1.00;0.00;0.00
+852;"Dzień dobry. Po raz kolejny piszę z prośba o informacje, czy problem jest rozwiązywalny? AA.";2.00;1.00;0.00;0.00;0.00;1.00
+853;Mam pytanie. Czy jeśli właśnie przeszedłem indywidualne szkolenie u młodszego doświadczonego kolegi to mógłbym uzyskać dostęp do przeprowadzenia testu? ;1.00;0.00;0.00;0.00;0.00;0.00
+854;"Pani Katarzyno, chapeaux bas. Nigdy bym tego sam nie zauważył. Bardzo dziękuję za pomoc i pozdrawiam.";1.00;1.50;0.25;0.75;0.00;1.25
+855;Tak należy do nas złożyć wniosek tak jak co roku. W tej chwili z uwagi na zmiany nazw i symboli jednostek pomimo dostarczonego  w roku ubiegłym wniosku proszę o jego ponowne złożenie. Pozdrawiam AA.;1.50;0.00;0.50;0.00;0.50;0.00
+856;Błąd nastąpił w związku z niespodziewaną aktualizacją serwisu. Obecnie już wszystko działa i akceptacja badania powinna przebiec poprawnie. Proszę kontynuować proces dyplomowania.;0.00;1.00;0.00;1.00;2.00;0.00
+857;Takie zapytanie zostało skierowane do odpowiednich jednostek. Czekamy na informację zwrotną. Poinformujemy w momencie otrzymania odpowiedzi. Pozdrawiam AA.;1.33;0.67;0.67;1.33;0.00;1.00
+858;Standardowy temat graficzny Boost też podobnie wyświetla odpowiedzi - patrz załącznik.Pewnie stąd się to wzięło.;1.00;0.00;2.00;1.00;0.00;2.00
+859;"Dziękuję bardzo. Tak dokładnie te kohorty. Czy Architektura to również Architektura wnętrz? Upewniam się, nie do końca znam tajniki zapisu.";0.00;0.00;0.00;0.00;0.00;0.00
+860;"Dzień dobry, potwierdzam wniosek o zablokowanie wskazanych sekcji. Pozdrawiam.";0.50;1.50;0.50;1.00;0.50;1.00
+861;"Dzień dobry, faktycznie włączył się filtr i zostały ukryte wszystkie działy. Dziękuję za podpowiedź.Pozdrawiam BB.";1.00;2.00;0.00;0.00;0.00;1.00
+862;"Przycisk jest wyświetlany pod warunkiem posiadania uprawnień do wykonywania akcji w stanie ""Upoważnienie przyznane"". Sprawdzę, dam znać. Pozdrawiam, JK.";2.00;0.00;0.00;0.00;0.00;0.00
+863;"Wiktorze, sprawa podobna do tej, którą przed chwilą rozwiązałeś. Nie wiem, czy na tym etapie dodawać p. Nowaka, zostawiam tę decyzję Tobie. Adam.";1.33;0.67;0.00;1.33;0.67;0.33
+864;Proszę o sprawdzenie czy teraz wszystko jest OK i czy można zamknąć zgłoszenie?;1.00;0.00;0.00;0.00;0.00;0.00
+865;"Dzień dobry, już sprawdzam jaka jest sytuacja. Trzeba pamiętać, że co jakiś czas następują zmiany w strukturze organizacyjnej, może jest to z tym związane. Pozdrawiam, JK.";1.00;1.00;0.00;0.00;0.00;1.00
+866;"Już widziałam zmiany. Serdecznie dziękuję za pomoc i, oczywiście, sprawdzam dalej. Życzę miłego dnia.";1.50;1.50;0.00;0.00;0.00;0.00
+867;Dziękuję Państwu za pomoc. Jak długo czeka się z reguły na rejestrację w systemie?;1.67;1.33;0.00;0.33;0.00;0.33
+868;"Stefanie odpiszesz? Żeby już Pani nie mieszać w głowie kolejnym odpisującym - to zależy od typu pytania (true/false lub wielokrotnego wyboru). Pozdrawiam, Jan Kowalski.";1.00;1.00;2.00;0.50;0.00;0.00
+869;Na czym polega ten problem? Czy może Pani dołączyć zrzut ekranu z problemem? Pozdrawiam AA.;2.00;0.00;0.00;0.00;0.00;0.00
+870;"Oczywiście, proszę podać jaki obszar tego zakupu stanowi dla Pana niewiadomą. Pozdrawiam JK.";2.00;0.00;0.00;0.00;1.00;0.00
+871;Jeżeli uzupełni Pani wskazane kolumny całość formularza będzie kompletnie wypełniona. Pozdrawiam AA.;1.00;0.00;2.00;1.00;0.00;0.00
+872;Awaria poczty została usunięta w dniu wczorajszym. Zamykam zgłoszenie. Pozdrawiam B.;2.00;0.00;0.00;0.00;0.00;0.00
+873;Cześć Iwona. Podpowiedz proszę w jakim systemie rejestrujesz te upoważnienia. Czy to jest A? Czy to może jest B? Pozdrawiam AA.;1.00;0.00;0.67;0.33;0.33;0.33
+874;"Bardzo proszę o informację zwrotną, czy problem nadal występuje. Pytaliśmy także o ustawienia daty systemowej, jednak nie otrzymaliśmy odpowiedzi. Pozdrawiam JK.";1.40;0.60;0.40;0.20;0.80;0.80
+875;"Dzień dobry, to bardzo dobry pomysł aby dopisywać rok na końcu nazwy. Nazwa skrócona nie może się powtarzać. Pozdrawiam JK.";1.00;0.33;0.00;0.67;1.00;0.67
+876;Dzień dobry. Niestety wskazane osoby muszą poczekać aż umowy będą podpisane. Wtedy też konta będą aktywowane i będą mogli korzystać z systemu. Nie mamy żadnego wpływu na te procesy. Pozdrawiam AA.;1.50;0.00;1.50;0.50;1.00;0.00
+877;"Dziękuję, to wyjaśnia bardzo wiele. Jestem jednak ciekawa, czy samodzielnie mogę zmienić położenie kółek odpowiedzi - jedno pod drugim na te obok siebie, żeby sprawdzić, jaki tym razem będzie efekt.";1.00;1.00;0.00;0.00;0.00;0.00
+878;Czas trwania licencji równy jest czasowi trwania umowy? Kilka umów kilka licencji?;0.50;0.00;0.50;0.00;1.00;0.50
+879;"Tak, poproszę o wyjaśnienie w jaki sposób sprawa została rozwiązana. Pozdrawiam AA.";0.33;0.67;0.67;0.00;0.67;0.67
+880;"Uprzejmie proszę o potwierdzenie, czy zgłoszony problem udało się rozwiązać lub czy jest potrzebna dalsza pomoc. Pozdrawiam, JK.";2.00;0.00;0.00;0.00;0.00;0.00
+881;"Gdyby były problemy z ustawieniem opcji zapisów do systemu nowych użytkowników, proszę o kontynuowanie tego wątku. Aktualnie oznaczam zgłoszenie jako rozwiązane. Pozdrawiam, JK.";1.75;0.50;0.50;1.00;0.25;0.50
+882;"Problem w tym, że zespół został już założony. Jednak umieszczono go w spisie zespołów niewłaściwych jednostek.";1.00;0.00;1.00;2.00;1.00;2.00
+883;Problem został zdiagnozowany i usunięty. Proszę o informację zwrotną czy udało się zalogować i aktywować konto.;2.00;1.00;0.00;0.00;0.00;0.00
+884;"Mam nadzieję, że dostarczone wskazówki okazały się pomocne. Pozdrawiam AA.";1.00;2.00;0.00;0.00;0.00;0.00
+885;"Z korespondencji mailowej wiem, że sprawa została wyjaśniona. Zamykam zgłoszenie. Jednak w przypadku gdy pojawią się jakieś dodatkowe pytania, zgłoszenie można oczywiście ponownie otworzyć. Pozdrawiam BB.";1.00;0.50;0.50;0.00;0.00;0.50
+886;"Formularz, ma szary obszar w którym jest pole Adres Skrzynki. Tam proszę podać adres o który Państwo wnioskujecie. Tak skrzynka może być założona w domenie info bezterminowo. Pozdrawiam AA.";1.00;0.00;0.00;0.00;0.00;0.00
+887;"Dzień dobry, dziękuję za jak zawsze precyzyjne odpowiedzi. Pozdrawiam JK.";1.50;2.00;0.00;0.00;0.00;0.00
+888;"Proszę Pana, nie przeczę, że zapomniałem dodać tej ważniej informacji. Chodziło mi o przeniesienie zespołu do właściwych jednostek. Dziękuję";2.00;0.00;0.00;0.00;2.00;0.00
+889;Mieszkańcy zgłosili również brak WIFI. W czasach pracy zdalnej jest to dla nich dużym problemem.;0.00;0.00;1.00;0.00;0.00;0.00
+890;"Dzień dobry, prace nadal w toku, ale efekt tak czy inaczej nie będzie widoczny wcześniej niż jutro. Proszę jeszcze o trochę cierpliwości. Adam";0.00;1.00;2.00;0.00;1.00;2.00
+891;"Słuchajcie, kto i w jakim momencie zakłada alias do konta ? Jeżeli to jest sprawa działu osobowego to proszę o informację. Pozdrawiam BB.";0.00;0.00;1.00;1.00;1.00;2.00
+892;Proszę podać informację na jakim  systemie operacyjnym występuje ten problem? Chodzi o wersję Windows. Pozdrawiam JK.;2.00;0.00;0.00;0.00;0.00;0.00
+893;"Dzień dobry, uprzejmie proszę o doprecyzowanie jakie grupy ma Pani na myśli? Pozdrawiam";1.00;0.00;0.00;0.00;0.00;1.00
+894;"Dzień dobry, problem najprawdopodobniej wystąpił podczas ponownej (ręcznej) próby pobrania podania. Proszę spróbować pobrać to podanie z listy wniosków. Poprosiłbym o informację zwrotną czy problem został rozwiązany.";2.00;0.00;0.00;0.00;0.00;0.00
+895;Dzień dobry. Dziękuję bardzo za zajęcie się sprawą. Właśnie sprawdziłam i nadal u mnie nie są wyszukiwani użytkownicy po wpisaniu wyżej wymienionych numerów. Pozdrawiam JK.;2.00;1.00;1.00;0.00;0.00;0.00
+896;"Prosimy o chwilę cierpliwości. Pracujemy nad rozwiązaniem problemu, gdy dostęp zostanie przywrócony poinformujemy o tym.";1.50;0.50;1.00;0.50;0.00;1.00
+897;Proszę spróbować zainstalować ten dodatek nie będąc zalogowanym w Microsoft. Pozdrawiam AA.;1.50;0.00;0.00;0.50;0.00;1.00
+898;"Dzień dobry, w załączniku przesyłam wypełnione wnioski. Oryginały przesyłam pocztą wewnętrzną. Z pozdrowieniami AA.";1.00;0.00;0.00;1.00;0.00;1.00
+899;"Dzień dobry, dziękuję za pomoc. Udało się zainstalować wtyczkę. Żeby z niej korzystać w Power Point, nie mogę być w tym czasie zalogowana w Microsoft. Pozdrawiam i jeszcze raz dziękuję. Pozdrawiam BB.";1.00;2.00;0.00;0.00;0.00;1.00
+900;"Z tego co pamiętam to przed aktualizacją przy ikonach ""kółko zębate"" i ""lupa"" wyświetlały się przyciski z tekstem. Teraz jak widać to się zmieniło. Zobaczę jeszcze czy da się coś z tym zrobić. Pozdrawiam, AA.";1.00;0.00;0.00;0.00;0.00;1.00
+901;"Dzień dobry w najbliższym czasie planujemy przeprowadzić szkolenie prezentera webinariów, uczestnictwo uprawnia do rezerwacji sal webinariowych. Poinformujemy po ustaleniu terminu. Pozdrawiam JK.";1.00;0.50;0.00;1.00;1.00;0.50
+902;Problem nie powinien już występować. Proszę spróbować ponownie wygenerować podanie.;1.00;0.67;1.00;0.33;0.67;1.33
+903;"Szanowni Państwo, przypominam o sprawie. Czy czekamy na sygnał od p. Nowak czy może trwają inne działania?  Marcin";2.00;0.00;0.00;0.00;1.00;0.00
+904;"Panowie,  standardowa prośba - poprowadźcie dalej sprawę albo wskażcie jaki powinien być następny krok. My go nie znamy Adam.";0.00;0.00;0.00;1.00;2.00;0.00
+905;"Szanowna Pani! Dziękuję za pomoc. Wypróbuję zaproponowane rozwiązania. Pozdrawiam serdecznie, AA.";2.00;2.00;0.00;0.00;0.00;1.00
+906;"Tak , spotkanie będzie nagrywane. O ile szyków ponownie  nie pokrzyżuje technologia to wszystko będzie nagrane i udostępnione. Pozdrawiam JK.";0.00;1.00;1.00;1.00;0.00;1.00
+907;Dziękuję bardzo za odpowiedź. Pozdrawiam serdecznie i życzę miłego wieczoru BB.;2.00;2.00;0.00;0.00;0.00;0.00
+908;"Teraz powinna Pani być widoczna w systemie. Proszę sprawdzić i dać znać, czy problem jest rozwiązany.";2.00;1.00;0.00;1.00;0.00;0.00
+909;Przepraszam. Nagranie zapisane zostało na dysku. Przepraszam za zamieszanie. Jednak wakacje zatarły działanie tych procedur. Pozdrawiam AA.;0.00;0.00;2.00;0.00;0.00;0.00
+910;"Witam, czy mogę prosić o rzut ekranu całej ścieżki oraz błędu.  Równolegle będziemy szukać rozwiązania dla Pana. Pozdrawiam BB.";1.00;0.00;0.00;0.00;0.00;0.00
+911;"Tego się właśnie obawiałem. Rozumiem, że nie pozostaje mi nic innego jak skrócić nazwy katalogów i plików?";0.50;0.50;2.00;0.00;1.00;0.00
+912;"Zgłosiliśmy problem do dostawcy usługi. Na tę chwile tylko tyle możemy powiedzieć. Czekamy na rozwiązanie, o którym poinformujemy.";2.00;0.00;1.00;1.00;0.00;0.00
+913;"Dodam tylko, że znany jest mi sposób dodawania zasobu typu ""folder"" i go wykorzystuję. Chodzi mi tylko o pomoc związaną z zasobem ""plik"".";0.00;0.00;0.00;0.00;0.00;0.00
+914;"Krzychu, możesz spokojnie zadać te pytania bezpośrednio. Ja je mogę co najwyżej przekręcić, a robienie copy-paste jest słabe...";0.00;0.00;0.00;0.00;2.00;0.00
+915;"Dzięki, Przemysławie za obiecane info. A do czasu tej zmiany co możemy poradzić Użytkownikowi? Czy na razie jego sytuacja się nie zmieni, czy macie jakieś rozwiązanie lub obejście problemu?";0.67;0.67;1.33;1.33;0.67;1.00
+916;"Pani Ewelino, czy na Pani możliwość samodzielnego zamykania swoich zgłoszeń? Pytam, bo może tak by było najlepiej robić – w końcu to Pani decyzja, że dalsze prace przy zgłoszeniu nie są już potrzebne.";1.00;0.00;0.00;0.00;2.00;1.00
+917;"Nie mamy rozwiązania alternatywnego, którego utrzymanie nie stanowiłoby dla nas nadmiernego kosztu. Czekamy na sukces po wdrożeniu..";0.00;0.00;0.00;1.00;1.00;0.00
+918;"Dzień dobry, uprzejmie proszę o potwierdzenie, że przekazane informacje są wystarczające. Adam.";1.50;1.00;0.00;0.00;0.00;0.00
+919;"Zgodnie z ustaleniami z rozmowy telefonicznej z Panem Nowakiem będę zamykała swoje zgłoszenia, które z punktu widzenia działu pomocy są rozwiązane lub zamknięte. Pozdrawiam BB.";1.00;0.00;0.00;0.50;1.00;0.50
+920;"Po interwencji przez Teams, logowanie się przez przeglądarkę, zaczeło działać dla użytkownika.  Zamykam. Pozdrawiam AA.";2.00;0.00;0.00;0.00;0.00;0.00
+921;"Cześć, rozumiem, że ktoś w dziale się pomylił. Nie ma co drążyć tematu w takim razie. Zamykam zgłoszenie.Pozdrawiam JK.";0.33;0.33;0.67;0.33;1.33;0.67
+922;"Dzień dobry, w takim razie zawieszamy sprawę do przyszłego tygodnia, powiedzmy do wtorku. Liczymy na Pańskie dalsze informacje. AA.";1.50;0.50;0.00;1.00;0.50;1.00
+923;"Dzień dobry, nie mamy jeszcze potwierdzenia od zespołu programistów, czy udało im się skutecznie rozwiązać problem, dlatego uprzejmie proszę o informację, czy błąd nadal jeszcze występuje? JK.";2.00;0.00;0.00;0.00;0.00;0.00
+924;Czy byłaby szansa połączyć się z Panią poprzez MS Teams? Udostępnienie ekranu poprzez MS Teams ułatwi diagnostykę problemu. Pozdrawiam AA.;2.00;0.00;0.00;0.00;0.00;0.00
+925;"Panowie, czy możecie pochylić się nad problemem? Pozdrawiam BB.";1.00;0.33;0.33;0.33;0.33;0.33
+926;"Ja się zajmę tym zgłoszeniem do końca, bo widzę, że ładnie się ciągnie. ";0.00;0.00;1.00;0.00;1.00;1.00
+927;"Dzień dobry, nie jestem w stanie zalogować się do mojego konta testowego. Proszę o zresetowanie hasła. Pozdrawiam";2.00;1.00;0.00;2.00;0.00;1.00
+928;"Dzień dobry, niestety jest to pierwsze zgłoszenie dotyczące ssl dla tego serwisu, dlatego działamy dopiero teraz. Certyfikat został odnowiony.";1.33;0.00;0.33;0.00;0.00;0.33
+929;Było zapowiedziane szkolenie jutro o 14:15 o Teams. Może jutro po tym szkoleniu będzie Pani mogła połączyć się ze mną? Na pewno będę mieć zarezerwowany czas. ;2.00;1.00;0.00;1.00;1.00;0.00
+930;Ok. Poniedziałek jest dla mnie dobrym dniem. Proszę zatem o przesłanie zaproszenia na Teams. Pozdrawiam BB.;0.50;1.00;0.00;0.50;0.00;0.00
+931;"Tak, już teraz wszystko jest dla mnie jasne. Można zamknąć temat.";1.00;1.00;0.00;1.00;1.00;0.00
+932;Dziękujemy za zgłoszenie. Dane te zostana przekazane do rozpatrzenia. Tymczasem zamykam zgłoszenie. Pozdrawiam AA.;2.00;0.50;0.00;0.00;0.00;0.00
+933;"Dzień dobry, dostęp do podań został już nadany proszę spróbować ponownie zalogować się i wygenerować podanie. Czy przekazana informacja rozwiązuje Pani problem?";2.00;0.00;1.00;2.00;0.00;1.00
+934;"Dzień dobry, z naszej perspektywy wygląda, że strona już wyświetla się poprawnie. Uprzejmie proszę o potwierdzenie.  Marcin";0.00;1.00;1.00;0.00;0.00;1.00
+935;"Dzień dobry udzielono wsparcia w webPokoju, plik z powodzeniem został wgrany za pośrednictwem przeglądarki Safari w związku z tym zamykam zgłoszenie. Pozdrawiam JK.";1.00;1.00;0.00;0.00;1.00;0.00
+936;Proszę usunąć folder terminale i spróbować ponownie;2.00;0.00;0.00;0.00;0.00;0.00
+937;Zgodnie z komunikatem należy za pomocą spacji zaznaczyć odpowiednie wiersze do parowania. Więcej na ten temat może powiedzieć Roman.;0.00;1.00;2.00;0.50;0.50;1.00
+938;"Dziękuję! Tak, to jest komunikat o zajętym terminie. Zajętym najpewniej przez innego użytkownika.Pozdrawiam AA.";0.50;0.50;0.00;0.00;0.00;0.00
+939;"Tak, te instrukcje umieściliśmy przed wysłaniem komunikatu do pracowników. Ale doskonale Panią rozumiem, książka jest obszerna i można nie zauważyć lub przeoczyć jakiś temat. Pozdrawiam JK.";1.00;0.00;0.00;1.00;1.00;1.00
+940;"Dobry wieczór, czy coś się stało? Pozdrawia BB.";0.00;1.00;2.00;1.00;0.00;2.00
+941;"Dziękuję, dzis udało mi się zarezerwować przy pierwszej próbie, możliwe, że nie sprawdziłem czsu końca rezerwacji";1.00;1.00;0.00;0.00;0.00;0.00
+942;Niestety nie dysponujemy takim oprogramowaniem. MS Teams pozwala udostępniać jednocześnie tylko jeden ekran. Pozdrawiam JK.;1.00;0.00;0.00;0.00;0.00;0.00
+943;Pani Ewa Nowak jest na długotrwałym zwolnieniu lekarskim bez możliwości kontaktu z nią więc proszę o informację w jaki inny sposób mogę te uprawnienia dostać?;0.00;0.00;0.00;0.00;0.00;1.00
+944;"Dzień dobry, ja utworzyłem czat i zaprosiłem użytowników. W załączniku widok okna z nieaktywnymi  przyciskami. Może to problem iż użytkowników jest aż 41 i jest limit. Pozdrawiam JK.";2.00;0.00;0.00;0.00;0.00;1.00
+945;"Czyli nie przesłano - nie znaczy że zadanie ode mnie nie zostało przesłane, a to że go nie wyświetlił - dziwne, bo kolega twierdził że mu się nie wyświetla żadne zadanie.";0.50;0.00;0.50;0.00;0.00;2.00
+946;"Tablica jest dostępna podczas spotkania video pod ikonką udostępniania ekranu. Należy wybrać opcję udostępnij ekran i z listy ""ekranów"" wybrać whiteboard. Czy o to chodziło? Pozdrawiam BB.";1.00;0.00;0.00;0.00;0.00;0.00
+947;Przy nowym pliku też nie ma blokowania. Dziś wywieszam filmy na OneDrive i sprawdziłam. ;0.00;0.00;0.00;0.00;0.00;1.00
+948;Link powinien zadziałać. Proszę o przesłanie linku. Sprawdzimy. W jakim trybie prowadziła Pani szkolenie?;1.00;2.00;0.00;0.00;0.00;0.00
+949;"W takim razie proszę o zaplanowanie spotkanie między Panią, użytkownika z problemem i ze mną.  Zobaczymy przez udostępniony pulpit co może być przyczyną. Pozdrawiam JK.";2.00;0.00;0.00;0.00;0.00;0.00
+950;"Dzień dobry, wszystkie kwestie zostały wyjaśnione mailowo. Zamykam zgłoszenie i po skompletowaniu Wniosku i Zamówienia zachęcam do złożenia Zamówienia. Pozdrawiam AA.";1.00;1.00;0.00;0.00;0.00;0.00
+951;"Andrzeju, przypisałam do Ciebie zgodnie z sugestią. Pozdrawiam BB.";0.00;0.00;0.00;0.00;1.00;1.00
+952;W chwil obecnej można wprowadzić nowe dane pracownika nawet jeśli stanowisko pozostaje to samo a zmienia się jedynie status.;1.67;0.00;1.00;1.00;0.33;0.67
+953;"Dziękuję za informację, ale dla Pana Kowalskiego muszę zmienić tylko stawkę bo status i stanowisko zostaje to samo i tego już nie chce mi przyjąć";1.00;0.00;0.00;0.00;0.00;0.00
+954;Darku jak piszesz że potrzebujesz wsparcia to proszę napisz dokładnie jakiego i od kogo. Czy w tym przypadku istniejącą procedura jest niewystarczająca?Opisz problem a chętnie pomożemy.;0.00;0.00;0.00;0.00;2.00;2.00
+955;"Pracuję na miejscu w budynku, koleżanki w tym samym budynku, jedna w pokoju po przeciwnej stronie dwie na parterze.";1.00;0.00;0.00;0.00;0.00;0.00
+956;"Krzysztof prośba o poradę. Czy przedstawiony problem de facto omawia pewnego rodzaju forward poczty? Jeżeli tak to wiem, że ta opcja nie jest dostępna dla naszych użytkowników. Pozdrawiam BB.";1.00;0.50;0.50;0.00;1.00;0.50
+957;"Dzień dobry, jako że moja rola w tej sprawie jest czysto organizacyjna, dołączam się do prośby o wsparcie przez zespoły merytoryczne.  Marcin";2.00;0.00;0.00;0.00;0.00;0.00
+958;Dzień dobry. Dziekuje bardzo za odpowiedź. W takim razie czekam na informacje związane z terminem kolejnego szkolenia. Pozdrawiam JK.;0.00;2.00;0.00;0.00;0.00;1.00
+959;"Poprawione. Jeśli w przyszłości będą u kogoś występować tego typu rozbieżności wystarczy ponownie zapisać dane pracownika, wóczas zostanie zauktualizowane rozliczenie.";1.00;0.00;0.00;0.00;1.00;1.00
+960;"Konrad, a może ty mnie poratujesz? Na 99,9% dla mnie to forward, ale wolę się upewnić. Pozdrawiam AA.";1.00;0.75;0.00;1.25;0.50;1.25
+961;"Widzę, że sprawa od pewnego czasu nie jest ruszana. Czy coś się tu jeszcze będzie działo, czy zamykamy zgłoszenie?";0.00;0.00;0.00;0.00;0.00;1.00
+962;"Dzień dobry, widzę, że ostatnia aktualizacje tej sprawy miała miejsce tydzień temu. Czy są wymagane dalsze działania ze strony zespołu realizującego ZTN, czy będziemy mogli zgłoszenie zamknąć?";1.00;0.00;2.00;0.00;1.00;1.00
+963;OK. Dziękuję za wyjaśnienie. Czyli tylko wykład bez możliwośći inerakcji ze słuchaczami. Pozdrawiam BB.;0.00;1.00;1.00;2.00;0.00;1.00
+964;"Panowie, np sprawa jakby utknęła... Czy użytkownik dostał od Was jakąś odpowiedź lub poradę – może innym kanałem? Będzie kontynuacja, czy zamykamy?";0.00;0.00;2.00;2.00;1.00;1.00
+965;"Choć faktycznie okno wyboru członków grup można by lepiej wystylować. Chociaż nieważne, jest dobrze - zależy od szerokości okna przeglądarki, widoczności bloków, itp.";0.00;0.50;1.50;0.50;0.00;1.50
+966;"Szanowni Państwo, ja zrobiłem dokładnie to co Pan napisał - efekt jest przedstawiony na dostarczonym Państwu zdjęciu, tak więc problem nie jest rozwiązany";2.00;0.00;1.00;0.00;1.00;0.00
+967;Czy dokument który Pani edytuje nie był wcześniej komuś udostępniony? Pozdrawiam JK.;1.00;0.00;1.00;0.00;1.00;0.00
+968;Wszyscy mamy taką samą pojemność kont. Pani nie wysłała zrzutu który by informował o braku miejsca na koncie. Nie mamy jak pomóc skoro nie wiemy tak naprawdę z jakim problemem Pani się zmaga.;1.00;0.00;1.00;2.00;1.00;1.00
+969;"Może by tak poprosić o jakiekolwiek informacje w rodzaju adresów IP w pracowni, systemów operacyjnych jakie tam są, fizycznej lokalizacji....";0.33;0.00;0.33;0.33;0.33;0.33
+970;"Proszę o podanie adresów IP w pracowni, systemów operacyjnych jakie tam są oraz fizycznej lokalizacji. Proszę również o nr. telefonu do Pani";2.00;0.00;1.00;0.00;1.00;1.00
+971;"Panowie, proszę o poprowadzenie sprawy albo informację, co powinniśmy zrobić.";0.00;0.00;0.00;1.00;0.00;0.00
+972;Chyba najszybciej będzie skonfrontować problem poprzez Teamsy. Możemy się połączyć? Pozdrawiam JK.;1.00;0.00;2.00;1.00;0.00;1.00
+973;"Zgadza się, whiteboard działa tylko na czatach grupowych. Założyłam, że o to Pani pytała z uwagi na wspomnianą pracę grupową pracowników. Zamykam zgłoszenie. Dziękuję. Pozdrawiam BB.";1.00;1.00;0.00;0.00;0.00;2.00
+974;"Dzień dobry, docierają do nas informacje, że działania związane z tym systemem są w toku. Czekamy na dalsze sygmały od administratorów.";2.00;0.00;0.00;0.00;0.00;0.00
+975;"Tak jak było ujęte w artykule, niestety pliki video nie mają tej funkcjonalności. W takim razie zamykam zgłoszenie. Dziękuję serdecznie za skorzystanie z naszej pomocy. Pozdrawiam AA.";1.50;0.50;1.50;0.50;0.50;0.75
+976;"Dzień dobry. Nie uważam że problem leży po stronie mojego łącza. Korzystam z internetu kablowego TOYA. Zauważyłam ten problem już wcześniej, o różnych porach dnia. Jednak ostatnio ( w środę rano) przybrał on na sile. ";2.00;0.00;1.00;0.00;1.00;0.00
+977;"Tak oczywiście, może być jeszcze sytuacja że Pana dostawca Internetu blokuje tą usługę. Proszę spróbować jeszcze użyć OpenVPN";1.00;0.00;0.00;0.00;0.00;1.00
+978;"Jest po staremu. Zajrzałam do wspomnianego artykułu, ale nic nowego nie udało mi się zrobić.";0.00;0.00;1.00;0.00;1.00;0.00
+979;"Dziękuję, tym razem otwiera mi się już właściwe okno, to które Pan wskazał - udało mi się skojarzyć pomyślnie efekty, pozdrawiam JK.";2.00;1.00;0.00;0.00;0.00;0.00
+980;Zamknąłem nie to chciałem - mój błąd. Nadal praca w toku;0.00;2.00;1.00;0.00;2.00;2.00
+981;"Pliki zostały wgrane, można zmniejszyć limit. Tak jak pisałem wczoraj, poproszę o ponowne zwiększenie limitu w przyszły wtorek. Dziękuję i pozdrawiam ";0.00;0.00;0.00;0.00;0.00;0.00
+982;"Czy sprawa będzie obsługiwana? Może użytkownik już nie potrzebuje pomocy? Ale jeśli tak, to proszę o podjęcie działań.";1.00;0.00;0.00;0.00;2.00;1.00
+983;"Łukasz, Rafał, proszę o wyjaśnienie, czy podane w waszej instrukcji źródła instalacyjne są bezpieczne? Pozdrawiam AA.";0.00;0.00;0.00;1.00;0.00;0.00
+984;"Dziękuje bardzo. Brakowało mi tej informacji, że mam filmu szukać w zakładce ""Moja zawartość"". Tam jest oczywiście opcja ""pobierz"". Dziękuję i pozdrawiam JK.";2.00;1.00;0.00;0.00;0.00;1.00
+985;"Aktualizacja dziala tylko teraz mam problem z logowaniem. Po wlozeniu karty do czytnika wprowadzam haslo, po czym po dluzszej chwili wyswietla sie komunikat (plik w zalaczeniu).";0.00;0.00;0.00;0.00;0.00;1.00
+986;"Albo ma Pan zdefiniowane jakieś reguły, które mają powtarzające się warunki. Chyba że teraz po zmianie czasu jest wszystko ok? Pozdrawiam BB.";1.00;0.00;1.00;0.50;0.00;0.00
+987;"Niestety założenie hasła nie pomogło. Czy w związku z tym, iż sprawa się przedłuża, możemy liczyć, że ktoś od Państwa pojawi się u nas fizycznie w biurze i pomoże uruchomić usługę pulpitu zdalnego?";2.00;0.00;1.00;0.00;0.00;0.00
+988;"Dziękuję za pomoc i wyjaśnienie sytuacji - skorzystam z pewnością w przyszłości. Pozdrawiam i życzę udanego, zdrowego weekendu. JK.";2.00;1.00;0.00;0.00;0.00;0.00
+989;Z przeprowadzonych w tym tygodniu testów nie udało nam się znaleźć rozwiązania Pana problemu. PozdrawiamJ Jan Kowalski.;2.00;0.00;0.67;0.00;0.00;0.00
+990;Peter dodaj chłopaków niech szukają od strony administracyjnej. Może to była prywatna grupa? Pozdrawiam AA.;0.00;0.00;0.00;0.00;0.00;2.00
+991;"Cześć Grzesiek. Widocznie moje uprawnienia nie pozwalały żeby tej usuniętej grupy zobaczyć, chociaż inne widzę. ";0.00;0.00;1.00;0.00;0.00;0.00
+992;Właściciel zespołu może nim zarządzać w pełni. Czy te wyjaśnienia wyczerpują temat?;0.00;0.00;0.00;0.00;1.00;0.00
+993;"Zwracam honor. Nie zrozumiałem, że ""wszystko"" to zarówno 1. jak i 2. Czyli super. Życzę spokojnej i udanej pracy!Pozdrawiam, JK.";1.00;0.00;1.00;0.50;0.50;0.00
+994;Dzięki ale moje pytanie dotyczyło sytuacji gdy nie tworzy się spotkania w kalendarzu a po prostu rozpoczyna spotkanie z TEAMSów;0.00;0.00;0.00;0.00;0.00;0.00
+995;"To są kanały prywatne, a tylko publiczne mają tą możliwość. Pozdrawiam BB.";1.00;0.00;0.00;0.00;0.00;0.00
+996;"Dzień dobry, proponuję konsultacje za pośrednictwem usługi Teams w dniu dzisiejszym o godzinie 13:00. Proszę o potwierdzenie chęci uczestnictwa. Pozdrawiam AA.";2.00;1.00;0.00;1.00;0.00;0.00
+997;"Dziękuję za super szybką odpowiedź. Dodatkowe pytanie: Mam konto w MathWorks, czy muszę zakładać  do tegoż MATLABA nowe (chyba nie? bo duplikuje się adres służbowy). ";0.00;0.00;0.00;0.00;0.00;1.00
+998;"Michale i Jacku, czy możecie nam przybliżyć jak macie skonfigurowaną sieć dla pracowni? Pozdrawiam AA.";0.00;0.00;0.00;1.00;0.00;2.00
+999;"Paweł, czy chłopaki naprawili  telefony? Niestety nie otrzymałam żadnej zwrotki. Pozdrawiam JK.";0.33;0.33;1.67;1.00;0.33;0.67
+1000;"Najszybsza odpowiedź jest taka, że niestety taka osoba nie może prowadzić prezentacji. Naradzamy się jeszcze w gronie współpracowników, czy ktoś nie zna rozwiązania tej kwestii, ale póki co bez efektu...";1.00;0.00;2.00;1.00;0.00;0.00
