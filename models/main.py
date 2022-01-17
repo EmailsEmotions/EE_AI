@@ -15,10 +15,9 @@ texts = pd.read_csv("texts.csv", sep=';', usecols=['text', 'formal'])
 
 texts['formal'] = texts['formal'].div(2.0)
 
-texts_for_ml = pd.DataFrame()
+texts_vectors = pd.DataFrame()
 for index, text in texts.iterrows():
-
-    print(text['text'])
+    print("Generating word vectors from texts:  " + str(index) + " / " + str(len(texts.index)))
 
     text['text'] = text['text'].lower()
     text['text'] = text['text'].translate(str.maketrans('', '', '1234567890'))
@@ -33,8 +32,6 @@ for index, text in texts.iterrows():
             if stemmed_word is not None and stemmed_word not in stop_words:
                 stemmed_words.append(stemmed_word)
 
-    print(stemmed_words)
-
     word_vectors = pd.DataFrame()
     for word in stemmed_words:
         try:
@@ -43,11 +40,9 @@ for index, text in texts.iterrows():
         except KeyError:
             pass
 
-    print(word_vectors)
-    print(word_vectors.mean())
+    texts_vectors = texts_vectors.append(word_vectors.mean(), ignore_index=True)
 
-    texts_for_ml['text_vector'] = texts_for_ml.append(word_vectors.mean(), ignore_index=True)
-    texts_for_ml['formality'] = text['formal']
+    print(texts_vectors)
 
-    print(texts_for_ml)
-
+texts_vectors['formality'] = texts['formal']
+print(texts_vectors)
