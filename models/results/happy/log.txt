@@ -1,0 +1,37 @@
+ada = AdaBoostClassifier(n_estimators=1000)
+decision_tree = DecisionTreeClassifier(min_samples_split=5, min_samples_leaf=2)
+random_forest = RandomForestClassifier(min_samples_split=5, min_samples_leaf=2)
+
+=============================
+Ada Boost Classifier
+Train ACC: 0.8244444444444444
+[[576  53   0]
+ [105 109   0]
+ [  0   0  57]]
+Test ACC: 0.57
+[[52 16  0]
+ [20  5  0]
+ [ 4  3  0]]
+
+=============================
+Decision Tree Classifier
+Train ACC: 0.9511111111111111
+[[618   7   4]
+ [ 15 197   2]
+ [ 12   4  41]]
+Test ACC: 0.53
+[[42 21  5]
+ [ 9 11  5]
+ [ 5  2  0]]
+
+=============================
+Random Forest Classifier
+Train ACC: 0.9888888888888889
+[[629   0   0]
+ [  0 214   0]
+ [ 10   0  47]]
+Test ACC: 0.72
+[[66  2  0]
+ [19  6  0]
+ [ 6  1  0]]
+
