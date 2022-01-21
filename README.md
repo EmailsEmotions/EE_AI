@@ -18,9 +18,14 @@ Windows
 ```command-line
 > venv\Scripts\activate
 ```
-## Install Flask and Eureka Client
+## Install Flask, Eureka Client and other libraries
 ```shell
 pip3 install -r requirements.txt
+```
+## Download and unpack polish embeddings to main directory of AI module
+Linux
+```shell
+wget -c "https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.pl.300.vec.gz"
 ```
 ## Run app locally
 ```shell
