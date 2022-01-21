@@ -13,11 +13,13 @@ from stop_words import get_stop_words
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
-your_rest_server_port = 80
+eureka_server = "http://discovery-server:8761/eureka/,http://0.0.0.0:8761/eureka,http://host.docker.internal:8761/eureka,http://localhost:8761/eureka,http://127.0.0.1:8761/eureka,http://172.17.0.2:8761/eureka"
+# eureka_server = "http://localhost:8761/eureka/"
 # The flowing code will register your server to eureka server and also start to send heartbeat every 30 seconds
-eureka_client.init(eureka_server="http://discovery-server:8761/eureka/,http://0.0.0.0:8761/eureka,http://host.docker.internal:8761/eureka",
+eureka_client.init(eureka_server=eureka_server,
                    app_name="ai-service",
-                   instance_port=your_rest_server_port)
+                   instance_host="127.0.0.1",
+                   instance_port=5600)
 
 def prepare_text_for_learning(text):
     text = text.lower()
@@ -73,6 +75,10 @@ def formal_count():
         'formal': prediction[0],
         'informal': 2 - prediction[0]
     }
+    # response = {
+    #     'formal': 1,
+    #     'informal': 2 - 1
+    # }
     return jsonify(response)
 
 

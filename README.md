@@ -33,5 +33,5 @@ flask run --host=0.0.0.0 -p 5600
 ```
 ## Run app in single container
 ```shell
-docker build -t ai-docker . && docker run -p 5600:80 ai-docker
+docker build -t ai-docker . && docker run -p 5600:5600 ai-docker
 ```
