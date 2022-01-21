@@ -2,5 +2,5 @@ Formalność: Dzień dobry, mam problem z działaniem programu. Proszę o pomoc.
 Nieformlność: Bardzo fajnie. To elo.
 Szczęście: Bardzo dziękuję za odpowiedź. Bardzo mi państwo pomogliście. Pozdrawiam, Katarzyna Kowalska.
 Zaskoczenie: Okazało się, że brakuje certyfikatu pańskiej witrynie.
-Złość i zaskoczenie: Czy usunęliście już ten błąd? Nie wiem czemu on tak długo pozostał na produkcji. Maciek.
-Złość i smutek: Nie mogę sobie poradzić z tym błędem. Co mam z nim zrobić? Pozdrawiam, Andrzej Nowak.
+Zaskoczenie: Czy usunęliście już ten błąd? Nie wiem czemu on tak długo pozostał na produkcji. Maciek.
+Smutek: Nie mogę sobie poradzić z tym błędem. Co mam z nim zrobić? Pozdrawiam, Andrzej Nowak.

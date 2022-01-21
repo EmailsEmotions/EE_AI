@@ -13,12 +13,11 @@ from stop_words import get_stop_words
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
-
-# your_rest_server_port = 80
-# # The flowing code will register your server to eureka server and also start to send heartbeat every 30 seconds
-# eureka_client.init(eureka_server="http://discovery-server:8761/eureka/,http://0.0.0.0:8761/eureka,http://host.docker.internal:8761/eureka",
-#                    app_name="ai-service",
-#                    instance_port=your_rest_server_port)
+your_rest_server_port = 80
+# The flowing code will register your server to eureka server and also start to send heartbeat every 30 seconds
+eureka_client.init(eureka_server="http://discovery-server:8761/eureka/,http://0.0.0.0:8761/eureka,http://host.docker.internal:8761/eureka",
+                   app_name="ai-service",
+                   instance_port=your_rest_server_port)
 
 def prepare_text_for_learning(text):
     text = text.lower()
@@ -39,7 +38,6 @@ def prepare_text_for_learning(text):
         except KeyError:
             pass
 
-    print(word_vectors)
     return word_vectors.mean()
 
 
