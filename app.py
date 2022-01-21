@@ -8,17 +8,24 @@ from sklearn.ensemble import AdaBoostClassifier, RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 import pickle
+import os
 from stop_words import get_stop_words
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
+if os.environ.get('ENV', 0) == 'prod':
+    eureka_server = "http://discovery-server:8761/eureka/,http://0.0.0.0:8761/eureka,http://host.docker.internal:8761/eureka,http://localhost:8761/eureka,http://127.0.0.1:8761/eureka,http://172.17.0.2:8761/eureka"
+    instance_host="ai-service"
+    print('PRODUCTION MODE')
+else:
+    eureka_server = "http://localhost:8761/eureka/"
+    instance_host="127.0.0.1"
+    print('TEST MODE')
 
-eureka_server = "http://discovery-server:8761/eureka/,http://0.0.0.0:8761/eureka,http://host.docker.internal:8761/eureka,http://localhost:8761/eureka,http://127.0.0.1:8761/eureka,http://172.17.0.2:8761/eureka"
-# eureka_server = "http://localhost:8761/eureka/"
 # The flowing code will register your server to eureka server and also start to send heartbeat every 30 seconds
 eureka_client.init(eureka_server=eureka_server,
                    app_name="ai-service",
-                   instance_host="127.0.0.1",
+                   instance_host=instance_host,
                    instance_port=5600)
 
 def prepare_text_for_learning(text):
